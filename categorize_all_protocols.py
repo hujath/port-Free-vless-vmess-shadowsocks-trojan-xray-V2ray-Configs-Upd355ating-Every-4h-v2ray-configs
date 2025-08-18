@@ -39,10 +39,11 @@ RARE_PORT_THRESHOLD = 5 # Configs count threshold
 
 PREFERRED = ["VLESS", "VMESS", "TROJAN", "SS", "OTHER"]
 
+# CORRECT MARKERS FOR UPDATING README.md
 MARKERS = {
-    "stats": ("", ""),
-    "links": ("", ""),
-    "sources": ("", ""),
+    "stats": ("<!-- START-STATS -->", "<!-- END-STATS -->"),
+    "links": ("<!-- START-LINKS -->", "<!-- END-LINKS -->"),
+    "sources": ("<!-- START-SOURCES -->", "<!-- END-SOURCES -->"),
 }
 
 # ---------------- Helpers ----------------
@@ -281,7 +282,6 @@ try:
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme_text = f.read()
 
-    # --- DEBUGGING BLOCK START ---
     print("--- Checking for markers in README.md ---")
     for key, (start_marker, _) in MARKERS.items():
         if start_marker in readme_text:
@@ -289,7 +289,6 @@ try:
         else:
             print(f"  [FAILURE] Could NOT find '{start_marker}' for section '{key}'.")
     print("-----------------------------------------")
-    # --- DEBUGGING BLOCK END ---
 
     readme_text = re.sub(f"{re.escape(MARKERS['stats'][0])}.*?{re.escape(MARKERS['stats'][1])}", stats_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['links'][0])}.*?{re.escape(MARKERS['links'][1])}", links_block, readme_text, flags=re.S)
