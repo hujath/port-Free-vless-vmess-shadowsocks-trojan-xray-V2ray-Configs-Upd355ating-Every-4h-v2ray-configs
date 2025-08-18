@@ -19,7 +19,6 @@ vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none
 vless://9c41f9b2-a4c0-44df-aad7-3e8a00adab32@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://a3e32ed4-8fc3-4715-8df4-75139b996e66@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://ad7a2657-d45e-49f6-b206-72d402200b72@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://bb961a77-8562-4fd9-97ac-049fc8c53026@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://bbd97eee-5204-4773-b39a-6ec0ef235976@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🔥
 vless://ca9c98f8-9d27-43bc-8dfd-ede3efcc4cfc@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
