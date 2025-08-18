@@ -132,13 +132,9 @@ for name, url in SOURCES.items():
 total_fetched = len(all_items)
 print(f"Total fetched: {total_fetched}")
 
-# --- SANITY CHECK BLOCK ---
-# If no configs were fetched, stop the script with an error.
-# This prevents the action from succeeding silently with no data.
 if total_fetched == 0:
     print("\nERROR: No configs were fetched from any source. Aborting workflow.")
-    sys.exit(1) # Exit with a non-zero code to fail the GitHub Action
-# --- END SANITY CHECK BLOCK ---
+    sys.exit(1)
 
 print("Deduplicating and categorizing...")
 seen = set()
@@ -181,7 +177,6 @@ for group, links in port_links.items():
         target_dir = os.path.join(SUB_DIR, RARE_PORTS_SUBDIR)
     else:
         target_dir = SUB_DIR
-        
     filepath = os.path.join(target_dir, f"port_{safe_filename(group)}.txt")
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("\n".join(links))
@@ -208,7 +203,6 @@ for p in COMMON_PORTS:
             link_path = f"{SUB_DIR}/{RARE_PORTS_SUBDIR}/port_{p}.txt"
         else:
             link_path = f"{SUB_DIR}/port_{p}.txt"
-        
         link = f"[Sub Link]({RAW_URL_BASE}/{link_path})"
         port_table_rows.append([p, count, link])
 
@@ -237,10 +231,8 @@ if all_pp_entries:
     split_index = math.ceil(len(all_pp_entries) / 2.0)
     left_col = all_pp_entries[:split_index]
     right_col = all_pp_entries[split_index:]
-    
     left_table_html = create_pp_sub_table(left_col)
     right_table_html = create_pp_sub_table(right_col)
-
     pp_table_html = f"""
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="background-color: transparent;">
@@ -289,6 +281,16 @@ try:
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme_text = f.read()
 
+    # --- DEBUGGING BLOCK START ---
+    print("--- Checking for markers in README.md ---")
+    for key, (start_marker, _) in MARKERS.items():
+        if start_marker in readme_text:
+            print(f"  [SUCCESS] Found '{start_marker}' for section '{key}'.")
+        else:
+            print(f"  [FAILURE] Could NOT find '{start_marker}' for section '{key}'.")
+    print("-----------------------------------------")
+    # --- DEBUGGING BLOCK END ---
+
     readme_text = re.sub(f"{re.escape(MARKERS['stats'][0])}.*?{re.escape(MARKERS['stats'][1])}", stats_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['links'][0])}.*?{re.escape(MARKERS['links'][1])}", links_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['sources'][0])}.*?{re.escape(MARKERS['sources'][1])}", sources_block, readme_text, flags=re.S)
@@ -300,5 +302,7 @@ try:
 
 except FileNotFoundError:
     print(f"ERROR: {README_PATH} not found. Please create it using the provided template.")
+    sys.exit(1)
 except Exception as e:
     print(f"An error occurred while updating README: {e}")
+    sys.exit(1)
