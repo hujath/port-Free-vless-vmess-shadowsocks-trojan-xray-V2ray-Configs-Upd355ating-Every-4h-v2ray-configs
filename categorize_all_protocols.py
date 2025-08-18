@@ -10,7 +10,7 @@ import base64
 import json
 from urllib.parse import urlparse
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta # ADDED timedelta
 import math
 import shutil # For deleting directories
 import sys # For exiting with an error code
@@ -39,7 +39,6 @@ RARE_PORT_THRESHOLD = 5 # Configs count threshold
 
 PREFERRED = ["VLESS", "VMESS", "TROJAN", "SS", "OTHER"]
 
-# CORRECT MARKERS FOR UPDATING README.md
 MARKERS = {
     "stats": ("<!-- START-STATS -->", "<!-- END-STATS -->"),
     "links": ("<!-- START-LINKS -->", "<!-- END-LINKS -->"),
@@ -272,7 +271,13 @@ side_by_side_html = f"""
 </table>
 """
 
-now_ts = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+# --- CHANGED BLOCK START ---
+# Create a timezone for GMT+3:30 (Iran Standard Time)
+iran_tz = timezone(timedelta(hours=3, minutes=30))
+# Get current time in UTC and convert it to Iran's timezone
+now_ts = datetime.now(timezone.utc).astimezone(iran_tz).strftime("%Y-%m-%d %H:%M:%S GMT+3:30")
+# --- CHANGED BLOCK END ---
+
 stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_md}\n{MARKERS['stats'][1]}"
 links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_html}\n{MARKERS['links'][1]}"
 sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['sources'][1]}"
