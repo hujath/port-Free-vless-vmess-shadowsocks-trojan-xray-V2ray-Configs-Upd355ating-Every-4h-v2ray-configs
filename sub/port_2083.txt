@@ -1,13 +1,13 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6ImNjMmRhc2guODkwNjAwMDQueHl6IiwicG9ydCI6IjIwODMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2MyZGFzaC44OTA2MDAwNC54eXoiLCJ0bHMiOiJ0bHMifQ==
-trojan://Aimer@130.250.137.63:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US2
-trojan://Aimer@192.0.54.221:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US3
-trojan://Aimer@66.81.247.88:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US7
-trojan://Aimer@103.116.7.103:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A511
-trojan://Aimer@5.182.84.52:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A513
-trojan://Aimer@198.62.62.61:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US11
-trojan://Aimer@155.46.213.38:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US12
-trojan://Aimer@192.200.160.35:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US13
-trojan://Aimer@135.84.74.254:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US14
+trojan://Aimer@66.81.247.88:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US2
+trojan://Aimer@155.46.213.38:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US5
+trojan://Aimer@192.200.160.35:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US6
+trojan://Aimer@135.84.74.254:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US12
+trojan://Aimer@130.250.137.63:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US14
+trojan://Aimer@5.182.84.52:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A511
+trojan://Aimer@103.116.7.103:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A519
+trojan://Aimer@198.62.62.61:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US17
+trojan://Aimer@192.0.54.221:2083?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US19
 trojan://Aimer@103.116.7.103:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#JP_speednode_0078
 trojan://Aimer@5.182.84.52:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0185
 trojan://Aimer@66.81.247.88:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0300
@@ -84,7 +84,6 @@ vless://cdba0964-0fe1-41d7-811d-5cad35f500ec@c1.vact.ir:2083?type=ws&path=/Teleg
 vless://ddc3e913-1a01-4799-904e-74857e1f6bcf@104.16.99.2:2083?path=/8txC6vcYwM5SXbBE?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=o4dazjiswkk6qu8xqgj38y7h9qdhjlb1.ajanibrown-969.workers.dev&fp=chrome&type=ws&sni=o4dazjiswkk6qu8xqgj38y7h9qdhjlb1.ajanibrown-969.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.99.2:2083
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@Selinc
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#🇫🇮@FreakConfig
 vless://fab84a1b-1832-4f4e-ad95-4049ce54a9af@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=s1-join.kiava.live&fp=chrome&type=xhttp&sni=s1-join.kiava.live#@FILTERK0SH
