@@ -1,5 +1,4 @@
 vless://01c34306-f273-4dba-a451-55c444dd580c@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://12fd53ec-9184-41a0-8ab5-1910ad8d6e8d@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://134c1950-3e5d-4dd1-9c3d-790ce358e374@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+@Alfa_v2ray_ngربات+تست+رایگان
 vless://175fdc3a-2ae7-4705-b827-3160bcfebecd@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💌
 vless://175fdc3a-2ae7-4705-b827-3160bcfebecd@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💋
@@ -13,6 +12,7 @@ vless://7a8d449f-8f00-4b7b-8c87-f44af9898a57@167.99.216.10:45500?security=none&e
 vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+ایرانسل+و+همراه+Alfa_v2ray_ng@
 vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+ایرانسل+و+همراهAlfa_v2ray_ng@
 vless://9c41f9b2-a4c0-44df-aad7-3e8a00adab32@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
+vless://9c41f9b2-a4c0-44df-aad7-3e8a00adab32@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://a3e32ed4-8fc3-4715-8df4-75139b996e66@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://bb961a77-8562-4fd9-97ac-049fc8c53026@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
