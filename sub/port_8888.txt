@@ -43,6 +43,7 @@ vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&h
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@ELFV2RAY 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNGCLOUD🇩🇪 نیازمند فعال بودن ipv6
+vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#r♡ya@V2rayBaaz
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#✅ @manzariyeh_rasht  👈👈کانال ما
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#✅ @vistav2ray  👈👈کانال ما

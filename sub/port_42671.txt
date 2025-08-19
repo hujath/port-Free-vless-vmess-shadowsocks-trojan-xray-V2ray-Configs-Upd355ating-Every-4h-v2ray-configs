@@ -1,6 +1,5 @@
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
-vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@Viturey : تلگرام 🇺🇳
