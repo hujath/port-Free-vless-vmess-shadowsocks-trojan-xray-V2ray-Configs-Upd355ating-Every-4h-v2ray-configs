@@ -4,5 +4,3 @@ vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?security=none&
 vless://7028cb85-9611-4876-bb19-e15fa050b253@172.234.31.253:2321?security=none&encryption=none&headerType=none&type=tcp#All@configfu-35
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp#⚜️Telegram: @IP_CF
 vless://b6e8ccd3-aa5d-4a7a-98ec-79d2938ebf16@172.236.241.237:2321?security=none&encryption=none&headerType=none&type=tcp#🇺🇲@Freakconfig
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B26%5D
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
