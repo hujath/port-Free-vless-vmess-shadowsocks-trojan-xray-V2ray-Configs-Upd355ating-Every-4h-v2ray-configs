@@ -1,1 +1,2 @@
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&security=tls&encryption=none&type=grpc&sni=servers.xvon.in#@EXPRESSVPN_420
+vless://ae110a62-fa2b-455b-b620-1e85dbdf870a@185.49.105.233:5000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Cyber_Ta 🌐
