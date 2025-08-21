@@ -7,14 +7,11 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?security=none&
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&headerType=none&security=none#
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&headerType=none&security=none#v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون ♥️
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🦠
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 👿
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-31
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-32
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&headerType=none&security=none#🇩🇪All²%@G0dV2RAY
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&headerType=none&security=none#🇩🇪All²|v2ray_cartel
@@ -26,7 +23,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&e
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-33
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
@@ -36,10 +32,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encrypti
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:@v2rayng_fars]
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#🟢 جوین بده کانکت بمونی: @STAPersiaNews
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy 🔥
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫀
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫵🏻
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#@configfu
