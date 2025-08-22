@@ -1,2 +1,3 @@
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
+vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@nim1.abrarvan.io:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vmess://eyJhZGQiOiIyMTcuMTE0LjQwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4N2VlZDY2LWQ1OTctNGVmZC1hYmUxLWE5NzUxMWJkNzI5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTA5MCIsInBzIjoiQFVDSVJBTklSIC0gQHByX3ZwbiAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
