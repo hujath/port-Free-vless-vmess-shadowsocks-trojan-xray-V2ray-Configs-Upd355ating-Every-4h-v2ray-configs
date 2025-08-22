@@ -1,2 +1,2 @@
-vless://9fc7d4dd-8173-4597-a79d-6d81981acd57@95.38.210.142:35021?security=none&type=tcp&headerType=&path=&host=#Telegram:@config_proxy 🔥
+vless://132b4ff6-c0fe-4dec-875d-d3aaa174a1b2@37.32.6.8:35021?security=none&type=tcp&headerType=http&path=/&host=skyroom.online#Telegram:@config_proxy 🔥
 vless://cc340cb2-4093-4907-9135-a6599907c504@37.32.6.8:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥

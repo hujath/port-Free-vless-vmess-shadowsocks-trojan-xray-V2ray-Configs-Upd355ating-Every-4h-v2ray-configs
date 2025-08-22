@@ -1,3 +1,2 @@
-vless://50db31ba-2022-45ec-b475-58f331889160@162.55.188.221:1010?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#@CaV2ray ⚡️
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔 @EXPRESSVPN_420
