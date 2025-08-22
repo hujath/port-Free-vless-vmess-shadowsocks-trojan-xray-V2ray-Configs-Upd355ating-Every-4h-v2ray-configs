@@ -1,3 +1,3 @@
 vless://22deb07b-55b9-4f3e-96cc-df3e015d92c1@german.kalait.com.tr:19632?encryption=none&security=none&type=tcp&headerType=http&host=digiakla.com#@Daily_Configs
-vless://22deb07b-55b9-4f3e-96cc-df3e015d92c1@german.kalait.com.tr:19632?encryption=none&security=none&type=tcp&headerType=http&host=digiakla.com#Telegram:@config_proxy 🔥
+vless://efd6d128-a67a-46b3-9913-c25b402482f0@german.kalait.com.tr:19632?security=&encryption=none&host=digiakla.com&headerType=http&type=tcp#در صورت قطع شدن کانفیگ؛ Fast78_channel@ در تلگرام سرچ کنید
 vless://efd6d128-a67a-46b3-9913-c25b402482f0@german.kalait.com.tr:19632?security=none&encryption=none&host=digiakla.com&headerType=http&type=tcp#@Daily_Configs

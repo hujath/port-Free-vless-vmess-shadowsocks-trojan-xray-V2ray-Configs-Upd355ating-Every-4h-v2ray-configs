@@ -1,9 +1,7 @@
-trojan://ttfang@45.85.119.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096?security=tls&sni=ge1.pandaservice.info&type=ws&host=ge1.pandaservice.info&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096?security=tls&sni=ge1.pandaservice.info&type=ws&host=ge1.pandaservice.info&fp=chrome&alpn=h3,h2,http/1.1#t.me/entryNET/config=1841100986635114
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://ttfang@45.85.119.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-45.85.119.216-1044
 trojan://ttfang@5.10.214.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-5.10.214.216-0574
 trojan://ttfang@5.10.215.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-5.10.215.216-0575
 trojan://ttfang@5.10.244.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-5.10.244.216-0576
@@ -123,3 +121,4 @@ trojan://ttfang@103.116.7.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path
 trojan://ttfang@103.133.1.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-103.133.1.216-0690
 trojan://ttfang@103.169.142.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-103.169.142.216-0692
 trojan://ttfang@103.245.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-103.245.228.216-0693
+trojan://ttfang@45.85.119.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-45.85.119.216-1038
