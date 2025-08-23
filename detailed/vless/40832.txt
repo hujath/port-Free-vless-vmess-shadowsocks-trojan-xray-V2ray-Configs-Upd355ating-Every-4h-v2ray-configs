@@ -1,2 +1,2 @@
 vless://95790a02-2252-4be9-a103-0778dd0c078e@91.224.75.72:40832?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti : چنل کانفیگ
-vless://95790a02-2252-4be9-a103-0778dd0c078e@91.224.75.72:40832?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B15%5D
+vless://95790a02-2252-4be9-a103-0778dd0c078e@91.224.75.72:40832?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B14%5D
