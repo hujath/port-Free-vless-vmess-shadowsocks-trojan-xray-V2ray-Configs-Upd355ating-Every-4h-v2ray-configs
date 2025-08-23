@@ -21,7 +21,8 @@ trojan://cbacaab-cbaa-baac-badc-bccbcaacbbaa@127.0.0.1:1080?security=tls&type=tc
 vless://aacbcba-baac-cbaa-cbda-babccbaccaba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://ababacc-abca-abac-dbca-accacbbbabca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://abcabca-acba-acba-cadb-bcabacacbbca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://abcabca-acba-acba-cadb-bcabacacbbca@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
+vless://acaabcb-abac-bcaa-dbca-cbbccaaaabcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://acaabcb-abac-bcaa-dbca-cbbccaaaabcb@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://acbbcaa-caab-abac-abcd-ccbccbbabaaa@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhY2JjYWEtYmNhYS1hY2JhLWJjYWQtYWJiYmNhYWNhY2JjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhYWJjYWMtYmNhYS1hYWNiLWJhY2QtY2FhYmFiY2NjYmFiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
