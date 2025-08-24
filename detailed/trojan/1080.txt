@@ -1,4 +1,3 @@
 trojan://abcabca-acba-acba-cadb-bcabacacbbca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://acaabbc-aacb-abac-bcda-ccaabbbacbca@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://baaccab-baca-abca-badc-abbaacbbcacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://cbacaab-cbaa-baac-badc-bccbcaacbbaa@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
