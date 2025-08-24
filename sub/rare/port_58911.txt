@@ -1,2 +1,1 @@
-vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@94.182.83.105:58911/?encryption=none&flow=&host=bmw.com&type=tcp&headerType=http#Telegram:@config_proxy 🔥
 vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@srv.cactusdomain.site:58911?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
