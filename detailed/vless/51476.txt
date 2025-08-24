@@ -5,5 +5,4 @@ vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&
 vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@configfree20255
 vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💔🖤
-vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
-vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&type=tcp&headerType=none#t.me/entryNET/config=1841327667473724
+vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX

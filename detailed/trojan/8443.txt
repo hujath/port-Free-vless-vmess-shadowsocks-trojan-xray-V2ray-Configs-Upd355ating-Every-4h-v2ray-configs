@@ -1,21 +1,12 @@
-trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#Channel id: @ramgamevpn 🇨🇦
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
-trojan://27425750-5bf5-497b-92d4-16e67030e154@csgo.com:8443?security=tls&type=ws&host=speedtest.net #t.me/entryNET/config=1841331127421313
 trojan://27425750-5bf5-497b-92d4-16e67030e154@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://27425750-5bf5-497b-92d4-16e67030e154@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://27425750-5bf5-497b-92d4-16e67030e154@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
-trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#@Hope_Net-join-us-on-Telegram
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://76414574-71e0-4706-89cc-c5b09c13445d@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://76414574-71e0-4706-89cc-c5b09c13445d@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://76414574-71e0-4706-89cc-c5b09c13445d@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
-trojan://95c27cc4-82b5-45da-962e-ba675642fc3d@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
-trojan://95c27cc4-82b5-45da-962e-ba675642fc3d@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
-trojan://95c27cc4-82b5-45da-962e-ba675642fc3d@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://Aimer@199.34.228.178:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://Aimer@92.243.74.3:8443?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#[60834] - Telegram : @V2All
@@ -30,19 +21,19 @@ trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&secur
 trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#2@v2rayngsupbot
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1396
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-2420
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2442
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2511
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-2556
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.91.151-2578
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-112.218.196.26-2631
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2634
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.91.151-2636
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.2-2680
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.91.151-2792
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2831
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.20.245.139-2850
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.2-2853
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.103.230-2899
-trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8239
+trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1430
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-2453
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2475
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.203.14-2544
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.103.230-2589
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.2-2611
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-112.218.196.26-2664
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.91.151-2667
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2669
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.203.14-2713
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2825
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-2864
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.91.151-2883
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2886
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.2-2932
+trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8267

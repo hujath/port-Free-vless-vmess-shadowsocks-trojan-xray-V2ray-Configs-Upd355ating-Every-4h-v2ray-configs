@@ -1,3 +1,2 @@
 trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&headerType=none&type=tcp&sni=sws.ftpcomand.com#🇨🇭@FreakConfig
 vmess://eyJhZGQiOiJwM20uZmFzdHYyLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaDIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE0ZTAyNWU0LTdlNWEtNGIzNC1hZTJhLWUyODM5OTE2Yzg0OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJDeWJlcl9UYeKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiJwM20uZmFzdHYyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?security=tls&sni=sws.ftpcomand.com#%F0%9F%87%A8%F0%9F%87%ADCH-45.155.54.117-0352

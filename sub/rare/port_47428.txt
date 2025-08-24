@@ -1,2 +1,1 @@
-trojan://xOWvsJYC58@91.99.234.241:47428?mode=auto&path=/&security=none&type=xhttp#8888-ramgamevpn
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=/&security=none&encryption=none&type=ws#@V2rayNG3

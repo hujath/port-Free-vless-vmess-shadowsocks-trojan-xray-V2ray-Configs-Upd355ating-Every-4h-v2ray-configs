@@ -1,2 +1,4 @@
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275/?type=ws&encryption=none&flow=&host=ula347.tiri-viri.com&path=/&security=tls&sni=ula347.tiri-viri.com&fp=chrome#Telegram:@config_proxy 🔥
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275/?type=ws&encryption=none&host=ula347.tiri-viri.com&path=/&security=tls&sni=ula347.tiri-viri.com&fp=chrome#Telegram:@config_proxy 🔥
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?security=tls&sni=ula347.tiri-viri.com&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#qol_042
