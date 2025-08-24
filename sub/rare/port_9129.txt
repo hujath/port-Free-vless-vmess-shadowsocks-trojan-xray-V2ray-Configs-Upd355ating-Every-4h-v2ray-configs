@@ -1,2 +1,1 @@
 vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.207.59:9129?sni=2332092332.torob.com.tr&type=tcp&host=speedtest.net&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.95.151:9129?sni=2332092332.torob.com.tr&type=tcp&host=speedtest.net&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
