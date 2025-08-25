@@ -1,2 +1,0 @@
-vless://7f5d3dc1-07c2-4d3b-a6e1-9ffa28213008@f2.teloxy.my.id:504?security=&encryption=none&host=iranserver.com.teloxy.my.id&headerType=http&type=tcp#PeeknetVPN-11819
-vless://7f5d3dc1-07c2-4d3b-a6e1-9ffa28213008@f2.teloxy.my.id:504?type=tcp&security=none&headerType=http&path=/&host=iranserver.com.teloxy.my.id#PeeknetVPN-11819
