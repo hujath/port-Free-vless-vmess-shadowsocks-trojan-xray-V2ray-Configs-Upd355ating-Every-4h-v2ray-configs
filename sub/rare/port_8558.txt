@@ -1,2 +1,3 @@
+vless://2997e341-1384-474b-89ca-ea0e4458ce42@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥
 vless://6454effd-32ef-4745-aec3-f66cb820c726@91.99.18.180:8558?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
