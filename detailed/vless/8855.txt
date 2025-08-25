@@ -1,4 +1,3 @@
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Daily_Configs
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
 vless://8ee1ace7-d1f3-4f98-b229-e5450702253f@download.record-point.com.au:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇷🇺]t.me/ConfigsHub
