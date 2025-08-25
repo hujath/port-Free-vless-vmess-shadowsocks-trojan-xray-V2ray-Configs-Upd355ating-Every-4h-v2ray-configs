@@ -1,3 +1,2 @@
 vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@srv.cactusdomain.site:58911?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
-vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@srv.cactusdomain.site:58911?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@srv.cactusdomain.site:58911?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#t.me/entryNET/config=1841379697359644
