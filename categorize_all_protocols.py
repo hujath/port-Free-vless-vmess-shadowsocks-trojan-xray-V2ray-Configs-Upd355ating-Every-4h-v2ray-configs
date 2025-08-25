@@ -22,6 +22,10 @@ SOURCES = {
     "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
+    "MatinGhanbari": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
+    "ConfigForge-V2Ray": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt",
+
+
 }
 
 # GitHub repository details for raw links
