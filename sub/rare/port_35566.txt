@@ -1,1 +1,2 @@
+vless://33f4136e-3476-4e23-96b3-4570c90495ce@51.161.80.44:35566?security=&type=ws&path=/Shatak/&host=soft98.ir&encryption=none
 vless://33f4136e-3476-4e23-96b3-4570c90495ce@51.161.80.44:35566?type=ws&path=%2FShatak%2F&host=soft98.ir&security=none#%F0%9F%87%A8%F0%9F%87%A6-ShatakVPN
