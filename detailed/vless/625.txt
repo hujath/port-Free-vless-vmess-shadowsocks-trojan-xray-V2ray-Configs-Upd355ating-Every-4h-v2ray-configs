@@ -1,2 +1,3 @@
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@usa.amirconfigpanelllll.com:625?allowInsecure=0&sni=zhaket.com#US_speednode_0096
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@germany1.amirconfigpanelllll.com:625?encryption=none&security=none&type=tcp&headerType=http&host=zhaket.com#@Daily_Configs
+vless://2197f2f3-7634-4609-a525-7361b1d4782d@usa.amirconfigpanelllll.com:625?encryption=none&security=none&type=tcp&headerType=http&host=zhaket.com#Telegram:@config_proxy 🔥

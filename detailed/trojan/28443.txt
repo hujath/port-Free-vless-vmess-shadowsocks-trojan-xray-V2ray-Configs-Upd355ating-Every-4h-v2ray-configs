@@ -30,3 +30,4 @@ trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&s
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@144.24.69.60:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.69.60-0002
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@144.24.90.94:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.90.94-0001
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@85.90.246.11:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-85.90.246.11-0000
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#⚡ b2n.ir/v2ray-configs | 421

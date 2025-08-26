@@ -1,1 +1,2 @@
+vless://18ada603-dd03-4a0c-85e7-e63a09829766@91.99.210.3:47058?security=none&type=tcp&path=/Shatak/&headerType=http&host=soft98.ir&packetEncoding=xudp&encryption=none#Telegram:@config_proxy 💢
 vless://18ada603-dd03-4a0c-85e7-e63a09829766@91.99.210.3:47058?security=none&type=tcp&path=/Shatak/&headerType=http&host=soft98.ir&packetEncoding=xudp&encryption=none#ShatakVPN
