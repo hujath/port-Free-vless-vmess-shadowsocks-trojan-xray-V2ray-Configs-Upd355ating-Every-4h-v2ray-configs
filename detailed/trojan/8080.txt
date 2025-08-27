@@ -5,7 +5,4 @@ trojan://abbacac-cbaa-aabc-abcd-acbacbcbbcaa@127.0.0.1:8080?security=tls&type=tc
 trojan://abbacac-cbaa-aabc-abcd-acbacbcbbcaa@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1841569824530144
 trojan://abcacba-abca-baac-cdab-bccabacbbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://cbacbaa-acba-aacb-cabd-baaacbccbcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://cbacbaa-acba-aacb-cabd-baaacbccbcab@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://cbacbaa-acba-aacb-cabd-baaacbccbcab@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1841573599517526
-trojan://abbacac-baac-abca-abdc-caabbbbccaac@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-trojan://abbacac-cbaa-aabc-abcd-acbacbcbbcaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub

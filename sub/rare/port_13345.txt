@@ -1,2 +1,4 @@
+trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:13345?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:13345?allowInsecure=0&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:13345?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:13345?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
