@@ -3,4 +3,6 @@ trojan://JKVPN@79.137.195.203:8080?type=grpc&serviceName=/TELEGRAM_JKVPN-JKVPN-J
 trojan://abbacac-baac-abca-abdc-caabbbbccaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://abbacac-cbaa-aabc-abcd-acbacbcbbcaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://abcacba-abca-baac-cdab-bccabacbbaac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://abcbaac-abca-bcaa-bcad-bcbcabaaccab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://cababca-cbaa-caab-dbca-bbbcacccaaab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://cbacbaa-acba-aacb-cabd-baaacbccbcab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram

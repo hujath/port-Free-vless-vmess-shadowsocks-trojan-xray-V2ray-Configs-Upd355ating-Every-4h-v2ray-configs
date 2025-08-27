@@ -3,7 +3,6 @@ vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&e
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@TEHRANARGO
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@138.199.239.38:42671?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy 🔥
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel
@@ -39,7 +38,8 @@ vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&
 vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel
 vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel  ری اکشن یادت نره! 🥺   خرید کانفیگ پرسرعت
+vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram:@config_proxy 🔥
 vless://b34dd21a-a057-4295-95dc-373b1608279a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://b34dd21a-a057-4295-95dc-373b1608279a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://b34dd21a-a057-4295-95dc-373b1608279a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 😍
-vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40mehrosaboran%3A%3ADE
+vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@138.199.239.38:42671?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy 🔥
