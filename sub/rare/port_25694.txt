@@ -1,2 +1,1 @@
 vless://033fd5e6-ea16-4cb9-b41d-20417892d2c5@46.62.156.195:25694?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrdarc 🏴🏳
-vless://72a4c88d-8dc0-43e4-92fb-aac415e58b4d@46.62.156.195:25694?type=tcp&security=none#t.me/entryNET/config=1841545979654134

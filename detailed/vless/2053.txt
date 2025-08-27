@@ -43,7 +43,6 @@ vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?encryption=none&
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#@CaV2ray ⚡️
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@www.speedtest.net:2053?path=/Telegram-V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#@CaV2ray ⚡️
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Channel-@vmesskhodam
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.113.9:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.37:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.236:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.74:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#@Hope_Net-join-us-on-Telegram

@@ -1,0 +1,2 @@
+trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:8116?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:8116?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
