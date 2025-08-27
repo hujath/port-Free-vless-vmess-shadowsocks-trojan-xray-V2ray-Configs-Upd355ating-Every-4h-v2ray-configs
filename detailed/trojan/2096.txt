@@ -1,14 +1,10 @@
-trojan://ttfang@45.131.210.216:2096?sni=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
-trojan://ttfang@31.185.108.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A55
-trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://ttfang@25.25.25.216:2096?sni=ttfang.fange.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
-trojan://ttfang@86.38.214.216:2096?sni=ttfang.fange.me#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B2
+trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A56
 trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#LT_speednode_0040
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=internet4everieone7.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://SSorg@135.84.64.77:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#[60944] - Telegram : @V2All
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=Telegram#@Daily_Configs
+trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@Daily_Configs
 trojan://ttfang@89.116.46.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#t.me/entryNET/config=1841590083305972
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇳🇱@FreakConfig
@@ -143,9 +139,8 @@ trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&pat
 trojan://ttfang@45.131.7.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-45.131.7.216-1052
 trojan://ttfang@45.159.219.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-45.159.219.216-1053
 trojan://ttfang@45.159.216.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-45.159.216.216-1088
-trojan://ttfang@88.216.67.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 213
-trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 794
-trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 246
-trojan://ttfang@45.85.119.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 779
-trojan://ttfang@ttfang.fange.me:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 554
-trojan://ttfang@86.38.214.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=/TelegramU0001F1E8U0001F1F3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 257
+trojan://ttfang@50.62.173.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 86
+trojan://ttfang@14.102.229.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 599
+trojan://ttfang@89.116.46.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 283
+trojan://ttfang@45.146.201.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 246
+trojan://ttfang@91.124.127.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 294

@@ -1,1 +1,2 @@
 vless://86750164-55e7-46a7-a7e6-c0eb9a2f7239@iranvipen.1dlkimi.ir:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇬🇧@FreakConfig
+vless://b65203ca-07e6-4c73-91fc-e213eb185272@188.245.39.111:248?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#Telegram:@config_proxy 🔥

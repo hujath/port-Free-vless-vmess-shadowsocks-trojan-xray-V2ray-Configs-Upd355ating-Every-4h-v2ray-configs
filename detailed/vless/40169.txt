@@ -1,0 +1,1 @@
+vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@107.172.235.9:40169?encryption=none&security=tls&sni=AB.ac&allowInsecure=1&type=grpc&authority=&serviceName=GunSffffervice&mode=gun#Telegram:@config_proxy 🔥

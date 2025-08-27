@@ -1,0 +1,1 @@
+vless://037e5ff3-2689-4f18-939f-cf5236c22b98@37.123.192.18:22693?encryption=none&security=tls&sni=fr.alice.cloudns.pro&type=ws&host=fr.alice.cloudns.pro&path=/iloveyou#Telegram:@config_proxy 🔥

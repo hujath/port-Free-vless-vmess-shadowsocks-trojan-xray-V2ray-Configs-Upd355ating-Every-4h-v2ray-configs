@@ -1,12 +1,7 @@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=G9j2KeHn0E.gItI5.oRg&type=ws&host=G9j2KeHn0E.gItI5.oRg&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=%2F%3Fed#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-trojan://ttfang@45.131.210.216:2096?sni=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
-trojan://ttfang@31.185.108.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A55
-trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://ttfang@25.25.25.216:2096?sni=ttfang.fange.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
-trojan://ttfang@86.38.214.216:2096?sni=ttfang.fange.me#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B2
+trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A56
 trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#LT_speednode_0040
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
@@ -20,6 +15,7 @@ trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&typ
 trojan://SSorg@135.84.64.77:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#[60944] - Telegram : @V2All
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=Telegram#@Daily_Configs
+trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@Daily_Configs
 trojan://ttfang@89.116.46.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#t.me/entryNET/config=1841590083305972
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇳🇱@FreakConfig
@@ -78,6 +74,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2rayng_fars
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel-@vmesskhodam
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram:@zede_filteri
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#→ @Hddify 🌧️
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#→ @Hddify 🪓
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇵v2rayng (FR)🔐-confegraigan
@@ -126,7 +123,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.speedtest.net:2096?path=V2RAYNG
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=/#@Golestan_VPN - JOIN
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=KtT44fPtXh.DaStAtSaRd.OrG&type=ws&host=KtT44fPtXh.DaStAtSaRd.OrG&path=/#@Golestan_VPN - JOIN
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#hmrah@vmesskhodam
-vless://376734bc-4db8-4317-b451-af0262cb01c7@104.26.13.38:2096?encryption=none&security=tls&sni=inVINCIble.fAFA20.Shop&alpn=http/1.1&type=ws&host=invincible.fafa20.shop&path=/yRVRnY2jDtjg67UV/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=#Telegram:@config_proxy 🔥
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f4.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#@v2rayng_fars
@@ -246,6 +242,7 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=LzHeTzMuDm.GiTi3.OrG&fp=chrome&type=ws&sni=LzHeTzMuDm.GiTi3.OrG#🇳🇱@FreakConfig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?type=ws&host=LzHeTzMuDm.GiTi3.OrG&path=/&security=tls&fp=chrome&sni=LzHeTzMuDm.GiTi3.OrG#@V2ray_cartel
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=2J3e3G15lI.lIrA0xC8.iNfO&type=ws&host=2J3e3G15lI.lIrA0xC8.iNfO&path=/#Telegram:@config_proxy 🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#@NpvV2rayFilTer
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#All-@IRAN_V2RAY1
@@ -258,7 +255,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#[🇺🇸]ae_proxy
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=BbV6mQ1p5B.wAsAbI9890.oRg&fp=chrome&type=ws&sni=BbV6mQ1p5B.wAsAbI9890.oRg#Channel id: @ShadowProxy66 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=BbV6mQ1p5B.wAsAbI9890.oRg&fp=chrome&type=ws&sni=BbV6mQ1p5B.wAsAbI9890.oRg#Channel id: @proxy_kafee 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=BbV6mQ1p5B.wAsAbI9890.oRg&fp=chrome&type=ws&sni=BbV6mQ1p5B.wAsAbI9890.oRg#haniye
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=DdYq09McXz.LiRa0X.iNfO&fp=chrome&type=ws&sni=DdYq09McXz.LiRa0X.iNfO#Channel : @Mrdarc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#Channel id: @@proxy_kafee 🇺🇸
@@ -268,16 +264,13 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#🇳🇱@confugfree20255
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @@proxy_kafee 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @ShadowProxy66 🇬🇧
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#r♡ya
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#🇺🇲@FreakConfig
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=PpX1vZ1mY0.fRoZiA.iNfO&fp=chrome&type=ws&sni=PpX1vZ1mY0.fRoZiA.iNfO#@proxy_kafee🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=Sw5S1b8DkB.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=Sw5S1b8DkB.lIrA9xC7.iNfO#Channel id: @@proxy_kafee 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=Sw5S1b8DkB.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=Sw5S1b8DkB.lIrA9xC7.iNfO#Channel id: @ShadowProxy66 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=2J3e3G15lI.lIrA0xC8.iNfO&type=ws&sni=2J3e3G15lI.lIrA0xC8.iNfO#Channel id: @ShadowProxy66 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#@v2rayng_fars
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&type=ws&host=J1oG84r7Qf.WaSaBi7890.OrG&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&alpn=h2,h3#[🇬🇧]t.me/ConfigsHub
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&type=ws&host=J1oG84r7Qf.WaSaBi7890.OrG&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&alpn=h2,h3#t.me/entryNET/config=1841584546828923
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&type=ws&host=J1oG84r7Qf.WaSaBi7890.OrG&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&alpn=h2,h3#[🇺🇸]t.me/ConfigsHub
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#Telegram : @Alfa_v2ray_ng 🔥
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#→ @Hddify 🚤
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -459,10 +452,8 @@ vmess://ewogICAgImFkZCI6ICI1MS43Ny4xNTguMTY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICIyMy4yMjcuNjAuMTg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLAogICAgIm5ldCI6ICJncnBjIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+PgVJFTEFZLTIzLjIyNy42MC4xODQtODE5MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJub25lIiwKICAgICJzZWN1cml0eSI6ICJub25lIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=%2Faucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#@meli_proxyy
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&type=ws&host=J1oG84r7Qf.WaSaBi7890.OrG&path=/&sni=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&alpn=h2,h3#[🇺🇸]t.me/ConfigsHub
-trojan://ttfang@88.216.67.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 213
-trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 794
-trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 246
-trojan://ttfang@45.85.119.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 779
-trojan://ttfang@ttfang.fange.me:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 554
-trojan://ttfang@86.38.214.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=/TelegramU0001F1E8U0001F1F3&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 257
+trojan://ttfang@50.62.173.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 86
+trojan://ttfang@14.102.229.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 599
+trojan://ttfang@89.116.46.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 283
+trojan://ttfang@45.146.201.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 246
+trojan://ttfang@91.124.127.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 294
