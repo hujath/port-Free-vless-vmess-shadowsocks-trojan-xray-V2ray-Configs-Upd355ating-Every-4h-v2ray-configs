@@ -12,6 +12,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#🇫🇷FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#💯T.me/Asak_Vpn💯
 ss://bm9uZTphYmFhY2JjLWFiYWMtYWFjYi1iY2FkLWFhYmJiY2JhY2NhYw==@127.0.0.1:1080#@Hope_Net
+vless://abaccba-bcaa-aabc-dbca-babcbcaabcac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://abaccba-bcaa-aabc-dbca-babcbcaabcac@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1841716730041966
 vless://acacbab-abca-cbaa-cdab-bccacbaacbba@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://caacbab-abca-bcaa-bdac-bacabacbaccb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://ccaaabb-bcaa-caba-cadb-cbccbabaabac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -19,7 +21,6 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFi
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYWNjYmEtYmNhYS1hYWJjLWRiY2EtYmFiY2JjYWFiY2FjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhY2NhYmEtY2FhYi1jYWFiLWNkYmEtY2NiYmJhYWFjYWJjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJiY2NhYWEtYWNiYS1hYmNhLWRhYmMtY2JhYmNhYmNhYWNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNhYWNiYWItYWJjYS1iY2FhLWJkYWMtYmFjYWJhY2JhY2NiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%3E%3E%40V2rayNG3%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0303
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#%F0%9F%87%A9%F0%9F%87%AADE-84.200.91.228-4893
