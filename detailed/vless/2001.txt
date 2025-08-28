@@ -1,1 +1,2 @@
 vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Anty_Vpn سرورای بیشتر
+vless://a671b069-6e09-49dd-8a36-4179e47881dd@62.60.192.166:2001?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy 🔥

@@ -5,7 +5,6 @@ vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&e
 vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://1ba5bfb7-c012-481a-9d1e-e92b3125ad1c@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://1ba5bfb7-c012-481a-9d1e-e92b3125ad1c@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
-vless://1ba5bfb7-c012-481a-9d1e-e92b3125ad1c@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
@@ -20,4 +19,3 @@ vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&e
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=tls&encryption=none&type=grpc&host=45.82.161.120&sni=45.82.161.120&mux=0#@DHLIM0
 vless://f725aa0d-e505-4a47-ba67-b1b4a7279685@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://f725aa0d-e505-4a47-ba67-b1b4a7279685@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
-vless://fbb6b4d0-f878-4594-b333-2917d148406f@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
