@@ -17,7 +17,6 @@ trojan://bcbaaac-baac-bcaa-dcba-aacabccbcbab@127.0.0.1:1080?security=tls&type=tc
 vless://caacbab-abca-bcaa-bdac-bacabacbaccb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://ccaaabb-bcaa-caba-cadb-cbccbabaabac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://ccaaabb-bcaa-caba-cadb-cbccbabaabac@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
-vless://ccaaabb-bcaa-caba-cadb-cbccbabaabac@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhY2NhYmEtY2FhYi1jYWFiLWNkYmEtY2NiYmJhYWFjYWJjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNhYWNiYWItYWJjYS1iY2FhLWJkYWMtYmFjYWJhY2JhY2NiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%3E%3E%40V2rayNG3%3A%3ADE
