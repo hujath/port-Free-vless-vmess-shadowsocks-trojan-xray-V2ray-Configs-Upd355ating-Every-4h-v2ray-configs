@@ -1,3 +1,6 @@
+vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc&serviceName=7195vless#🇳🇱 | @External_Net
+vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&authority=---@Raiv2mmrRaiv2mmr&type=grpc&serviceName=7195vless#[🇳🇱]t.me/ConfigsHub
+vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&authority=---@Raiv2mmrRaiv2mmr&type=grpc&serviceName=7195vless#[🇳🇱]t.me/Raiv2mmr
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&type=grpc&serviceName=7195vless#@Daily_Configs
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&type=grpc&serviceName=7195vless#V2
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&type=grpc&headerType=&serviceName=7195vless&authority=&mode=gun#V2
