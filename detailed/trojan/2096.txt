@@ -11,24 +11,25 @@ trojan://ttfang@45.80.110.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspa
 trojan://ttfang@25.26.27.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2FTelegram#%F0%9F%87%AC%F0%9F%87%A7%20GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://ttfang@45.159.217.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2FTelegram#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://ttfang@5.182.84.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2FTelegram#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://ttfang@45.80.111.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
-trojan://ttfang@45.131.7.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+trojan://ttfang@77.105.163.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://ttfang@92.53.188.216:2096?sni=ttfang.fange.me#%F0%9F%87%B8%F0%9F%87%AESI%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-trojan://ttfang@45.159.217.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://ttfang@86.38.214.216:2096?sni=ttfang.fange.me#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B2
-trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A54
+trojan://ttfang@45.80.111.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
 trojan://ttfang@45.8.211.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://ttfang@31.185.108.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://ttfang@45.131.210.216:2096?sni=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B03
-trojan://ttfang@77.105.163.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://ttfang@31.185.108.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+trojan://ttfang@25.26.27.216:2096?sni=ttfang.fange.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+trojan://ttfang@45.159.217.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+trojan://ttfang@86.38.214.216:2096?sni=ttfang.fange.me#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B2
+trojan://ttfang@45.131.7.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://ttfang@45.131.210.216:2096?sni=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02
+trojan://ttfang@5.182.84.216:2096?sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
+trojan://ttfang@86.38.214.194:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A57
 trojan://ttfang@45.80.110.216:2096?sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B02
-trojan://ttfang@25.26.27.216:2096?sni=ttfang.fange.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
-trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#LT_speednode_0040
+trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#LT_speednode_0013
 trojan://SSorg@135.84.64.77:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#[60944] - Telegram : @V2All
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel id: @ShadowProxy66 🇮🇷
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel id: @proxy_kafee 🇮🇷
+trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&fp=chrome&type=ws&host=ttfang.fange.me&path=/Telegram#@Daily_Configs
 trojan://ttfang@45.159.217.194:2096?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=Telegram#@Daily_Configs
 trojan://ttfang@5.10.214.216:2096?path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@5.10.247.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🇺🇲@FreakConfig
@@ -39,7 +40,6 @@ trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange
 trojan://ttfang@89.116.46.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇳🇱@FreakConfig
 trojan://ttfang@92.53.189.194:2096?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=Telegram#@Daily_Configs
-trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2aryng_vpn%20%5B9%5D
 trojan://ttfang@92.53.189.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%3E%3E%40FreakConfig%3A%3AUS
 trojan://ttfang@89.116.46.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%3E%3E%40FreakConfig%3A%3AUS
 trojan://ttfang@185.162.229.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&type=ws&sni=ttfang.fange.me#telegram%20%E2%9E%A8%20v2xro```
@@ -166,10 +166,8 @@ trojan://ttfang@166.62.108.194:2096?security=tls&sni=ttfang.fange.me&type=ws&pat
 trojan://ttfang@166.62.107.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US-166.62.107.194-0716
 trojan://ttfang@166.62.106.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8US-166.62.106.194-0717
 trojan://ttfang@86.38.214.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=%2FTelegramU0001F1E8U0001F1F3&Host=ttfang.fange.me#%F0%9F%8F%81RELAY-86.38.214.194-1007
-trojan://ttfang@185.159.247.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 816
-trojan://ttfang@185.176.24.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 134
-trojan://ttfang@199.34.229.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 732
-trojan://ttfang@166.62.109.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 914
-trojan://ttfang@185.176.26.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 61
-trojan://ttfang@198.12.144.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 871
-trojan://ttfang@185.251.83.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 61
+trojan://ttfang@45.131.7.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2FTelegram#⚡ b2n.ir/v2ray-configs | 301
+trojan://ttfang@185.158.133.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 770
+trojan://ttfang@198.71.232.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 821
+trojan://ttfang@185.162.229.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 934
+trojan://ttfang@204.93.210.194:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#⚡ b2n.ir/v2ray-configs | 71
