@@ -1,4 +1,1 @@
-vless://a0aa2811-e660-49e6-9863-ba04faed94dc@46.62.156.195:25694?type=tcp&security=none#t.me/entryNET/config=1841727173373132
-vless://fb93b203-9471-4f67-a4bf-17174323ae82@46.62.156.195:25694?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
-vless://fb93b203-9471-4f67-a4bf-17174323ae82@46.62.156.195:25694?type=tcp&security=none#Telegram:@config_proxy 🔥
 vless://fb93b203-9471-4f67-a4bf-17174323ae82@46.62.156.195:25694?type=tcp&security=none#t.me/entryNET/config=1841732900506019

@@ -1,2 +1,1 @@
-trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:8116?security=tls&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.63.145-0731
-trojan://253bc477d4e43c209f2d427272968280@:8116?security=tls&sni=www.baidu.com#%F0%9F%8F%81RELAY-0.0.0.0-1067
+trojan://253bc477d4e43c209f2d427272968280@43.199.63.145:8116?security=tls&sni=www.baidu.com#⚡ b2n.ir/v2ray-configs | 642
