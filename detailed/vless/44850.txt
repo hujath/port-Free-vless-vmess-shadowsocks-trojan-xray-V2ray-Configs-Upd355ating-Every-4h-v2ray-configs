@@ -1,2 +1,2 @@
 vless://dbf2ba34-e854-44ab-9ed5-070b03dd2042@64.188.69.61:44850?note=---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---&type=tcp&security=none#🇩🇪[Telegram:@DHLIM0]
-vless://dbf2ba34-e854-44ab-9ed5-070b03dd2042@64.188.69.61:44850?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none#🇩🇪[Telegram:NetifyVpn]
+vless://dbf2ba34-e854-44ab-9ed5-070b03dd2042@64.188.69.61:44850?type=tcp&security=none#🇩🇪[www.v2nodes.com]
