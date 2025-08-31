@@ -1,2 +1,1 @@
 vless://689e5c9c-3c97-4eaf-9716-287dffa6afe0@1.177.49.132:50000?allowInsecure=0&sni=test1.testspeed.sbs&type=ws&host=test1.testspeed.sbs&path=/proxyip=1.177.49.132:50000fp=random&security=tls#KR_speednode_0010
-vless://689e5c9c-3c97-4eaf-9716-287dffa6afe0@1.177.49.132:50000?allowInsecure=0&sni=test1.testspeed.sbs&type=ws&host=test1.testspeed.sbs&path=/proxyip=1.177.49.132:50000fp=random&security=tls#⚡ b2n.ir/v2ray-configs | 199
