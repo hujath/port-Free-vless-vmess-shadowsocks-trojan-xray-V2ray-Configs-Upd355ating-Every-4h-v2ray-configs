@@ -1,2 +1,4 @@
-vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248/?encryption=none&flow=&host=speedtest.net&type=tcp&headerType=http#Telegram:@config_proxy 🔥
+vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?type=tcp&headerType=http&host=speedtest.net&security=none#Telegram:@config_proxy 🔥
+vless://4c35bc08-900f-4e8f-8554-7480acf103df@iranvipen.1dlkimi.ir:248?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🟢 جوین بده کانکت بمونی: @nethers_vpn
 vless://86750164-55e7-46a7-a7e6-c0eb9a2f7239@iranvipen.1dlkimi.ir:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇬🇧@FreakConfig
