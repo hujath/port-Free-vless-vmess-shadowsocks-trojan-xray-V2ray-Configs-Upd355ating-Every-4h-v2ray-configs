@@ -1,2 +1,0 @@
-vless://5ee84bff-f49f-4336-9bb5-0e1cdacf235d@tir.rskhi.ir:101?type=tcp&security=reality&pbk=LjRg8KMesM5oryRgOJ4x7w-dWVB6-5n7-puTriuj8hY&fp=chrome&sni=ftp.debian.org&sid=51ec&spx=/#tr-rxnm15b8
-vless://5ee84bff-f49f-4336-9bb5-0e1cdacf235d@tir.rskhi.ir:101?type=tcp&security=reality&pbk=LjRg8KMesM5oryRgOJ4x7w-dWVB6-5n7-puTriuj8hY&fp=chrome&sni=ftp.debian.org&sid=51ec&spx=/#tr-rxnm15b8  نمونه کانفیگ تانل 3  سرعت را مقایسه کنید
