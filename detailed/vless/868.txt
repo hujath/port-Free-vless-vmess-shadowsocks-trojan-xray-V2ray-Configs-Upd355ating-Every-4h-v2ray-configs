@@ -1,4 +1,2 @@
 vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrdarc 🏴🏳
-vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encryption=none&headerType=none&type=tcp#telegram-@ISVvpn

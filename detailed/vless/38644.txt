@@ -28,6 +28,7 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?encryption=none
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
+vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644/?encryption=none&host=zula.ir&type=tcp&headerType=http#Telegram:@config_proxy 🔥
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee
@@ -50,4 +51,3 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=&encry
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://32c07748-0ad4-4d34-945f-b0bi78564766@91.99.102.206:38644?security=JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY---JOIN---AZADIV2RAYY---JOIN---AZADIV2RAYY---BIÀ---AZADIV2RAYY----BIA---AZADIV2RAYY&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
