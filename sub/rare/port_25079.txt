@@ -1,4 +1,3 @@
-vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@91.107.255.133:25079?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=freenet.mygoldiran.com#@V2rayBaaz
 vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@91.107.255.133:25079?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=freenet.mygoldiran.com#@v2ray313 کانالمون 🥲
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=11648b03a5acc7#Channel-@vmesskhodam
 vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@freenet.mygoldiran.com:25079?encryption=none&security=tls&sni=freenet.mygoldiran.com&fp=chrome&type=tcp&headerType=none#qn_080

@@ -1,0 +1,2 @@
+vless://930790cf-b350-45f0-ec42-c29e2a8b2f8c@5.75.197.13:11901?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://f3edc6cf-884b-4ca2-b29b-411387c9c715@5.75.197.13:11901?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
