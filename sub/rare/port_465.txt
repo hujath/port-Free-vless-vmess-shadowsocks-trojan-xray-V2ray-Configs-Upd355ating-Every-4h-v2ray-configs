@@ -1,2 +1,3 @@
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?security=reality&type=xhttp&headerType=&path=/&host=&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=smtp.zoho.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#Telegram:@config_proxy 🔥
 vless://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
