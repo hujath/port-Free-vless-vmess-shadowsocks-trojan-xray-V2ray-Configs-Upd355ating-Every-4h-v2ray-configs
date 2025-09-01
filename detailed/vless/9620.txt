@@ -1,6 +1,3 @@
-vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Lqp.mciickoir.ir:9620?type=tcp&headerType=http&path=/&security=none#Telegram:@config_proxy 🔥
-vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?type=tcp&headerType=http&path=/&security=none#Telegram:@config_proxy 🔥
-vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?type=tcp&headerType=http&path=/&security=none#t.me/entryNET/config=1842006010575364
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Op.mciickoir.ir:9620?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Sd.mciickoir.ir:9620?flow=&type=tcp&headerType=http&host=&path=&security=none#@meli_proxyy

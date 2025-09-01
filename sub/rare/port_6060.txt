@@ -1,1 +1,2 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjQ2LjM4LjE0Ny4xMzgiLCAicG9ydCI6ICI2MDYwIiwgImlkIjogIjY0ZTA5Zjc3LWQ0YTMtNDEzOC05Nzk3LTM3ODQyNWFmNmVlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjEwNCJ9
