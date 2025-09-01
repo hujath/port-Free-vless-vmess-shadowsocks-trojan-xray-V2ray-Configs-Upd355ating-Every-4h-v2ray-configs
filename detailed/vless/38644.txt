@@ -30,8 +30,7 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&en
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Telegram:@config_proxy 🔥
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.42ms
+vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#t.me/entryNET/config=1842057223324178
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@meli_proxyy
@@ -40,24 +39,19 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=&encrypt
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#برای اتصال دائمی جوین شو🍦@Outline_ir
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.24ms
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Telegram:@config_proxy 🔥
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.52ms
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 💦
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:10.91ms
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
@@ -66,6 +60,7 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=none&e
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#t.me/entryNET/config=1842052315528147
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.222.147:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.222.147:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @proxy_kafee 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.222.147:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
@@ -81,6 +76,3 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&e
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:10.48ms
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&type=tcp&host=zula.ir&path=%2F&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B57%5D
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B19%5D
