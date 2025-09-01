@@ -5,4 +5,4 @@ vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?securit
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@icv2ray
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@meli_proxyy
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#telegram-@ISVvpn
-vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B14%5D
+vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B13%5D
