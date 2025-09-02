@@ -1,1 +1,2 @@
 vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
+vless://49203d20-5f1b-4628-d526-9a6825c3f5f3@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B63%5D

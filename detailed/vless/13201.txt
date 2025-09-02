@@ -1,0 +1,3 @@
+vless://9a614cb7-8a88-43c4-b060-e82dd4abdcf2@204.197.163.238:13201?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=qq&pbk=EoUMYjKE6nIIf-HEQpChXOj_Q72e33nLzZIf12ZfBBI&sid=cf20a580c6&type=tcp&headerType=none#qol_253
+vless://9a614cb7-8a88-43c4-b060-e82dd4abdcf2@204.197.163.238:13201?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=EoUMYjKE6nIIf-HEQpChXOj_Q72e33nLzZIf12ZfBBI&sid=cf20a580c6&type=tcp&headerType=none#qol_254
+vless://9a614cb7-8a88-43c4-b060-e82dd4abdcf2@us03.kittycdn.pp.ua:13201?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=ios&pbk=EoUMYjKE6nIIf-HEQpChXOj_Q72e33nLzZIf12ZfBBI&sid=cf20a580c6&type=tcp&headerType=none#qol_453
