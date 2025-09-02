@@ -1,1 +1,2 @@
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:3040?security=none&encryption=none&headerType=none&type=tcp#🚀 @mrdarc🇦🇪
+vless://95eb2944-456e-408c-8d88-359608f58e51@91.99.83.156:3040/?type=tcp&encryption=none&flow=&sni=www.refersion.com&fp=chrome&security=reality&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&sid=ecd8d10c1518fb7b#Telegram:@config_proxy 💢
