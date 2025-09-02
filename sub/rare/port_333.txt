@@ -1,4 +1,0 @@
-vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@US1.PersianYooz-IR.Xyz:333?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 United States 🇺🇸 T1
-vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@US2.PersianYooz-IR.Xyz:333?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 United States 🇺🇸 T2
-vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@US3.PersianYooz-IR.Xyz:333?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#|🇺🇸 United States - D1
-vless://f10086d6-dd38-46ee-8a20-a3ce49a07e5e@US4.PersianYooz-IR.Xyz:333?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 United States 🇺🇸 T3
