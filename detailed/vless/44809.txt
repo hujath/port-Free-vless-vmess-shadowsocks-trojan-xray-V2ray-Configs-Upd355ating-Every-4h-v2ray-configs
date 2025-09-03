@@ -1,3 +1,4 @@
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@Academi_vpn6
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
@@ -7,4 +8,5 @@ vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#🇨🇦@FreakConfig
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#🇩🇪All³ | @meli_proxyy
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#🇩🇪All⁴ | @meli_proxyy
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B19%5D
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3ACA

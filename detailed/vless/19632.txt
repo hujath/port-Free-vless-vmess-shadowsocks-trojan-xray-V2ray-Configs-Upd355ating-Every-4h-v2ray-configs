@@ -1,0 +1,1 @@
+vless://22deb07b-55b9-4f3e-96cc-df3e015d92c1@german.kalait.com.tr:19632?encryption=none&security=none&type=tcp&headerType=http&host=digiakla.com#@Daily_Configs
