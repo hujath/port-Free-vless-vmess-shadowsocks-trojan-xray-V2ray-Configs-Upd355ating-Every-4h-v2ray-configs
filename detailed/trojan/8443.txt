@@ -1,12 +1,13 @@
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@csgo.com:8443?allowInsecure=0&sni=cdn-node-oss-99.paofu.de&ws=1&wspath=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD04%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@pubg.ac:8443?allowInsecure=0&sni=cdn-node-oss-99.paofu.de&ws=1&wspath=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD06%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@fastcup.net:8443?allowInsecure=0&sni=cdn-node-oss-99.paofu.de&ws=1&wspath=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD05%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
-trojan://457f64d5-cc68-4911-82ee-636ebb568a46@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://457f64d5-cc68-4911-82ee-636ebb568a46@csgo.com:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://457f64d5-cc68-4911-82ee-636ebb568a46@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+trojan://457f64d5-cc68-4911-82ee-636ebb568a46@csgo.com:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://457f64d5-cc68-4911-82ee-636ebb568a46@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://457f64d5-cc68-4911-82ee-636ebb568a46@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
+trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#@meli_proxyy
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧@FreakConfig
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B17%5D
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B16%5D
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%3E%3E%40FreakConfig%3A%3AGB
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0261
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@csgo.com:8443?security=tls&sni=cdn-node-oss-99.paofu.de&type=ws&path=%2Fprofile%2Ftelegram%40ssrsub&Host=cdn-node-oss-99.paofu.de#%F0%9F%8F%81RELAY-195.85.59.161-0911
@@ -28,4 +29,3 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2861
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2907
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8224
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 577
