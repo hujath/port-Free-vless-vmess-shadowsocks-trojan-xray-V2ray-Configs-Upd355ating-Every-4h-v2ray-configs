@@ -2,6 +2,7 @@ vless://36a0431f-94f8-4a56-8332-26d121a2fc38@138.199.239.38:58320?security=none&
 vless://36a0431f-94f8-4a56-8332-26d121a2fc38@138.199.239.38:58320?security=none&encryption=none&host=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1842157508768807
 vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#👀 قطع شدی بیا گروه گوگولی @ProxyOrbit
-vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B7%5D
+vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@49.13.138.252:58320?security=&encryption=none&headerType=none&type=tcp#📢+سرورای+بیشتر+ه
+vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@49.13.138.252:58320?security=&encryption=none&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
+vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B5%5D
