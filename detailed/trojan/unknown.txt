@@ -2,3 +2,4 @@ trojan://0RiSuJPsug#v@104.21.32.1:443?path=/trwyloqpds7opA6LuX?ed=2560&security=
 trojan://0RiSuJPsug#v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#4/23 - @V2Ray_Tz [6]
 trojan://0RiSuJPsug#v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#4/23 - @V2Ray_Tz [8]
 trojan://?M|$pIEDnf8N@172.66.44.59:443?path=/trjlFIcjqAklnJcJjx/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#@AblNet7 🇨🇦
+trojan://容解析错误trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&path=%2Faioproxybot%2F129.150.49.58-18650&Host=aio.zipzap.biz.id#%F0%9F%8F%81RELAY-172.67.156.25-0973

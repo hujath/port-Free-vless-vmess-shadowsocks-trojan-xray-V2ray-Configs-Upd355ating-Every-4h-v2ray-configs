@@ -6,5 +6,5 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@70.34.248.173:444?path=/free/1.177.
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=opensuse.org&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?security=reality&encryption=none&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=opensuse.org&sid=82b9ca5d8d39ba72#@meli_proxyy
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=opensuse.org&fp=chrome&security=reality&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72#%F0%9F%93%9A1%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#%F0%9F%87%B7%F0%9F%87%BARU-185.221.153.52-8310
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8611
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#%F0%9F%87%B7%F0%9F%87%BARU-185.221.153.52-8297
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8598
