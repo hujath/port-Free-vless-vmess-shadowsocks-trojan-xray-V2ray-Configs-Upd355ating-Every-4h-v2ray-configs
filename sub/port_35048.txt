@@ -1,3 +1,4 @@
+vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1842303534987062
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp
 vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
