@@ -13,7 +13,6 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.19.40:38644?encryption=none&s
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.19.40:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.19.40:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.19.40:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.19.40:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @vpnbaz
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel id: @ShadowProxy66 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel id: @proxy_kafee 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
