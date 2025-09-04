@@ -3,6 +3,7 @@ vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&
 vless://73a22963-1825-4a74-b961-45bffdb590ce@91.99.90.44:8081?type=tcp&headerType=http&host=fast.com&path=/path&security=none#@SaghiVpnX[🇩🇪]
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4#Channel id: @ShadowProxy66 🇳🇱
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4#Channel id: @proxy_kafee 🇳🇱
+vless://953d84ee-2985-44b9-8a69-b4d31bceab32@vipoxo.marzxox.shop:8081?security=none&type=tcp&headerType=&path=&host=soft98.ir#t.me/entryNET/config=1842340842170416
 vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#Tel:@Mr_Amirr_00-Telegram | @FNET00
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel |
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel | 👤 @Mr_Amirr_00
@@ -16,4 +17,4 @@ vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?encryption=none&fl
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&sid=d19d7a2d3da8595a#%F0%9F%8C%B01%40oneclickvpnkeys
 vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?security=reality&encryption=none&pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d19d7a2d3da8595a#%40Daily_Configs
-vless://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081?security=reality&sni=yahoo.com&fp=chrome&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&sid=220463&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20243955
+vless://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081?security=reality&sni=yahoo.com&fp=chrome&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&sid=220463&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20186819
