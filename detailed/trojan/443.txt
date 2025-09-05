@@ -1,14 +1,6 @@
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
-trojan://253bc477d4e43c209f2d427272968280@42.2.17.49:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@42.2.197.54:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?allowInsecure=1&sni=vpn.stupidworld.web.id#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?allowInsecure=1&sni=vpn.stupidworld.web.id#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://f282b878-8711-45a1-88c9-5564172123c1@aio.zipzap.biz.id:443?allowInsecure=1&sni=aio.zipzap.biz.id#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?allowInsecure=1&sni=aio.nolimit.dpdns.org#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?allowInsecure=1&sni=aio.proxybox.dpdns.org#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?allowInsecure=1&sni=aio.zipzap.biz.id#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://253bc477d4e43c209f2d427272968280@42.2.17.49:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@42.2.197.54:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@18.162.147.157:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@18.162.147.157:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
 trojan://trojan@104.24.57.5:443?type=ws&sni=azadnet2-dl4.pages.dev&path=/?ed=2560&host=azadnet2-dl4.pages.dev#US3
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?sni=aio.proxybox.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://253bc477d4e43c209f2d427272968280@42.2.17.49:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
@@ -18,10 +10,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?sni=aio.
 trojan://f282b878-8711-45a1-88c9-5564172123c1@aio.zipzap.biz.id:443?sni=aio.zipzap.biz.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A58
 trojan://253bc477d4e43c209f2d427272968280@42.2.197.54:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
-trojan://253bc477d4e43c209f2d427272968280@18.162.147.157:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@42.2.17.49:443?allowInsecure=1&sni=23.45.86.28#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@42.2.197.54:443?allowInsecure=1&sni=23.45.86.28#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-trojan://trojan@104.24.57.5:443?allowInsecure=0&sni=azadnet2-dl4.pages.dev&type=ws&host=azadnet2-dl4.pages.dev&path=/?ed=2560#US_speednode_0024
+trojan://253bc477d4e43c209f2d427272968280@18.162.147.157:443?allowInsecure=1&sni=23.45.86.28#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#@meli_proxyy
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
@@ -39,15 +28,15 @@ trojan://Aimer@172.67.77.127:443?path=/?ed?ed=2048@HiByeVPNN--@HiByeVPNN--@HiBye
 trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
-trojan://Gq9UTAqjl9@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=/28231/mehdi&mode=gun#t.me/entryNET/config=1842366826328517
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=/yethePcHjaf&type=tcp&headerType=none#@Golestan_VPN - JOIN
 trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#t.me/entryNET/config=1842378027984755
 trojan://Julius@miami.juliusnet.com:443?security=tls#[🇺🇸]ae_proxy
+trojan://auto@104.20.22.57:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1842407722689313
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
+trojan://bpb-trojan@104.22.62.86:443?allowInsecure=0&sni=fcspring.ggff.net#t.me/entryNET/config=1842403948744225
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://e1Ix4bz88Z@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=/42142/mehdi#t.me/entryNET/config=1842366763026570
 trojan://er668@kfjdi.pages.dev:443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=/Stupid-World/103.106.228.126-2053?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
@@ -82,11 +71,11 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/telegram-
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/telegram--Hddify&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 🌀
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053#@Daily_Configs
 trojan://f282b878-8711-45a1-8c69-5564172123c1@www.speedtest.net:443?path=/--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
-trojan://fPxa9BuGVQ@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=/11533/mehdi#t.me/entryNET/config=1842366952308551
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @singbox1 🇺🇸
 trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/#@Golestan_VPN - JOIN
 trojan://wQz5G4ybA9eC3BQDkd@ee-1.kamediorg.com:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ee-1.kamediorg.com#@HiByeVPNN👈⚡❤️‍🔥
+trojan://bpb-trojan@104.22.62.86:443?allowInsecure=0&sni=fcspring.ggff.net#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B11%5D
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B13%5D
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B7%5D
@@ -323,34 +312,33 @@ trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-8867
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8888
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8929
-trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#⚡ b2n.ir/v2ray-configs | 296
-trojan://origin@188.40.251.19:443?security=tls#⚡ b2n.ir/v2ray-configs | 987
-trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#⚡ b2n.ir/v2ray-configs | 553
-trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#⚡ b2n.ir/v2ray-configs | 873
-trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#⚡ b2n.ir/v2ray-configs | 718
-trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@47.52.101.237:443?security=tls&sni=httah.freetrade.link#⚡ b2n.ir/v2ray-configs | 253
-trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#⚡ b2n.ir/v2ray-configs | 359
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?allowInsecure=1&sni=aio.nolimit.dpdns.org#⚡ b2n.ir/v2ray-configs | 992
-trojan://20U1d7h4xe@172.67.175.40:443?security=tls&fp=chrome&type=httpupgrade&path=%2F22124%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20557268
-trojan://MuK9FtxC2y@104.21.48.6:443?security=tls&fp=chrome&type=ws&path=%2F55836%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20884531
-trojan://JPPDF8O3AI@172.67.175.40:443?security=tls&fp=chrome&type=ws&path=%2F25973%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20486603
-trojan://nhBIVJQUrR@104.21.48.6:443?security=tls&fp=chrome&type=ws&path=%2F19155%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20799501
-trojan://vyTVu45Xrk@172.67.175.40:443?security=tls&fp=chrome&type=ws&path=%2F23863%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20180001
-trojan://IeHEg9sFfn@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33449%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20995168
-trojan://fPxa9BuGVQ@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F11533%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20577556
-trojan://veYrpdgYpr@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33780%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20765362
-trojan://e1Ix4bz88Z@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F42142%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20870867
-trojan://Gq9UTAqjl9@172.67.175.40:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28231%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20880425
-trojan://G1s7VYEyAe@104.21.48.6:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F20379%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20328188
-trojan://OBYMYoqYAL@172.67.175.40:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F17188%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20348147
-trojan://uOFIsGRP5W@104.21.48.6:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F50255%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20611973
-trojan://gTVV0J43jN@104.21.48.6:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28985%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20351933
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20572451
-trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20336101
-trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20541646
-trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20217339
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&headerType=none&type=tcp&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20799620
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&headerType=none&type=tcp&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20620562
-trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20891690
-trojan://253bc477d4e43c209f2d427272968280@218.102.206.179:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20308150
-trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20550038
+trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163#⚡ b2n.ir/v2ray-configs | 186
+trojan://253bc477d4e43c209f2d427272968280@42.2.197.54:443?allowInsecure=1&sni=23.45.86.28#⚡ b2n.ir/v2ray-configs | 27
+trojan://trojan@104.24.57.5:443?security=tls&sni=azadnet2-dl4.pages.dev#⚡ b2n.ir/v2ray-configs | 123
+trojan://xxoo@138.124.183.216:443?security=tls#⚡ b2n.ir/v2ray-configs | 69
+trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#⚡ b2n.ir/v2ray-configs | 127
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&path=%2Ftelegram--Channel--MTMVPN---telegram--Channel--MTMVPN---telegram--Channel--MTMVPN---telegram--Channel--MTMVPN&Host=vpn.stupidworld.web.id#⚡ b2n.ir/v2ray-configs | 862
+trojan://0280b529-2747-4b7a-ab11-bad6453150b9@fr2-full.privateip.net:443?security=tls#⚡ b2n.ir/v2ray-configs | 109
+trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20844251
+trojan://20U1d7h4xe@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F22124%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20398523
+trojan://MuK9FtxC2y@104.21.48.6:443?security=tls&fp=chrome&type=ws&path=%2F55836%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20571736
+trojan://JPPDF8O3AI@172.67.175.40:443?security=tls&fp=chrome&type=ws&path=%2F25973%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20657769
+trojan://nhBIVJQUrR@104.21.48.6:443?security=tls&fp=chrome&type=ws&path=%2F19155%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20287757
+trojan://vyTVu45Xrk@172.67.175.40:443?security=tls&fp=chrome&type=ws&path=%2F23863%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20959453
+trojan://IeHEg9sFfn@172.67.175.40:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33449%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20203698
+trojan://fPxa9BuGVQ@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F11533%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20896622
+trojan://veYrpdgYpr@172.67.175.40:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33780%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20829307
+trojan://e1Ix4bz88Z@104.21.48.6:443?security=tls&fp=chrome&type=httpupgrade&path=%2F42142%2Fmehdi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20704336
+trojan://Gq9UTAqjl9@104.21.48.6:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28231%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20542550
+trojan://G1s7VYEyAe@172.67.175.40:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F20379%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20308037
+trojan://OBYMYoqYAL@104.21.48.6:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F17188%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20741848
+trojan://uOFIsGRP5W@172.67.175.40:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F50255%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20510417
+trojan://gTVV0J43jN@172.67.175.40:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28985%2Fmehdi&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20629837
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20184206
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20462081
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20974310
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&headerType=none&type=tcp&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20520589
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&headerType=none&type=tcp&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20135978
+trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20167439
+trojan://253bc477d4e43c209f2d427272968280@218.102.206.179:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20564923
+trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20617670

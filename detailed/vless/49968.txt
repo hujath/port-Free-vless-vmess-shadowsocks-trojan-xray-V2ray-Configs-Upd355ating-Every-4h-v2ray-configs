@@ -4,4 +4,3 @@ vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp&security=none#کانال ما @MrConfig_Channel🎴
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outlinev2rayng%20%5B11%5D
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2023
-vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp#@meli_proxyy
