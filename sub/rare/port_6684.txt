@@ -1,4 +1,0 @@
-vless://ea03f531-04d8-402b-b95f-598ab9934933@91.107.178.1:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti جوین بده چنل
-vless://ea03f531-04d8-402b-b95f-598ab9934933@91.107.178.1:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@meli_proxyy
-vless://ea03f531-04d8-402b-b95f-598ab9934933@Jet.azaddm.ir:6684?security=none&type=tcp&headerType=http&path=/&host=zula.ir#@meli_proxyy
-vless://ea03f531-04d8-402b-b95f-598ab9934933@khareg.azaddm.ir:6684?security=none&type=tcp&headerType=http&path=/&host=zula.ir#@meli_proxyy
