@@ -17,6 +17,5 @@ vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&enc
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B10%5D
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332/?type=tcp&encryption=none&flow=#%F0%9F%95%B9%EF%B8%8F18%40oneclickvpnkeys
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYYsecurity=&encryption=none&headerType=none&type=tcp#AZADIV2RAYY%20%20%F0%9F%87%A9%F0%9F%87%AA```
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20405761
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYYsecurity=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20631143
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20635638
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20108128
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20476522

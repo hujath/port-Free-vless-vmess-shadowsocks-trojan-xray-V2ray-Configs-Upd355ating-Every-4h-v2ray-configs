@@ -1,11 +1,10 @@
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#@Golestan_VPN - JOIN
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#⚜️Telegram: @IP_CF
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-7942
+trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-7957
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#⚡ b2n.ir/v2ray-configs | 758
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20591365
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20397573
-trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20339999
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20599602
-trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20333156
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20539463
+trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20104352
+trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20192553
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20206526
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20481052

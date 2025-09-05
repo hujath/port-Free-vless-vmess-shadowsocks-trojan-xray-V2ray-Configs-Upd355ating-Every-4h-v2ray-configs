@@ -5,8 +5,7 @@ vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&host=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#¹𝗝𝗼𝗶𝗻➠@JKVPN
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?type=tcp&headerType=none&security=none#3 🇩🇪 | @Evay_vpn
-vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?type=tcp&headerType=none&security=none#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#@Selinc
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2trayproxy%20%5B25%5D
-vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938870
+vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938060
