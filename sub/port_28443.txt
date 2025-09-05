@@ -28,4 +28,4 @@ trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@80.78.132.177:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%A9%F0%9F%87%AADE-80.78.132.177-0006
 trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&sni=mzy.hruqoaw.cn#%F0%9F%87%AD%F0%9F%87%B0HK-43.198.12.229-6832
 trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.228:28443?security=tls&sni=glcvn150.hruqoaw.cn#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.228-0001
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@202.8.9.27:28443?security=tls&sni=download.windowsupdate1.com#⚡ b2n.ir/v2ray-configs | 569
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.228:28443?security=tls&sni=glcvn150.hruqoaw.cn#⚡ b2n.ir/v2ray-configs | 54

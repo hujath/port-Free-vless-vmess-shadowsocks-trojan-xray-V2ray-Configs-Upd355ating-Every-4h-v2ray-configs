@@ -1,2 +1,2 @@
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@91.99.75.116:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20274514
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@91.99.198.159:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20556163
+vless://3d554bba-9c77-499f-9055-1eb42058ed00@91.99.198.159:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20560765
+vless://3d554bba-9c77-499f-9055-1eb42058ed00@91.99.160.230:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20140278

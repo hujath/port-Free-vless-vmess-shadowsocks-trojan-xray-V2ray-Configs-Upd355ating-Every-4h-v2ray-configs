@@ -1,4 +1,2 @@
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4613?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4613?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.246.101-0565
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4613?allowInsecure=1&sni=23.45.86.28#⚡ b2n.ir/v2ray-configs | 55
-trojan://253bc477d4e43c209f2d427272968280@13.230.50.46:4613?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20780357
+trojan://253bc477d4e43c209f2d427272968280@13.230.50.46:4613?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20919909
