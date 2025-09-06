@@ -1,0 +1,2 @@
+trojan://bacabac-abac-aabc-cbad-ababcbbacacc@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1842524995446393
+trojan://cacbbaa-abca-aabc-badc-abacbbcbccaa@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1842528770899286

@@ -38,8 +38,7 @@ vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@yde1.rayengame.com:625?security=non
 vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@yde1.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@ysw.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@V2rayBaaz
 vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@ysw.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
-vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@ysw.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#t.me/entryNET/config=1842508007311301
 vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@vmesskhodam
 vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freeconfigsplus%20%5B18%5D
-vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B14%5D
+vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B13%5D
