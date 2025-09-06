@@ -1,8 +1,5 @@
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
+vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2RAYROZ
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
-vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1842490200929620
 vless://cdce0baf-e1f1-4dac-a95f-4c98a591e224@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]
-vless://cdce0baf-e1f1-4dac-a95f-4c98a591e224@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1842492087996598
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B8%5D
-vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#t.me/entryNET/config=1842471326596111
-vless://cdce0baf-e1f1-4dac-a95f-4c98a591e224@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✅ @vistav2ray  👈👈کانال ما

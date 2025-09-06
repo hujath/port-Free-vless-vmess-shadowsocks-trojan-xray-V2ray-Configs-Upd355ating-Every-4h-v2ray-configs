@@ -1,1 +1,1 @@
-vless://36bd6f74-de49-4c80-952e-d6b7b68a408a@10.10.34.36:8674?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=hls-svod.itunes.apple.com&sid=6ba85179e30d4fc2#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20558068
+vless://36bd6f74-de49-4c80-952e-d6b7b68a408a@pl.maxgime20.ir:8674?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=hls-svod.itunes.apple.com&sid=6ba85179e30d4fc2#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861791
