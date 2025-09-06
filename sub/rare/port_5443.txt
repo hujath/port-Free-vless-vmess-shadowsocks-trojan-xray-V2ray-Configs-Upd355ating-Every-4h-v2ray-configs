@@ -1,1 +1,0 @@
-vless://34fe8088-27ca-413d-b4af-1273b005019d@188.245.186.245:5443?security=reality&sni=refersion.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#t.me/entryNET/config=1842521221765112
