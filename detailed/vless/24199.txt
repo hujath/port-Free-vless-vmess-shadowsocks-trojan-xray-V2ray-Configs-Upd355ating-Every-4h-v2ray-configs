@@ -1,3 +1,1 @@
 vless://9487a52e-6536-4c17-9af0-4b207d9c453f@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@CONFIIG_HUB
-vless://9487a52e-6536-4c17-9af0-4b207d9c453f@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
-vless://9487a52e-6536-4c17-9af0-4b207d9c453f@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
