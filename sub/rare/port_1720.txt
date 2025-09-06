@@ -1,1 +1,2 @@
+vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#t.me/entryNET/config=1842471326596111
 vless://cdce0baf-e1f1-4dac-a95f-4c98a591e224@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]
