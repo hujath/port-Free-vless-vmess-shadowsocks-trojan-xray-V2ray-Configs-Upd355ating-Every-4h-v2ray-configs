@@ -1,1 +1,1 @@
-trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960468
+trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968265
