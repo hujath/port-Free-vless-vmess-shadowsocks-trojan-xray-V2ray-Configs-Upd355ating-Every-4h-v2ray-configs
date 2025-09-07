@@ -8,4 +8,4 @@ vless://8f10f456-fbb0-492a-a71b-9b88cde3e5aa@91.107.251.56:22?mode=gun&security=
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.215.49-2620
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-2638
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-2969
-trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#⚡ b2n.ir/v2ray-configs | 663
+trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#⚡ b2n.ir/v2ray-configs | 98
