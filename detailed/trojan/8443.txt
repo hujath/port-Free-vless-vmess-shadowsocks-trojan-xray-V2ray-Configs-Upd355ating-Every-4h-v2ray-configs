@@ -1,6 +1,6 @@
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧@FreakConfig
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://Aimer@199.34.228.71:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=tcp&path=&host=epgb.aimercc.dpdns.org#t.me/entryNET/config=1842553431094581
+trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#🚀کانال تلگرام : injastvpn@ جوین بدید
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%3E%3E%40free4allVPN%3A%3AGB
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0263
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.100.38-2889
@@ -22,5 +22,5 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2911
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.94.16-2957
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8351
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#⚡ b2n.ir/v2ray-configs | 934
-trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20958259
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 486
+trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20897379
