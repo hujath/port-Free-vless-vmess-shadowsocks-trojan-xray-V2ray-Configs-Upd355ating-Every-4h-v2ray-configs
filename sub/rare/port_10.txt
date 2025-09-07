@@ -1,2 +1,1 @@
 vless://@Netsafe_support@65.109.179.126:10?mode=gun&security=reality&encryption=none&pbk=gceILNgGh3dg0f6_dOK92XVPANQac-74zxIuM1xe-lY&fp=chrome&spx=/&type=grpc&sni=docker.com&sid=01b350fa445207b2#@V2rayNGVPN <= کانفیگ رایگان
-vless://@Netsafe_support@65.109.179.126:10?mode=gun&security=reality&encryption=none&pbk=gceILNgGh3dg0f6_dOK92XVPANQac-74zxIuM1xe-lY&fp=chrome&spx=/&type=grpc&sni=docker.com&sid=01b350fa445207b2#t.me/entryNET/config=1842606718632504
