@@ -7,4 +7,4 @@ vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&e
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://cdce0baf-e1f1-4dac-a95f-4c98a591e224@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]
-vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B8%5D
+vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B7%5D
