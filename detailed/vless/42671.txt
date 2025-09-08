@@ -1,6 +1,8 @@
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@TEHRANARGO
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://27264933-7003-4d25-9349-addd0cabbc82@195.201.32.169:42671?security=none&encryption=none&host=/TELEGRAM_Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
+vless://27264933-7003-4d25-9349-addd0cabbc82@195.201.32.169:42671?security=none&encryption=none&host=/TELEGRAM_Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#t.me/entryNET/config=1842712353607645
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
