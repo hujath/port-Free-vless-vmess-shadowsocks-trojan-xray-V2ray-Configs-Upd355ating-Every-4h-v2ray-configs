@@ -6,4 +6,3 @@ vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=none
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#@confegraigan تست خرید برای کانفیگ های بیشتر وارد کانال تلگرام
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷@FreakConfig
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B9%5D
-vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20528865
