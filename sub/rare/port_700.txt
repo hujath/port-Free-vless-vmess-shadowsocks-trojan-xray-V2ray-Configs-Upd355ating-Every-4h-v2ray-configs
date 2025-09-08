@@ -1,2 +1,3 @@
 vless://6e09b2df-c73a-4a23-a02a-6fe9247b5b3a@Finland.mizbandana.org:700?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&encryption=none&headerType=http&type=tcp#🇫🇮[Telegram:NetifyVPN]
 vless://6e09b2df-c73a-4a23-a02a-6fe9247b5b3a@Finland.mizbandana.org:700?security=none&encryption=none&headerType=http&type=tcp#[🇫🇮]
+vless://6e09b2df-c73a-4a23-a02a-6fe9247b5b3a@finland.mizbandana.org:700?security=none&type=tcp&headerType=http&host=&packetEncoding=xudp&encryption=none#t.me/entryNET/config=1842689765697817
