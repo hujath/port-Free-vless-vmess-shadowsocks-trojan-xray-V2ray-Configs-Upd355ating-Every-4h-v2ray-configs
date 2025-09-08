@@ -1,1 +1,3 @@
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
+vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]
+vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#t.me/entryNET/config=1842653778611967
