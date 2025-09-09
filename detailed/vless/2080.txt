@@ -18,10 +18,10 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encrypti
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@CaV2ray ⚡️
 vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
 vless://idTel--SRCVPN--@88.99.87.227:2080?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
-vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B20%5D
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
 vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
 vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
-vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20964515
-vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20983564
-vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20411321
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20375683
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20766714
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20500195
