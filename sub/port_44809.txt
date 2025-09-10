@@ -2,4 +2,4 @@ vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=non
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇨🇦
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
-vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20281350
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20729666

@@ -3,8 +3,13 @@ vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&e
 vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#join @Dropcube
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#💎 @AblNet7 💎
+vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇩🇪
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRA&headerType=none&type=tcp#@AblNet7 🇺🇲
+vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRA&headerType=none&type=tcp#@v2rayng_fars
+vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
+vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars تمام نت ها 🟦🟨
+vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#💎 @AblNet7 💎
 vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -16,6 +21,7 @@ vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#@dropcube⚡❤️‍🔥
+vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars
 vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🇮🇹@SimChin_iR عضو بشید
 vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇩🇪
@@ -53,5 +59,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.48:8888#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:8888#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-6854
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.19:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-6950
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:8888#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-6955
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:8888#⚡ b2n.ir/v2ray-configs | 260
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#⚡ b2n.ir/v2ray-configs | 262
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.58:8888#⚡ b2n.ir/v2ray-configs | 229
