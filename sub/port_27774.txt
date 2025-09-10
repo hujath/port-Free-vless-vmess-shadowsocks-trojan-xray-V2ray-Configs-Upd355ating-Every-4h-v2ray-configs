@@ -10,6 +10,8 @@ vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&e
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@stephen-yarmohammader.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.53:27774?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AUS
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#%3E%3E%40FreakConfig%3A%3AUS
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.51:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20115
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.52:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20122
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.53:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20120
@@ -23,4 +25,7 @@ vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.72:27774?security=&fp=ch
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@stephen-yarmohammader.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.79:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20347620
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.85:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20507962
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.230.249:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20859885
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.53:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20600829
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20606126
