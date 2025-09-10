@@ -1,4 +1,3 @@
 vless://3d70873c-1fe4-4c35-8db5-93564edcde52@64.188.69.61:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=df8611c07d#@Daily_Configs
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#@Daily_Configs
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#@Selinc
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#🇨🇵@FreakConfig
