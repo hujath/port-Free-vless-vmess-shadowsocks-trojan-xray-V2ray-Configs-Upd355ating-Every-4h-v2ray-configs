@@ -1,3 +1,2 @@
-vless://26d03cd3-bdc7-4d45-bca0-dfe6464b5271@vp1.biseda.net:9090?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray ⚡️
 vmess://eyJhZGQiOiIyMTcuMTE0LjQwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4N2VlZDY2LWQ1OTctNGVmZC1hYmUxLWE5NzUxMWJkNzI5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTA5MCIsInBzIjoiQFVDSVJBTklSIC0gQHByX3ZwbiAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
