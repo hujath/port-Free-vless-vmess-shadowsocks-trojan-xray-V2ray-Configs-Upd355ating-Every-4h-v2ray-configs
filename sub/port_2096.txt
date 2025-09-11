@@ -69,41 +69,58 @@ trojan://slch2024@192.65.217.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#FR%
 trojan://slch2024@185.16.110.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
 trojan://slch2024@205.233.181.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
 trojan://slch2024@192.65.217.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%5Cr
-trojan://slch2024@185.251.80.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A5
-trojan://slch2024@185.251.82.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A52
-trojan://slch2024@195.26.229.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A54
-trojan://slch2024@185.148.106.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US
-trojan://slch2024@185.7.240.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A55
-trojan://slch2024@199.34.230.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US2
-trojan://slch2024@188.164.159.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A56
-trojan://slch2024@185.251.81.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A57
-trojan://slch2024@194.36.55.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A58
-trojan://slch2024@188.164.158.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A59
-trojan://slch2024@192.200.160.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US3
-trojan://slch2024@188.42.89.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A510
-trojan://slch2024@192.0.54.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US4
-trojan://slch2024@185.59.218.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A511
-trojan://slch2024@195.13.44.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US5
-trojan://slch2024@193.124.224.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A512
+trojan://slch2024@195.26.229.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A5
+trojan://slch2024@192.200.160.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US
+trojan://slch2024@192.0.54.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US2
+trojan://slch2024@185.251.80.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A53
+trojan://slch2024@193.124.224.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A54
+trojan://slch2024@185.251.81.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A55
+trojan://slch2024@185.7.240.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A56
+trojan://slch2024@188.164.158.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A58
+trojan://slch2024@185.176.24.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A59
+trojan://slch2024@185.156.19.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A510
+trojan://slch2024@199.34.230.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US3
+trojan://slch2024@192.0.63.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US4
+trojan://slch2024@185.18.184.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%A8%F0%9F%87%BECY%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
+trojan://slch2024@193.9.49.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+trojan://slch2024@185.251.82.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A511
+trojan://slch2024@185.174.138.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A512
+trojan://slch2024@188.42.145.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B1%F0%9F%87%BALU%E5%8D%A2%E6%A3%AE%E5%A0%A1
+trojan://slch2024@195.13.45.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
+trojan://slch2024@185.251.83.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A513
+trojan://slch2024@185.176.26.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A514
+trojan://slch2024@194.36.55.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A515
+trojan://slch2024@188.42.89.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A516
+trojan://slch2024@209.94.90.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US5
 trojan://slch2024@185.148.104.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US6
-trojan://slch2024@192.0.63.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US7
+trojan://slch2024@188.244.122.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A517
+trojan://slch2024@198.62.62.87:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://slch2024@185.238.228.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
+trojan://slch2024@188.164.159.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A518
+trojan://slch2024@185.148.106.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US7
+trojan://slch2024@188.42.88.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A519
+trojan://slch2024@205.233.181.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://slch2024@188.164.248.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A520
+trojan://slch2024@195.13.55.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF4
 trojan://slch2024@199.34.229.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US8
-trojan://slch2024@185.16.110.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A514
-trojan://slch2024@188.164.248.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A515
-trojan://slch2024@188.42.88.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A516
-trojan://slch2024@188.164.248.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A517
-trojan://slch2024@185.176.24.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A519
-trojan://slch2024@188.244.122.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A520
-trojan://slch2024@185.174.138.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A521
-trojan://slch2024@194.76.18.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A523
-trojan://slch2024@185.176.26.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A524
-trojan://slch2024@185.148.107.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A525
-trojan://slch2024@185.251.83.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A526
-trojan://slch2024@209.94.90.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US9
-trojan://slch2024@199.68.156.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66&host=ocost-dy.wmlefl.cc#US10
-trojan://slch2024@192.200.160.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US11
-trojan://slch2024@185.156.19.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A527
-trojan://slch2024@212.183.88.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A528
+trojan://slch2024@195.13.44.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF5
+trojan://slch2024@198.62.62.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
+trojan://slch2024@185.148.107.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A521
+trojan://slch2024@199.68.156.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66&host=ocost-dy.wmlefl.cc#US9
+trojan://slch2024@192.65.217.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3
+trojan://slch2024@185.18.250.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%992
+trojan://slch2024@195.13.54.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF7
+trojan://slch2024@199.181.197.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+trojan://slch2024@185.16.110.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A522
+trojan://slch2024@195.13.44.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US10
+trojan://slch2024@209.46.30.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://slch2024@185.148.105.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
+trojan://slch2024@212.183.88.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A523
+trojan://slch2024@188.164.248.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A524
+trojan://slch2024@185.59.218.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A525
+trojan://slch2024@194.76.18.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A526
+trojan://slch2024@192.200.160.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US11
+trojan://slch2024@185.221.160.195:2096?sni=ocost-dy.wmlefl.cc#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF8
 trojan://slch2024@188.164.158.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#AM_speednode_0001
 trojan://slch2024@188.164.159.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#AM_speednode_0002
 trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#AT_speednode_0003
@@ -174,7 +191,6 @@ vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&
 vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583412911.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583412911.zagreb-prx-dnraaad.info&path=/ohfqcwws#@meli_proxyy
 vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583386193.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583386193.zagreb-prx-dnraaad.info&path=/nodudrws#@meli_proxyy
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583581773.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws#@meli_proxyy
-trojan://Aimer@172.67.68.56:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=tcp&path=&host=epgb.aimercc.dpdns.org#t.me/entryNET/config=1842911854085759
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @singbox1 🇳🇱
 trojan://slch2024@185.18.184.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@Daily_Configs
@@ -372,7 +388,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#@ata_connect
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#t.me/entryNET/config=1842913113681977
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#@v2rayng_fars
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -412,6 +427,8 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d11.AlanHIAhO.cOM&type=ws&sni=d11.AlanHIAhO.cOM#%3E%3E%40v2ray1_ng%3A%3ADE
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#%3E%3E%40v2ray1_ng%3A%3ADE
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#%3E%3E%40FreakConfig%3A%3ADE
+trojan://slch2024@185.176.24.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%3E%3E%40outlinev2rayng%3A%3AXX
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#%3E%3E%40FreakConfig%3A%3ADE
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?security=tls&sni=D20.alaNhIAhO.coM&fp=chrome&type=ws&path=/&host=D20.alaNhIAhO.coM&encryption=none#@Rayan_Config%2027
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40virgool_vpn`
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%28%40v2raytunn%29-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA3
@@ -535,102 +552,55 @@ trojan://slch2024@190.93.244.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws
 trojan://slch2024@188.244.122.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.244.122.87-0752
 trojan://slch2024@188.164.159.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.159.87-0753
 trojan://slch2024@188.164.158.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.158.87-0754
-trojan://slch2024@212.183.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.195-0779
-trojan://slch2024@188.244.122.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.244.122.195-0786
-trojan://slch2024@188.42.89.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.89.195-0811
-trojan://slch2024@185.59.218.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.59.218.195-0821
-trojan://slch2024@185.251.81.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.81.195-1104
-trojan://slch2024@194.76.18.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%B0%F0%9F%87%BFKZ-194.76.18.195-1105
-trojan://slch2024@192.0.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.54.195-1106
-trojan://slch2024@185.156.19.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.156.19.195-1110
-trojan://slch2024@185.174.138.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.174.138.195-1111
-trojan://slch2024@199.68.156.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-1113
-trojan://slch2024@193.124.224.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.124.224.195-1139
-trojan://slch2024@185.148.105.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.105.195-1140
-trojan://slch2024@195.26.229.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.26.229.195-1141
-trojan://slch2024@198.62.62.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.195-1142
-trojan://slch2024@185.251.82.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.82.195-1143
-trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-1144
-trojan://slch2024@185.148.107.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegramU0001F1E8U0001F1F3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.107.195-1145
-trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-1146
-trojan://slch2024@195.13.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-1147
-trojan://slch2024@195.13.44.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.44.195-1148
-trojan://slch2024@192.65.217.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.195-1149
-trojan://slch2024@185.16.110.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%AB%F0%9F%87%B7FR-185.16.110.195-1150
-trojan://slch2024@209.94.90.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.195-1151
-trojan://slch2024@199.34.229.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.34.229.195-1152
-trojan://slch2024@199.68.156.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-1153
-trojan://slch2024@192.200.160.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.195-1154
-trojan://slch2024@209.94.90.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.195-1155
-trojan://slch2024@192.0.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.54.195-1156
-trojan://slch2024@216.24.57.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.195-1157
-trojan://slch2024@199.34.230.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.34.230.195-1158
-trojan://slch2024@188.42.145.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.145.195-1160
-trojan://slch2024@195.13.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-1166
-trojan://slch2024@185.251.82.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.82.195-1168
-trojan://slch2024@194.36.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.36.55.195-1171
-trojan://slch2024@192.0.63.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.63.195-1172
-trojan://slch2024@185.251.80.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.80.195-1174
-trojan://slch2024@185.251.81.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.81.195-1175
-trojan://slch2024@185.148.105.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.105.195-1176
-trojan://slch2024@185.156.19.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.156.19.195-1177
-trojan://slch2024@185.251.83.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.83.195-1178
-trojan://slch2024@185.238.228.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.238.228.195-1179
-trojan://slch2024@185.148.105.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.105.195-1180
-trojan://slch2024@195.13.45.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.45.195-1181
-trojan://slch2024@192.65.217.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.195-1182
-trojan://slch2024@185.148.107.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.107.195-1183
-trojan://slch2024@185.7.240.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.7.240.195-1185
-trojan://slch2024@195.26.229.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.26.229.195-1186
-trojan://slch2024@185.7.240.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.7.240.195-1187
-trojan://slch2024@185.238.228.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.238.228.195-1188
-trojan://slch2024@185.251.83.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.83.195-1189
-trojan://slch2024@188.42.145.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.145.195-1190
-trojan://slch2024@185.251.83.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegramU0001F1E8U0001F1F3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.83.195-1191
-trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-1192
-trojan://slch2024@209.46.30.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.195-1193
-trojan://slch2024@195.26.229.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.26.229.195-1194
-trojan://slch2024@185.156.19.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.156.19.195-1195
-trojan://slch2024@185.176.24.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-1196
-trojan://slch2024@209.46.30.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.195-1197
-trojan://slch2024@188.164.248.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.248.195-1198
-trojan://slch2024@188.42.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.88.195-1199
-trojan://slch2024@185.148.107.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.107.195-1201
-trojan://slch2024@185.176.24.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-1202
-trojan://slch2024@193.124.224.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.124.224.195-1203
-trojan://slch2024@185.176.24.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-1205
-trojan://slch2024@188.164.248.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.248.195-1206
-trojan://slch2024@185.148.106.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.106.195-1208
-trojan://slch2024@205.233.181.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-205.233.181.195-1209
-trojan://slch2024@185.148.104.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.104.195-1210
-trojan://slch2024@185.221.160.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.221.160.195-1213
-trojan://slch2024@195.13.44.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.44.195-1214
-trojan://slch2024@195.13.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.54.195-1215
-trojan://slch2024@188.164.248.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.248.195-1216
-vmess://ewogICAgImFkZCI6ICIxOTguMjQ0LjIzMi4zOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xOTguMjQ0LjIzMi4zOS0yNzE1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vmess://ewogICAgImFkZCI6ICIxNDYuNTkuOTIuMjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhY2E3MWIxMy1lYzhhLTQ2NmQtYzI4Zi00MzUxNmQzY2YyNDYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTE0Ni41OS45Mi4yMTktMjg5NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICIxOTguMjQ0LjIzMi4zOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xOTguMjQ0LjIzMi4zOS0zMzkyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vmess://ewogICAgImFkZCI6ICI1MS43Ny4xNTguMTY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjOTJmZDkwMi1iNWQzLTQyMDgtYmI0OC02MzBiMWM3YmFiZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjc3LjE1OC4xNjktNDAzOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICIyMy4yMjcuNjAuMTg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLAogICAgIm5ldCI6ICJncnBjIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+PgVJFTEFZLTIzLjIyNy42MC4xODQtODUxMCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJub25lIiwKICAgICJzZWN1cml0eSI6ICJub25lIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://slch2024@212.183.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.195-0780
+trojan://slch2024@188.244.122.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.244.122.195-0787
+trojan://slch2024@188.42.89.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.89.195-0812
+trojan://slch2024@185.59.218.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.59.218.195-0822
+trojan://slch2024@192.200.160.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.195-1106
+trojan://slch2024@188.164.248.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.248.195-1109
+trojan://slch2024@199.68.156.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-1110
+trojan://slch2024@192.200.160.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.87-1111
+trojan://slch2024@194.36.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.36.55.195-1112
+trojan://slch2024@195.26.229.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.26.229.195-1114
+trojan://slch2024@185.251.81.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.81.195-1116
+vmess://ewogICAgImFkZCI6ICIxOTguMjQ0LjIzMi4zOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xOTguMjQ0LjIzMi4zOS0yNjQxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxNDYuNTkuOTIuMjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhY2E3MWIxMy1lYzhhLTQ2NmQtYzI4Zi00MzUxNmQzY2YyNDYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTE0Ni41OS45Mi4yMTktMjgyMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxOTguMjQ0LjIzMi4zOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xOTguMjQ0LjIzMi4zOS0zMzE4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICI1MS43Ny4xNTguMTY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjOTJmZDkwMi1iNWQzLTQyMDgtYmI0OC02MzBiMWM3YmFiZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjc3LjE1OC4xNjktMzk2NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIyMy4yMjcuNjAuMTg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLAogICAgIm5ldCI6ICJncnBjIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+PgVJFTEFZLTIzLjIyNy42MC4xODQtODQzNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJub25lIiwKICAgICJzZWN1cml0eSI6ICJub25lIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=%2Faucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#@meli_proxyy
-trojan://slch2024@192.65.217.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 443
-trojan://slch2024@198.71.191.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 608
-trojan://slch2024@194.76.18.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 275
-trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#⚡ b2n.ir/v2ray-configs | 685
-trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#⚡ b2n.ir/v2ray-configs | 472
-trojan://slch2024@188.164.158.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/TelegramU0001F1E8U0001F1F3&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 152
-trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#⚡ b2n.ir/v2ray-configs | 727
-trojan://slch2024@185.176.26.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram#⚡ b2n.ir/v2ray-configs | 530
-trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#⚡ b2n.ir/v2ray-configs | 161
-trojan://slch2024@199.68.156.195:2096?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=%2F&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20369621
-trojan://slch2024@192.0.54.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20556303
-trojan://slch2024@188.244.122.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20660082
-trojan://slch2024@195.13.44.87:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20290490
-trojan://slch2024@193.124.224.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20161255
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@170.114.46.175:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20365188
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20599049
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@170.114.46.175:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20387411
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d11.AlanHIAhO.cOM&type=ws&sni=d11.AlanHIAhO.cOM#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20179394
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20408942
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20475139
+trojan://Aimer@172.67.68.56:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=tcp&path=&host=epgb.aimercc.dpdns.org#t.me/entryNET/config=1842911854085759
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#t.me/entryNET/config=1842913113681977
+trojan://slch2024@198.12.144.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 64
+trojan://slch2024@185.174.138.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#⚡ b2n.ir/v2ray-configs | 67
+trojan://slch2024@185.174.138.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#⚡ b2n.ir/v2ray-configs | 209
+vmess://ewogICAgImFkZCI6ICI1MS43Ny4xNTguMTY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjOTJmZDkwMi1iNWQzLTQyMDgtYmI0OC02MzBiMWM3YmFiZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjc3LjE1OC4xNjktNDAzOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://slch2024@185.148.107.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66&host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 716
+trojan://slch2024@194.76.18.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 315
+trojan://slch2024@188.42.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#⚡ b2n.ir/v2ray-configs | 220
+trojan://slch2024@193.124.18.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 126
+trojan://slch2024@185.7.240.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 555
+trojan://slch2024@185.174.138.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 107
+trojan://slch2024@194.76.18.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 63
+trojan://slch2024@216.24.57.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 802
+trojan://slch2024@193.124.224.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 707
+trojan://slch2024@192.0.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 863
+trojan://slch2024@185.16.110.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 503
+trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66#⚡ b2n.ir/v2ray-configs | 606
+trojan://slch2024@185.18.250.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 528
+trojan://slch2024@185.148.107.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc#⚡ b2n.ir/v2ray-configs | 775
+trojan://slch2024@185.176.24.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20206287
+trojan://slch2024@192.0.54.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20704400
+trojan://slch2024@199.68.156.195:2096?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=%2F&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20129841
+trojan://slch2024@188.244.122.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20601588
+trojan://slch2024@193.124.224.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20727297
+trojan://slch2024@195.13.44.87:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20228628
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@170.114.46.175:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20599021
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@170.114.46.175:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20657837
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20914494
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20163250
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d11.AlanHIAhO.cOM&type=ws&sni=d11.AlanHIAhO.cOM#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20647105
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20725403
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20502827
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20203281

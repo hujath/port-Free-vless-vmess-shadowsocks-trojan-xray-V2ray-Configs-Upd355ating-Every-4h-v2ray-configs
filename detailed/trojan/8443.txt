@@ -11,23 +11,24 @@ trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@csgo.com:8443?sni=cdn-node-oss-98.
 trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@fastcup.net:8443?sni=cdn-node-oss-98.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@pubg.ac:8443?sni=cdn-node-oss-98.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1579
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2426
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2439
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2537
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-2702
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2724
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.94.16-2793
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2838
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2860
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-112.218.196.26-2913
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2916
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2918
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.212.70-2962
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-3074
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-3113
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.94.16-3132
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-3135
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-3181
-trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8577
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 929
+trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1505
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2352
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2365
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2463
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-2628
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2650
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2719
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2764
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2786
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-112.218.196.26-2839
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2842
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2844
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2888
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-3000
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-3039
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.20.245.139-3058
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-3061
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-3107
+trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8503
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#⚡ b2n.ir/v2ray-configs | 994
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 597
