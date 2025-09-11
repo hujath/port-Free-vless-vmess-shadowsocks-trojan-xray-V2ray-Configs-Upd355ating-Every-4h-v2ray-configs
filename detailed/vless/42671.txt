@@ -12,6 +12,7 @@ vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://72a94d38-9870-4f3a-9aee-56caf115a475@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
+vless://769412c1-3588-4a33-a26b-0f06a6739714@195.201.32.169:42671?security=none&encryption=none&host=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#t.me/entryNET/config=1842982130414430
 vless://b34dd21a-a057-4295-95dc-373b1608279a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 😍
 vless://c2eb9742-ce3e-4a70-8a86-d8e373c0e4e8@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://c2eb9742-ce3e-4a70-8a86-d8e373c0e4e8@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
