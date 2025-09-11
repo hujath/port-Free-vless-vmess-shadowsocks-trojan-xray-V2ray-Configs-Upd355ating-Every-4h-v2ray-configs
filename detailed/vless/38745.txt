@@ -1,3 +1,4 @@
 vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Daily_Configs
 vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
+vless://aad43aea-6040-43cd-b500-f814347d6816@94.177.147.79:38745?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#t.me/iProxyChannel 19
 vless://aad43aea-6040-43cd-b500-f814347d6816@94.177.147.79:38745?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷@FreakConfig
