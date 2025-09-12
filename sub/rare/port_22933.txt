@@ -1,3 +1,2 @@
 vless://20eb2d5d-10ba-485d-b4c5-3ff2b8168225@78.47.216.178:22933?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#singbox1
 vless://20eb2d5d-10ba-485d-b4c5-3ff2b8168225@78.47.216.178:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]ae_proxy
-vless://f738632c-3cbc-4ea1-9b21-57d8b046ca79@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B4%5D

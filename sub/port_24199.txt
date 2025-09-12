@@ -1,5 +1,4 @@
 vless://3a07473c-5128-47d4-9f4b-fec097471497@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://9487a52e-6536-4c17-9af0-4b207d9c453f@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@CONFIIG_HUB
 vless://ca46f1db-8cac-4c60-aa56-67b795dd9379@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#@NpvV2rayFilTer
 vless://ca46f1db-8cac-4c60-aa56-67b795dd9379@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1842999243587900
 vless://ca46f1db-8cac-4c60-aa56-67b795dd9379@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
