@@ -1,1 +1,0 @@
-vless://a4192042-8787-44a2-a43f-a133e71bc1d3@zowe.ir:10100?security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#@NETMelliAnti
