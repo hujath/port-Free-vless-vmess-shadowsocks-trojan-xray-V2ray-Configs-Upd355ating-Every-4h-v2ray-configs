@@ -1,5 +1,4 @@
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI#@Daily_Configs
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
+vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#hope of freedom - @anotherme_night
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2ray1_Ng
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]ae_proxy

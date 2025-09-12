@@ -4,8 +4,6 @@ vless://12ae6d24-799d-43e8-803b-1221fb582169@46.62.148.243:2083?mode=gun&securit
 vless://1c3f13a4-1121-44e2-b178-47dd12c45427@46.62.139.251:2083?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#@Selinc
 vless://1c3f13a4-1121-44e2-b178-47dd12c45427@46.62.139.251:2083?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#r♡ya
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.66.207.17:2083?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.66.207.17:2083?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇨🇦
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@192.0.54.221:2083?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇺🇸
 vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✨ @Geek_Spot | 🚀 | 🌐 65.109.191.147 | 🇫🇮
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@AYMH19+کانال+تلگرام
 vless://4d80bf49-61ba-4c03-ba99-b8beb4b27b8b@91.107.135.195:2083?type=tcp&path=/@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray&host=uploadboy.ir&headerType=http&security=none#👉💥Join @Cconfig_v2ray Follow⚡👈
