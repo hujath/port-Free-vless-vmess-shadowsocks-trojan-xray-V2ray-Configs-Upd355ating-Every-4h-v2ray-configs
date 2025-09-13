@@ -1,3 +1,3 @@
 vless://7738423e-132e-4e2a-bd2c-034b4740ad4d@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#[🏁]
 vless://7e40a567-f9c1-44cc-af81-85ac16a9bdf3@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#[🏁]
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@45.120.7.68:40001?allowInsecure=1&sni=frontend.kuangbiaoyun.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20184980
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@45.120.7.68:40001?allowInsecure=1&sni=frontend.kuangbiaoyun.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20663145
