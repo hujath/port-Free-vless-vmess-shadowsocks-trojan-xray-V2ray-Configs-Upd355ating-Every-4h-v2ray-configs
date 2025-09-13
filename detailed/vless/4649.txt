@@ -1,0 +1,2 @@
+vless://6b2b3c27-bedf-4307-8962-2c509ba87db9@167.71.73.37:4649?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B18%5D
+vless://6b2b3c27-bedf-4307-8962-2c509ba87db9@185.123.100.251:4649?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B13%5D

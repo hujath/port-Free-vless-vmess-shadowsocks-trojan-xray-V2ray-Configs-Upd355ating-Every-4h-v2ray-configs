@@ -7,4 +7,3 @@ vless://780fdb9d-862d-4332-be1e-5044883813eb@37.202.237.244:55095?security=none&
 vless://8582be87-3be5-4b8c-9109-3814eda7bcda@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] Codeclubir-hemayat
 vless://8582be87-3be5-4b8c-9109-3814eda7bcda@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] Codeclubir-hemayat 🇩🇪
 vless://89933962-e2d4-4401-9693-48d4d2e9c622@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] Codeclubir-xyZHadi
-vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR-Free-
