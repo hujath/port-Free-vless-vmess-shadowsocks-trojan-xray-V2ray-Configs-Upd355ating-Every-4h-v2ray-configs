@@ -5,4 +5,3 @@ vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://c2eb9742-ce3e-4a70-8a86-d8e373c0e4e8@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B5%5D
-vless://d39a768e-e3f7-42cd-8880-2d54bd187733@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B17%5D
