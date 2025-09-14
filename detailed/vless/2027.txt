@@ -6,7 +6,6 @@ vless://7eac46da-20a5-488c-a192-489bba9eb6fa@209.38.42.122:2027?security=none&en
 vless://8b4fdac3-2b99-4cd6-a7ce-05ca693779ef@209.38.42.122:2027?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://8b4fdac3-2b99-4cd6-a7ce-05ca693779ef@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://d6be6595-ad02-491d-ab2a-2150dd1ac339@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://f5865f10-4c2b-4e13-a352-fc67a194a527@209.38.42.122:2027?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]
 vless://865b5b94-4899-4aca-903b-3613d01337a1@209.38.42.122:2027?type=tcp&security=none#%F0%9F%93%A2%20%40XiliVpNBOT%20%20%E2%80%8C-%E2%80%8C%20%20%E2%80%8C%20%5B%20Free-20%20%5D%20%20%E2%80%8C```
 vless://9a199a18-8c9e-4903-ab59-cc5512625f10@209.38.42.122:2027?type=tcp&security=none#%F0%9F%93%A2%20%40XiliVpNBOT%20%20%E2%80%8C-%E2%80%8C%20%20%E2%80%8C%20%5B%20Free-19%20%5D%20%20%E2%80%8C```
-vless://865b5b94-4899-4aca-903b-3613d01337a1@209.38.42.122:2027?type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20843606
+vless://865b5b94-4899-4aca-903b-3613d01337a1@209.38.42.122:2027?type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20538029

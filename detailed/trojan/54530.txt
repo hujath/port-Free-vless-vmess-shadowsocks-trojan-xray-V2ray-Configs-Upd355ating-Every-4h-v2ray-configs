@@ -1,5 +1,5 @@
-trojan://1468eae4-eb01-4b9f-ae8f-ce55c372d1af@frontend.yijianlian.app:54530?allowInsecure=1&sni=&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336292
-trojan://1d29537a-3ec0-4775-97ec-c5773b6e4103@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872574
-trojan://85ba209b-54d1-4aad-871e-98df4eb224bf@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979827
-trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737219
-trojan://cf82acfc-7b90-445e-ac4a-56ce0a48305a@frontend.yijianlian.app:54530?allowInsecure=1&sni=&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20433913
+trojan://1468eae4-eb01-4b9f-ae8f-ce55c372d1af@frontend.yijianlian.app:54530?allowInsecure=1&sni=&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522302
+trojan://1d29537a-3ec0-4775-97ec-c5773b6e4103@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190133
+trojan://85ba209b-54d1-4aad-871e-98df4eb224bf@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20493728
+trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446145
+trojan://cf82acfc-7b90-445e-ac4a-56ce0a48305a@frontend.yijianlian.app:54530?allowInsecure=1&sni=&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952300
