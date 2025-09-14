@@ -1,3 +1,3 @@
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36116?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5965
 trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-6015
-trojan://f2062447-50cc-4dc4-bdfe-b46082accfb0@18.176.134.145:36116?allowInsecure=0&peer=jp01.abpilot.xyz&sni=jp01.abpilot.xyz&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20395878
+trojan://f2062447-50cc-4dc4-bdfe-b46082accfb0@18.176.134.145:36116?allowInsecure=0&peer=jp01.abpilot.xyz&sni=jp01.abpilot.xyz&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20644568

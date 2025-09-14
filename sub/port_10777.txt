@@ -11,4 +11,4 @@ vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&secu
 vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B148%5D
 vless://fa3eae39-bf7a-4da9-86cd-98b8174bc141@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%40one_shop_official`
 vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%DB%8C%20%D9%BE%DB%8C%20%D8%A7%D9%86%3A%20%40one_shop_official_bot`
-vless://fa3eae39-bf7a-4da9-86cd-98b8174bc141@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20159748
+vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20719647

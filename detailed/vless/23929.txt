@@ -1,1 +1,1 @@
-vless://a209c2de-2bb6-4fa0-b8b2-c506bfb9b422@114.41.31.44:23929?security=reality&encryption=none&pbk=vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ&headerType=none&fp=edge&type=tcp&sni=www.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20926942
+vless://a209c2de-2bb6-4fa0-b8b2-c506bfb9b422@114.41.31.44:23929?security=reality&encryption=none&pbk=vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ&headerType=none&fp=edge&type=tcp&sni=www.microsoft.com#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20539331
