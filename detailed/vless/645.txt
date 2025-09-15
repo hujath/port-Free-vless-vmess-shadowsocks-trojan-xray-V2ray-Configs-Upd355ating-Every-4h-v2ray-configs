@@ -1,3 +1,2 @@
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@141.11.164.240:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B14%5D
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B15%5D
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B16%5D
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B14%5D
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B15%5D
