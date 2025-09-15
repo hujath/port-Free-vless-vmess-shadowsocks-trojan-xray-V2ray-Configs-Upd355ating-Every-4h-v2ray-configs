@@ -1,0 +1,2 @@
+vless://2a0ce0d5-cd10-4f7a-9c86-cf20fb2a9ce3@160.25.74.112:10109?allowInsecure=0&sni=content.cdp.bethesda.net&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#VN_speednode_0027
+vless://ef9ffa72-b723-4382-a7d6-88e2cd2aa773@160.25.74.112:10109?allowInsecure=0&sni=content.cdp.bethesda.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#VN_speednode_0028
