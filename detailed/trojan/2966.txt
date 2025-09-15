@@ -1,6 +1,5 @@
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecure=1&sni=23.45.86.28#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&headerType=&type=tcp&sni=23.45.86.28#🇺🇸[openproxylist.com] trojan-US
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.151.231-0634
