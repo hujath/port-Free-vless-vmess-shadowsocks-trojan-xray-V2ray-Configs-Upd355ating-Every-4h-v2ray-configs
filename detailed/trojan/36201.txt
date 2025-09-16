@@ -1,2 +1,1 @@
-trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5871
-trojan://f2062447-50cc-4dc4-bdfe-b46082accfb0@18.176.134.145:36201?allowInsecure=0&peer=sg01.abpilot.xyz&sni=sg01.abpilot.xyz&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20455879
+trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5472

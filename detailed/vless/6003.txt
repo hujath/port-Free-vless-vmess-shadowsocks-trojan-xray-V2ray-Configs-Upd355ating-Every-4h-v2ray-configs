@@ -3,4 +3,3 @@ vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=non
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@91.98.89.225:6003?security=&fp=chrome&type=tcp&headerType=http&host=www.stackoverflow.com&encryption=none#@Rayan_Config%2051
-vless://b3138f88-8845-41f7-8250-6eaa30be0110@91.98.89.225:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20540683
