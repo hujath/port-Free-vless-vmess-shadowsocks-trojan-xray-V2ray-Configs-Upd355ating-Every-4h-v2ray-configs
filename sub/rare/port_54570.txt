@@ -1,2 +1,2 @@
 vmess://ewogICAgImFkZCI6ICI4LjIxMC4yNDguMjEwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhYTFkMDJhNC02MGU2LTQ2NzEtODEwNy00ZDVlNmJhY2QyNjUiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDU0NTcwLAogICAgInBzIjogIvCfh63wn4ewSEstOC4yMTAuMjQ4LjIxMC0xOTg4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54570?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20199135
+trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54570?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457508
