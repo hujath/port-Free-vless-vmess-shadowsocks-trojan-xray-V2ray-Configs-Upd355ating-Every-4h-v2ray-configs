@@ -4,4 +4,4 @@ vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&securit
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&type=ws#[🇬🇧]
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?security=&fp=chrome&type=ws&path=/&encryption=none#@Rayan_Config%2092
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=%2F&security=none&encryption=none&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
-vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20328002
+vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20520266
