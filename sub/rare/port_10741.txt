@@ -1,2 +1,1 @@
 vless://b508abfc-9161-4439-b285-5fd2191fdefe@storm.timholden.info:10741?type=grpc&encryption=none&serviceName=&authority=%2FduhUIUGYGn&security=none#%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%B3%D9%81%D8%A7%D8%B1%D8%B4%20%F0%9F%91%89-%40StormSafe%20grpc`
-vless://b508abfc-9161-4439-b285-5fd2191fdefe@31.56.197.234:10741?type=grpc&encryption=none&serviceName=&authority=%2FduhUIUGYGn&security=none#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20425429
