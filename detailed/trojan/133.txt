@@ -1,2 +1,1 @@
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:133?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:133?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.68.219-0631
