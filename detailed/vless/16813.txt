@@ -1,1 +1,2 @@
-vless://0b47cfe4-54d1-42be-8bb3-41c4fac4a0af@165.232.47.2:16813?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20372320
+vless://0b47cfe4-54d1-42be-8bb3-41c4fac4a0af@165.232.47.2:16813?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B18%5D
+vless://0b47cfe4-54d1-42be-8bb3-41c4fac4a0af@165.232.47.2:16813?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20977904
