@@ -1,0 +1,2 @@
+vless://6f2e2e76-6aba-44ea-a3b2-4a457ed592e5@node1.nanonet.host:46877?encryption=none&security=tls&sni=node1.nanonet.host&fp=chrome&type=tcp&headerType=none#qol_078
+vless://4a32b333-59fc-475d-a39d-2318b7daff85@node1.nanonet.host:46877?encryption=none&security=tls&sni=node1.nanonet.host&fp=chrome&type=tcp&headerType=none#qol_079
