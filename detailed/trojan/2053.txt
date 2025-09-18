@@ -14,4 +14,4 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2911
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-4847
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir#%F0%9F%8F%81RELAY-104.21.71.8-4850
-trojan://94cf288d-f764-4ce9-a547-a7228144f056@172.67.145.146:2053?encryption=none&security=tls&sni=gercdn.bm04.xyz&alpn=h3,h2,http/1.1&fp=random&type=ws&host=gercdn.bm04.xyz&path=/project/activity/ws/&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20872136
+trojan://94cf288d-f764-4ce9-a547-a7228144f056@172.67.145.146:2053?encryption=none&security=tls&sni=gercdn.bm04.xyz&alpn=h3,h2,http/1.1&fp=random&type=ws&host=gercdn.bm04.xyz&path=/project/activity/ws/&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20174117

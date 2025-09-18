@@ -1,4 +1,4 @@
-vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?allowInsecure=0&sni=yahoo.com&fp=firefox&security=tls#US_speednode_0043
+vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?allowInsecure=0&sni=yahoo.com&fp=firefox&security=tls#US_speednode_0027
 vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?security=reality&encryption=none&pbk=1ltSdo2K6D9EEwebaDQPCb5ypbURcXyO9HsX4RUbbUo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=1a24af87#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 vless://47423673-a5ed-4147-80b9-c8a34b5b2b18@1002.952326.xyz:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=ios&pbk=T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4&type=tcp&headerType=none#qol_001
 vless://38faf943-6d6f-4f7e-bac0-6ba02f1ddd4a@1002.952326.xyz:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=ios&pbk=T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4&type=tcp&headerType=none#qol_002
@@ -8,4 +8,4 @@ vless://f5a40448-3204-418d-a858-a6c335f928a5@1002.952326.xyz:10001?encryption=no
 vless://e49bf03b-b3d5-4425-9dde-0615d05242ae@1002.952326.xyz:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=qq&pbk=T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4&type=tcp&headerType=none#qol_006
 vless://99b7a52a-1d75-4e8e-91a4-19eb8b43d77f@1002.952326.xyz:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=safari&pbk=T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4&type=tcp&headerType=none#qol_007
 vless://b94c6c8d-870b-44e9-a8b8-88f70d0f8bd8@1002.952326.xyz:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=chrome&pbk=T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4&type=tcp&headerType=none#qol_008
-vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?security=reality&encryption=none&pbk=1ltSdo2K6D9EEwebaDQPCb5ypbURcXyO9HsX4RUbbUo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=1a24af87#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20898908
+vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?security=reality&encryption=none&pbk=1ltSdo2K6D9EEwebaDQPCb5ypbURcXyO9HsX4RUbbUo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=1a24af87#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20820839
