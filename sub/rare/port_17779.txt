@@ -1,1 +1,0 @@
-vless://a83d7ca8-9ff7-3c65-ace5-b2f53dd5b1dc@38.244.39.95:17779?allowInsecure=0&sni=learn.microsoft.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#US_speednode_0032
