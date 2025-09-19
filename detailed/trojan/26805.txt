@@ -1,3 +1,4 @@
+trojan://0rw5Ua7wh5@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
