@@ -1,11 +1,2 @@
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0658
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0662
-trojan://testme@212.113.102.67:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20722526
-trojan://testme@212.113.102.67:2025?security=none&fp=chrome&type=ws&host=vkvd127.mycdn.me&path=%2f#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20276056
-trojan://vpn@62.133.60.83:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20343051
-trojan://vpn@2.56.125.113:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20749072
-trojan://vpn@77.232.142.179:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20688224
-trojan://vpn@77.232.142.179:2025?security=none&fp=chrome&type=ws&host=vkvd127.mycdn.me&path=%2f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20747104
-trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20501660
-trojan://vpn@46.29.234.154:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B1%F0%9F%87%B9%20ShatakVPN%20246087
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=%2f#%F0%9F%87%B1%F0%9F%87%B9%20ShatakVPN%20791869
