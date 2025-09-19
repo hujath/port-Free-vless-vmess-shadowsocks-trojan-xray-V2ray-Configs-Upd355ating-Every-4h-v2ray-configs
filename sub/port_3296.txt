@@ -1,3 +1,5 @@
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFvbF8yMDkiLA0KICAiYWRkIjogIjQ3Ljg2LjE4LjIyMSIsDQogICJwb3J0IjogIjMyOTYiLA0KICAiaWQiOiAiMzMyNjM5ZTEtZWZiNS00ZDBjLWEwOWQtZjcyNDQ5MjFlZmVjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIiIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
