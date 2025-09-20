@@ -1,1 +1,1 @@
-trojan://91a0e926-3f67-4304-b823-7e5b400733a5@185.14.47.27:12074?security=tls&sni=cdn.alibaba.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20250308
+trojan://91a0e926-3f67-4304-b823-7e5b400733a5@185.14.47.27:12074?security=tls&sni=cdn.alibaba.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20955627
