@@ -9,3 +9,4 @@ vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sn
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&type=ws&host=ula347.tiri-viri.com&path=%2F#%40skypro_vpn
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&host=ula347.tiri-viri.com&path=%2F#qoli_0265
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&host=ula347.tiri-viri.com&path=%2F#qoli_0436
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&type=ws&host=ula347.tiri-viri.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20547398
