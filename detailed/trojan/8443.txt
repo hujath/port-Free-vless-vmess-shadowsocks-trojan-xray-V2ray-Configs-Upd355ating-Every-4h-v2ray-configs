@@ -27,6 +27,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.192.221-2809
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-2855
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8476
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20987098
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20620066
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20612175
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20526938
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20484989
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20157500
