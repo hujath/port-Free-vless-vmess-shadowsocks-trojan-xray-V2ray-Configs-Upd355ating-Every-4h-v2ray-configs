@@ -1,2 +1,3 @@
-trojan://juzi@140.83.57.183:22735?type=ws&sni=juzi8186-sr1.pages.dev&path=/?ed=2560&host=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A52
+trojan://juzi@140.83.57.183:22735?type=ws&sni=juzi8186-sr1.pages.dev&path=/?ed=2560&host=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A57
 trojan://juzi@140.83.57.183:22735?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#JP_speednode_0019
+trojan://juzi@140.83.57.183:22735?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&path=/?ed=2560&Host=juzi8186-sr1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.57.183-0578
