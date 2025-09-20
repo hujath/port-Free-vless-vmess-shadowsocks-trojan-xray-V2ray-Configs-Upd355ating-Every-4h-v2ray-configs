@@ -2,4 +2,4 @@ vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#%3E%3E%40V2raNG_DA%3A%3ANL
-vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20305009
+vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20713984
