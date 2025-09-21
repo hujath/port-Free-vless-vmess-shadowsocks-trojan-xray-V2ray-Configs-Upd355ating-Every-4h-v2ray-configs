@@ -1,3 +1,2 @@
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#@Dropcube
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#@Selinc
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
