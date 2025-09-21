@@ -1,2 +1,2 @@
 trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.111.157.147-5677
-trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051?security=tls&sni=zz6.91js.pw&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20ShatakVPN%20475725
+trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051?security=tls&sni=zz6.91js.pw&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20ShatakVPN%20206596
