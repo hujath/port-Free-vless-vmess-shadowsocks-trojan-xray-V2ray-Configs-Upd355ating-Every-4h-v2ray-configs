@@ -1,2 +1,1 @@
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
-trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?security=tls&sni=data.sub-zrj.com&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20882959
