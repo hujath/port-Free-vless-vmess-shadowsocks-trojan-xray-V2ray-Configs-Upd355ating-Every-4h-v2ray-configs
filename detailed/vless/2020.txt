@@ -1,3 +1,4 @@
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.239.42:2020?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#SE_speednode_0029
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam

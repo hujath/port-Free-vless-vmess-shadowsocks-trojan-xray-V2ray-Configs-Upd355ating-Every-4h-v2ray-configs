@@ -1,2 +1,0 @@
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@107.173.147.41:35398?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#US_speednode_0076
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@107.173.147.41:35398?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#US_speednode_0077
