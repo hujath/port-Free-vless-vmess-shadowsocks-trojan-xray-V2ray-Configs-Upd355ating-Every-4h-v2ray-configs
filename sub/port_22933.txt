@@ -1,5 +1,0 @@
-vless://234a4937-5029-4bcd-b32a-1eda5afc14f8@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Dropcube
-vless://f738632c-3cbc-4ea1-9b21-57d8b046ca79@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@vpnserverrr
-vless://edaae19a-8b97-4cff-ba39-7cf86aea8bf7@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B1%5D
-vless://b1116f9a-fa62-4525-8210-18bb782fb98b@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B2%5D
-vless://75a4cc28-9b05-4338-8d22-10aa0fba1e90@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B3%5D
