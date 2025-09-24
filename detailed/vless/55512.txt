@@ -1,5 +1,5 @@
 vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?encryption=none&security=none&type=ws&path=%2F#%40Daily_Configs
-vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20110056
-vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20937350
-vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?security=none&encryption=none&type=ws&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20614066
+vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20528133
+vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20863409
+vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?security=none&encryption=none&type=ws&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20659086
