@@ -1,1 +1,2 @@
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?allowInsecure=0&sni=Telewebion.com#IR_speednode_0024
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
