@@ -1,8 +1,0 @@
-trojan://Trevely@112.165.11.40:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-112.165.11.40-0516
-trojan://Trevely@112.165.215.157:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-112.165.215.157-0517
-trojan://Trevely@118.35.75.140:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-118.35.75.140-0519
-trojan://Trevely@118.39.44.24:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-118.39.44.24-0520
-trojan://Trevely@118.46.37.203:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-118.46.37.203-0522
-trojan://Trevely@121.178.121.161:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.121.161-0525
-trojan://Trevely@125.143.29.83:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-125.143.29.83-0526
-trojan://Trevely@203.243.54.42:50000?security=tls&sni=trojanfree.trevely.us.kg&type=ws&path=/?ed=2560&Host=trojanfree.trevely.us.kg#%F0%9F%87%B0%F0%9F%87%B7KR-203.243.54.42-0527
