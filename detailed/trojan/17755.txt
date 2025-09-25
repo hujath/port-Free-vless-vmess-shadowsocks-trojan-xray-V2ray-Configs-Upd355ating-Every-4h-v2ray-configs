@@ -1,1 +1,3 @@
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?allowInsecure=0&sni=data.52daishu.life#%F0%9F%87%A8%F0%9F%87%B3%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%20%E7%A7%BB%E5%8A%A8
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?sni=data.52daishu.life#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?security=tls&sni=data.52daishu.life#%F0%9F%87%A9%F0%9F%87%AADE-77.90.22.86-0742
