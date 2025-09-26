@@ -1,2 +1,4 @@
 vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#AZ_speednode_0003
+ss://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&sid=e1ac6d894342c318#👉🆔@v2ray_configs_pool📡🇦🇿®️Azerbaijan©️Baku🅿️ping:101.24ms
+vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e1ac6d894342c318#🇦🇿[Telegram:NetifyVPN]
 vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&sid=e1ac6d894342c318&type=tcp&headerType=none#qoli_010
