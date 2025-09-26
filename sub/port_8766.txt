@@ -4,3 +4,4 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509242154338-Zr8tJCX9sq.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#%E2%9A%9C%EF%B8%8FTelegram%3A%20V2rayNGfreeGP_tiknet`
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.31.170-0713
+vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#%F0%9F%87%AA%F0%9F%87%AA%20ShatakVPN%20534531

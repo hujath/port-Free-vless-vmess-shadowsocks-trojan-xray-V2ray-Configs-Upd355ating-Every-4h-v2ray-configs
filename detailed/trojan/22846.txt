@@ -1,2 +1,2 @@
-trojan://6et7U7udLe@8.209.223.114:22846?security=tls&sni=qige.zaide.tech&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20888686
-trojan://6et7U7udLe@8.209.223.114:22846?security=tls&sni=qige.zaide.tech&type=tcp&headerType=none&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20774622
+trojan://6et7U7udLe@8.209.223.114:22846?security=tls&sni=qige.zaide.tech&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20434783
+trojan://6et7U7udLe@8.209.223.114:22846?security=tls&sni=qige.zaide.tech&type=tcp&headerType=none&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20845907

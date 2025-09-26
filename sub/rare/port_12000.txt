@@ -1,4 +1,4 @@
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?sni=aliyun.com#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#CN_speednode_0004
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?sni=aliyun.com#%E6%9C%AA%E7%9F%A52
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#CN_speednode_0005
 vless://b7f73254-172a-4b18-8941-897284149a4f@germany1.abolfazl.ru:12000?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=B06U1TZdmV9qKd0X6a4FQIN1ggNTBIp5Dh1DNsSdsnk&sid=880add42e8262e71&type=tcp&headerType=none#qoli_031
 vmess://ewogICAgImFkZCI6ICIxNzIuMjM0Ljg2LjE2NiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjE3Mi4yMzQuODYuMTY2IiwKICAgICJpZCI6ICJhZjBiZmNjZS04NzMwLTQxMzMtYmRhYS1mNmIxZGE3MGZjMWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIwMDAsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNzIuMjM0Ljg2LjE2Ni04MTI4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTcyLjIzNC44Ni4xNjYiCn0=
