@@ -1,3 +1,2 @@
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#Channel : @vmessorg🏴🏳
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#Channel : @vpnserverrr🏴🏳
-vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessorg%20%5B8%5D
