@@ -1,3 +1,2 @@
-vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004/?type=ws&encryption=none&flow=&path=/vpnjantit#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:150.47ms
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=/vpnjantit&security=none&encryption=none&type=ws#rt
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=/vpnjantit&security=none&encryption=none&type=ws#🇨🇦®️Canada©️Beauharnois🅿️ping:117.53ms
