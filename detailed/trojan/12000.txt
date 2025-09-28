@@ -1,2 +1,0 @@
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-165.154.112.107-0642
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?security=tls&sni=aliyun.com#%F0%9F%87%A8%F0%9F%87%B3CN-106.75.134.1-0907
