@@ -1,1 +1,0 @@
-vless://1a681824-5550-78c4-5880-bfb22e0d0f6e@dl-01.chapjavan.ir:45555?security=tls&alpn=h3,h2,http/1.1&encryption=none&host=telewebion.com&headerType=http&fp=chrome&type=tcp#t.me/entryNET/config=1844566381977248

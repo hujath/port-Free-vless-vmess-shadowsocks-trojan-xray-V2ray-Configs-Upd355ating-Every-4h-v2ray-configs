@@ -4,8 +4,3 @@ vless://0206344e-c41c-44bc-8ecf-502f9d0baa73@cdn.radar.gostarmizban.com:4040?pat
 vless://0206344e-c41c-44bc-8ecf-502f9d0baa73@ip-static.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇺🇸 → ČÐŅ
 vless://0206344e-c41c-44bc-8ecf-502f9d0baa73@zzz.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇫🇷 → ČÐŅ
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#✅@v2ray_configs_pools
-vless://e5af1382-ba5a-4dfe-b9b3-38d953f413c6@api.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇳🇱 → ČÐŅ
-vless://e5af1382-ba5a-4dfe-b9b3-38d953f413c6@arvan-cdn.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇹🇷 → ČÐŅ
-vless://e5af1382-ba5a-4dfe-b9b3-38d953f413c6@cdn.radar.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇲🇰 → ČÐŅ
-vless://e5af1382-ba5a-4dfe-b9b3-38d953f413c6@ip-static.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇺🇸 → ČÐŅ
-vless://e5af1382-ba5a-4dfe-b9b3-38d953f413c6@zzz.gostarmizban.com:4040?path=/&security=&encryption=none&type=ws#☁️ 🇫🇷 → ČÐŅ
