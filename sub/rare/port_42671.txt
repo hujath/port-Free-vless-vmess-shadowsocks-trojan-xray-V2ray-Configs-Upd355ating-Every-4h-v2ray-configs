@@ -1,2 +1,2 @@
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://4852b1e8-3eec-464c-84f0-05f7fdce85d7@157.90.247.32:42671?type=tcp&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20984736
+vless://4852b1e8-3eec-464c-84f0-05f7fdce85d7@157.90.247.32:42671?type=tcp&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20694023
