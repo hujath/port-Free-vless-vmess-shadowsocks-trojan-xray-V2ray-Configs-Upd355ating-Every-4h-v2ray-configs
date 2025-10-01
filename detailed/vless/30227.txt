@@ -1,1 +1,0 @@
-vless://9a54bad8-538d-4744-b7bc-640629840490@216.133.149.235:30227?allowInsecure=0&sni=aws.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0020
