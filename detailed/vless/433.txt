@@ -1,2 +1,1 @@
-vless://ea8a4fac-8b8a-4fa5-a7b4-63575499fffb@sunstar.astracat.ru:433?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BG_speednode_0001
 vless://ea8a4fac-8b8a-4fa5-a7b4-63575499fffb@sunstar.astracat.ru:433?security=reality&encryption=none&pbk=ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=1A2B3C4D5E6F7890#🇩🇪r♡ya@Anty_Filter
