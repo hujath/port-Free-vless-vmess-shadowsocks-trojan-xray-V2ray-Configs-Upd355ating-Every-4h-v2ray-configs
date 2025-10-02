@@ -1,4 +1,4 @@
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=/vpnjantit&security=none&encryption=none&type=ws#@Daily_Configs
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ACA
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?security=&fp=chrome&type=ws&path=/vpnjantit&encryption=none#@Rayan_Config%2096
-vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20574407
+vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20887720
