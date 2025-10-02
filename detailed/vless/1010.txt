@@ -1,2 +1,1 @@
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#@CaV2ray ⚡️
-vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:1010?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
