@@ -33,4 +33,4 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.19:8000#%F0%9F%87%BA%F0
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-6939
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7199
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:8000#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7320
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20260820
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20485741
