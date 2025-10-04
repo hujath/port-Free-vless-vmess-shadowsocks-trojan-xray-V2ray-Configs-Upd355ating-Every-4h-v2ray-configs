@@ -1,2 +1,1 @@
-vless://680e9152-1196-4451-a1fd-60830b0f3e4b@157.90.247.32:42671?encryption=none&security=none&type=tcp&headerType=none#@freenettir
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
