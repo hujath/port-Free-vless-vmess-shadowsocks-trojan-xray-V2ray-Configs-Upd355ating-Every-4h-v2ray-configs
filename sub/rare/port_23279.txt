@@ -1,0 +1,1 @@
+vless://30198cba-c828-4b34-8165-25942bad201e@141.94.210.231:23279?encryption=none&type=grpc&mode=gun&serviceName=t.me/entryNET&security=none#t.me/entryNET/config=1845063406143925
