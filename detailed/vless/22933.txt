@@ -1,5 +1,5 @@
 vless://1b5f6283-4872-4048-bb9b-308bc305cb0c@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
 vless://1b5f6283-4872-4048-bb9b-308bc305cb0c@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2RAYROZ
 vless://75a4cc28-9b05-4338-8d22-10aa0fba1e90@91.98.22.20:22933?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
-vless://27e3937e-414f-4542-845d-d4d0cfb0889d@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B1%5D
 vless://44aa0da4-7ea3-4ad8-baeb-c63ff1311e66@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B3%5D
