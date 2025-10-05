@@ -1,2 +1,2 @@
 vless://0199a017-e8e8-9dc6-eb33-0b56980e01dd@129.153.112.108:3966?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#%3E%3E%40configV2rayNG%3A%3AUS
-vless://0199a017-e8e8-9dc6-eb33-0b56980e01dd@129.153.112.108:3966?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20685767
+vless://0199a017-e8e8-9dc6-eb33-0b56980e01dd@129.153.112.108:3966?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20678923
