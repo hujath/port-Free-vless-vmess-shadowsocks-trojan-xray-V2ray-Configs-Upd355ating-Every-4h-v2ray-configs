@@ -8,4 +8,4 @@ vless://bfd5560e-d80c-456b-a14f-6d5b66de07f8@159.69.107.16:666?security=none&enc
 vless://bfd5560e-d80c-456b-a14f-6d5b66de07f8@159.69.107.16:666?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40DailyV2RY%3A%3ADE
 vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
-vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20587635
+vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20735683
