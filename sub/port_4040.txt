@@ -2,6 +2,7 @@ vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:4040?security=none&e
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&encryption=none&host=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
+vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&encryption=none&host=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&type=tcp#t.me/entryNET/config=1845169859442422
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#✅@v2ray_configs_pools
 vless://e6d7a0c4-d6df-49d6-92ec-f9100211a88d@arvan-cdn.gostarmizban.com:4040?path=/&security=none&encryption=none&type=ws#r♡ya
 vless://e6d7a0c4-d6df-49d6-92ec-f9100211a88d@ip-static.gostarmizban.com:4040?path=/&security=none&encryption=none&type=ws#🇺🇸 →r♡ya
