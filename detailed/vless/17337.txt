@@ -17,9 +17,9 @@ vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ADE
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20111391
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20187561
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20669965
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20155627
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20853343
-vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20871417
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20316109
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20952434
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20326490
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20191555
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20525567
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@138.199.206.184:17337?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20639980
