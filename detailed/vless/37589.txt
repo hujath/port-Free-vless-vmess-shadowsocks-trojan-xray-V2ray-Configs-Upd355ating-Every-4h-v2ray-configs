@@ -1,7 +1,7 @@
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
-vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+vless://@Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
-vless://%40Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20298856
-vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20141113
-vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20477495
-vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20825624
+vless://%40Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20417123
+vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20606086
+vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20540268
+vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20329458
