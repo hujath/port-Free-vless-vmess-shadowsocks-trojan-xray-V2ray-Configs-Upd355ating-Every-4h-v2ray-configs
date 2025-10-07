@@ -1,2 +1,1 @@
 vless://47a740be-06a5-4c8a-8a4e-a18204b62f4c@myinfo.sahandconfig.ir:40748?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxtun&sni=#t.me/NasaV2|🇨🇭
-vless://47a740be-06a5-4c8a-8a4e-a18204b62f4c@myinfo.sahandconfig.ir:40748?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxtun&sni=myinfo.sahandconfig.ir#🏴‍☠️@FreakConfig
