@@ -1,4 +1,4 @@
 vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?mode=gun&security=none&encryption=none&type=grpc&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420#@V2rayNGVPN <= کانفیگ رایگان
 vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?security=none&type=grpc&headerType=&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&authority=&mode=gun#@EXPRESSVPN_420
 vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?mode=gun&security=none&encryption=none&type=grpc&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420#%3E%3E%40configV2rayNG%3A%3AXX
-vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?mode=gun&security=none&encryption=none&type=grpc&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20463384
+vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?mode=gun&security=none&encryption=none&type=grpc&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20758052
