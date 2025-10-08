@@ -1,5 +1,5 @@
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?allowInsecure=0&sni=nm.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%BA%F0%9F%87%B8%20US
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?sni=nm.ylka.dpdns.org#US5
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?sni=nm.ylka.dpdns.org#US3
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@IRAN_V2RAY1
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
