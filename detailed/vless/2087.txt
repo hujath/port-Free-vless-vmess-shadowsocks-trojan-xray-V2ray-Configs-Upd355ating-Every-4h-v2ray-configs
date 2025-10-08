@@ -70,4 +70,3 @@ vless://94685add-cda8-403d-871e-06c7a38e9d1d@185.138.164.146:2087/?type=tcp&encr
 vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2087?encryption=none&security=tls&sni=nEwMTPROxI.PAGes.DEv&fp=chrome&type=ws&host=nEwMTPROxI.PAGes.DEv&path=%2F#aa_065
 vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.44.225:2087?encryption=none&security=tls&sni=nEwMTPROxI.PAGes.DEv&fp=chrome&type=ws&host=nEwMTPROxI.PAGes.DEv&path=%2F#aa_087
 vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2087?encryption=none&security=tls&sni=newmtPrOXi.paGeS.deV&fp=randomized&type=ws&host=newmtPrOXi.paGeS.deV&path=%2FV24NjwSLFNJ4CepD%3Fed%3D2560#da_041
-vless://94685add-cda8-403d-871e-06c7a38e9d1d@185.138.164.146:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=VVOAvVRuU3_LxiftduxnMbUNKHSOoR08erDTtwAMfUA&sid=d361d6e2cdff#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20681371
