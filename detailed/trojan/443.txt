@@ -1,5 +1,7 @@
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@58.152.25.205:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?allowInsecure=0&sni=nn.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@ipv4.ip.sb:443?allowInsecure=0&sni=nm.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.142.12:443?allowInsecure=0&sni=nm.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
@@ -35,7 +37,9 @@ trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@time.is:443?allowInsecure=0&sni=nn
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.120.0:443?allowInsecure=0&sni=nn.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#172.67.120.0
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]:443?allowInsecure=0&sni=nn.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#IPV6
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]:443?allowInsecure=0&sni=nn.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#IPV6
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@58.152.25.205:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@lewis.ns.cloudflare.com:443?sni=nm.ylka.dpdns.org#%E6%9C%AA%E7%9F%A5
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@abdullah.ns.cloudflare.com:443?sni=nn.ylka.dpdns.org#%E6%9C%AA%E7%9F%A52
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@time.is:443?sni=nn.ylka.dpdns.org#%E6%9C%AA%E7%9F%A53
@@ -65,7 +69,9 @@ trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@craig.ns.cloudflare.com:443?sni=nn
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@decker.ns.cloudflare.com:443?sni=nn.ylka.dpdns.org#%E6%9C%AA%E7%9F%A523
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.udemy.com:443?sni=nn.ylka.dpdns.org#%E6%9C%AA%E7%9F%A524
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.csgo.com:443?sni=nn.ylka.dpdns.org#%E6%9C%AA%E7%9F%A525
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=1&sni=www.nintendogames.net#JP_speednode_0032
+trojan://253bc477d4e43c209f2d427272968280@58.152.25.205:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1&sni=www.nintendogames.net#NL_speednode_0047
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#IR-@IRAN_V2RAY1
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#bored_vpn
@@ -325,11 +331,11 @@ trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-8713
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8734
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8775
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20315106
-trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20367271
-trojan://9ba843b2-3e77-488b-b468-d934c5ef5f76@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F129.151.128.105-16731&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20536298
-trojan://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F185.66.165.51-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20816971
-trojan://biOrJGlcfX@104.20.5.134:443/?type=ws&host=ghasem.kotlet.org&path=%2Fkos-madaret-khamneii&security=tls&sni=ghasem.kotlet.org&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20884843
-trojan://biOrJGlcfX@104.20.6.134:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20880240
-trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20797546
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?sni=www.nintendogames.net&path=%2f#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20242443
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20952143
+trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20344444
+trojan://9ba843b2-3e77-488b-b468-d934c5ef5f76@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F129.151.128.105-16731&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20355232
+trojan://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F185.66.165.51-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20759584
+trojan://biOrJGlcfX@104.20.6.134:443/?type=ws&host=ghasem.kotlet.org&path=%2Fkos-madaret-khamneii&security=tls&sni=ghasem.kotlet.org&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20595459
+trojan://biOrJGlcfX@104.20.6.134:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20281879
+trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20706454
+trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?sni=www.nintendogames.net&path=%2f#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20348753
