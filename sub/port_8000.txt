@@ -1,7 +1,6 @@
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#NL_speednode_0042
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0043
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#@awlix_ir
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🏴‍☠️@FreakConfig
 vmess://eyJhZGQiOiI0NS4xMi4xMjkuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4uemlmZnN0YXRpYy5jb20iLCJpZCI6IjVjMWJiMGY5LWFhYmUtNGUyZC05YTVmLTAzYzYwMGViMjYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6Ilvwn4ex8J+HuUxUXSBAR2Vla19TcG90Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4Mi4zOC4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNkbi56aWZmc3RhdGljLmNvbSIsImlkIjoiNWMxYmIwZjktYWFiZS00ZTJkLTlhNWYtMDNjNjAwZWIyNjA3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiW/Cfh63wn4e6SFVdIEBHZWVrX1Nwb3QgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5MS4xMDcuMTI5Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4uemlmZnN0YXRpYy5jb20iLCJpZCI6IjVjMWJiMGY5LWFhYmUtNGUyZC05YTVmLTAzYzYwMGViMjYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6Ilvwn4ep8J+HqkRFXSBAR2Vla19TcG90ICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -30,4 +29,4 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.19:8000#%F0%9F%87%BA%F0
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7028
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7288
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:8000#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7409
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20441706
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20457449
