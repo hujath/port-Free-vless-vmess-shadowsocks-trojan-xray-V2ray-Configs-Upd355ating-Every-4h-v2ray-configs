@@ -7,4 +7,5 @@ vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&e
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@AblNet7 🇮🇷 نت ملی 🇳🇱
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20715275
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20652294
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20926991
