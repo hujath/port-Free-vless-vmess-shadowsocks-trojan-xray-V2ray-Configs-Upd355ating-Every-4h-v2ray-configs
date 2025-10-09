@@ -4,9 +4,9 @@ vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&e
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#rt
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20715997
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20600590
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20935632
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20167401
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20889943
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20249840
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20104368
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20812770
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20146595
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20746780
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20977721
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20720901
