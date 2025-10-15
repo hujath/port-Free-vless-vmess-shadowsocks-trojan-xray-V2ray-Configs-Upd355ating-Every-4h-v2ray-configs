@@ -1,5 +1,5 @@
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
 vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=&type=tcp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
-vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20908890
-vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20247291
+vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20763869
+vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20951849
