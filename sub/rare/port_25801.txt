@@ -1,2 +1,2 @@
 vless://4c7f66da-af49-4e6d-b60c-f6a0eaa00919@mengying.eu.org:25801?allowInsecure=0&sni=updates.cdn-apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AT_speednode_0001
-vless://4c7f66da-af49-4e6d-b60c-f6a0eaa00919@152.53.170.208:25801?flow=xtls-rprx-vision&security=tls&sni=updates.cdn-apple.com&fp=chrome&pbk=iC7qQK0Yu8sQsiIj5JPTGDVTrFkZDoesDUn24pDwgQk&type=tcp&headerType=none&host=updates.cdn-apple.com&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20880695
+vless://4c7f66da-af49-4e6d-b60c-f6a0eaa00919@152.53.170.208:25801?flow=xtls-rprx-vision&security=tls&sni=updates.cdn-apple.com&fp=chrome&pbk=iC7qQK0Yu8sQsiIj5JPTGDVTrFkZDoesDUn24pDwgQk&type=tcp&headerType=none&host=updates.cdn-apple.com&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20802142
