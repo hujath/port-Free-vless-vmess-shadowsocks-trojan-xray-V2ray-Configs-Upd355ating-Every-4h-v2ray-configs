@@ -7,9 +7,9 @@ vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&e
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#Telegram+%3A+%40V2rayEnglish`
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20400568
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20110154
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20995298
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20843799
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20952713
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20499717
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20854859
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20837193
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20749597
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20340208
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20124175
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20692291
