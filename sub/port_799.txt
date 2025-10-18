@@ -1,8 +1,6 @@
-ss://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#👉🆔@freenettir📡🇫🇮®️Finland©️Helsinki🅿️ping:13.96ms
-ss://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerT…#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.62ms
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#👉🆔@freenettir📡🇫🇮®️Finland©️Helsinki🅿️ping:13.96ms
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
@@ -10,6 +8,6 @@ vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&enc
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20496739
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20731532
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20909194
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20275357
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20358652
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20337030
