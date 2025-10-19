@@ -5,12 +5,12 @@ trojan://iwangjie@83.147.254.185:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&w
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://acdd585a-6bcf-40ff-875e-657f168e4202@bestcdn1.868863.xyz:443?allowInsecure=0&sni=tt-a2-cdn.the-best-airport.top&ws=1&wspath=%2Fagraeabtegrrh#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
-trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://acdd585a-6bcf-40ff-875e-657f168e4202@bestcdn1.868863.xyz:443?sni=tt-a2-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A52
-trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-trojan://iwangjie@83.147.254.185:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://acdd585a-6bcf-40ff-875e-657f168e4202@bestcdn1.868863.xyz:443?sni=tt-a2-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+trojan://iwangjie@83.147.254.185:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
+trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?allowInsecure=1&sni=fe2.update.microsoft.com#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://02XtoczO7V@104.17.247.140:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
 trojan://02XtoczO7V@104.19.111.152:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
@@ -24,16 +24,15 @@ trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
-trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#t.me/entryNET/config=1846269292092695
 trojan://6616b041-502d-4476-88a8-254e683c82e4@104.21.33.216:443?path=/Free-VPN-CF-Geo-Project/AE1&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#@meli_proxyy
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
-trojan://7771233d-f409-407d-a4b1-535433fa74d7@104.21.33.216:443?path=/Free-VPN-CF-Geo-Project/AE1&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.5ms
 trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 trojan://V2qblnpdB6@91.108.249.171:443?security=reality&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=b235e63f3b4bf29c#@HiByeVPNN👈⚡❤️‍🔥
 trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=/Free-VPN-CF-Geo-Project/AE2&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#@meli_proxyy
+trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=/Free-VPN-CF-Geo-Project/AE2&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#t.me/entryNET/config=1846404558910344
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
@@ -48,8 +47,6 @@ trojan://tg-dns68@162.159.153.68:443?security=tls&type=ws&sni=vip.putata.eu.org&
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
-trojan://3690911436885991424@careful-platypus.opossum872.cfd:443#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://auto@172.64.35.154:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&fp=randomized#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B7%5D
 trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B8%5D
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B9%5D
@@ -313,22 +310,22 @@ trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-8848
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8869
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8910
-trojan://541da7c5-dd4b-4318-9252-24eb694230bf@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20566084
-trojan://8d6d33b5-8d0d-41c3-9f3d-9b5aac43d4c9@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20111672
-trojan://a3fadc5b-e1e6-47c1-a256-924c80201a49@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20638533
-trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20515735
-trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?mux=&path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&host=joss.krikkrik.xyz&type=ws&muxConcurrency=-1&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20118257
-trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20825529
-trojan://e89387b4-643a-4208-a6d2-70a3419de496@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20423265
-trojan://2c5f18f9-b065-41fc-b0a4-a14a25540236@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE7&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20995119
-trojan://6616b041-502d-4476-88a8-254e683c82e4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20825840
-trojan://7771233d-f409-407d-a4b1-535433fa74d7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20756507
-trojan://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20610377
-trojan://9c1b59d2-b23d-4187-b3cf-00666ef6ef1c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20439694
-trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20916139
-trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES4&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20752242
-trojan://dbeace35-cdc9-493b-b492-25caceba040c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20370490
-trojan://de5c8727-8221-4579-a9d1-4ec059805678@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20150092
-trojan://e1191c4d-5a2c-406e-977f-63cb7e0aba2c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20259257
-trojan://febb50d1-b6d6-47a8-a780-aaef37ce3e67@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20165383
-trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20871416
+trojan://541da7c5-dd4b-4318-9252-24eb694230bf@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20399988
+trojan://8d6d33b5-8d0d-41c3-9f3d-9b5aac43d4c9@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20855594
+trojan://a3fadc5b-e1e6-47c1-a256-924c80201a49@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20373546
+trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20541313
+trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?mux=&path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&host=joss.krikkrik.xyz&type=ws&muxConcurrency=-1&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20700815
+trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20981595
+trojan://e89387b4-643a-4208-a6d2-70a3419de496@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20585262
+trojan://2c5f18f9-b065-41fc-b0a4-a14a25540236@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE7&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20465265
+trojan://6616b041-502d-4476-88a8-254e683c82e4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20121600
+trojan://7771233d-f409-407d-a4b1-535433fa74d7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20970623
+trojan://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20104017
+trojan://9c1b59d2-b23d-4187-b3cf-00666ef6ef1c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20130283
+trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20126604
+trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES4&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20339169
+trojan://dbeace35-cdc9-493b-b492-25caceba040c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20256195
+trojan://de5c8727-8221-4579-a9d1-4ec059805678@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20584508
+trojan://e1191c4d-5a2c-406e-977f-63cb7e0aba2c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20592161
+trojan://febb50d1-b6d6-47a8-a780-aaef37ce3e67@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20681289
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20117382
