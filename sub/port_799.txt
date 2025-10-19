@@ -11,6 +11,6 @@ vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&enc
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20226495
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20197217
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20725546
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20608886
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20780234
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20178058
