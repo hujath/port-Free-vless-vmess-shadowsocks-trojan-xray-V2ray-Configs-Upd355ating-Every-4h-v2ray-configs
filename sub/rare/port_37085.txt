@@ -1,3 +1,3 @@
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#%3E%3E%40configV2rayNG%3A%3AGB
-trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20445195
-trojan://1sbtkLK7F3@195.22.157.104:37085?security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2f1.1&fp=chrome&type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2fmoshali2plus#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20337353
+trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20478695
+trojan://1sbtkLK7F3@195.22.157.104:37085?security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2f1.1&fp=chrome&type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2fmoshali2plus#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20509375
