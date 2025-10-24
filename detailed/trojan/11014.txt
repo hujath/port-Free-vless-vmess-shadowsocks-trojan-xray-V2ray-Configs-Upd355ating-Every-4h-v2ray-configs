@@ -1,5 +1,4 @@
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Hddify
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Daily_Configs
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@meli_proxyy
@@ -7,12 +6,11 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#🇺🇲@FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&sni=wus04.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%40Daily_Configs
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20971765
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20631698
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20280626
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20383817
