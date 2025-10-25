@@ -2,10 +2,10 @@ trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🏴‍☠️@FreakConfig
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%3E%3E%40configV2rayNG%3A%3AIQ
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%3E%3E%40oneclickvpnkeys%3A%3AIQ
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20127572
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20295963
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20575396
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20346561
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&host=glowingpickle.bananatornado.click&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20709883
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20770124
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20329911
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20233186
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20591014
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20629513
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20817561
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&host=glowingpickle.bananatornado.click&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20210212
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20114953
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&path=%2f#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20186414
