@@ -85,5 +85,5 @@ vless://6006efbc-2751-44c5-8789-d38304d4303a@ico.org.uk:2087?encryption=none&sec
 vless://7fc5337c-2639-42d3-b6ad-ff44277098d8@104.17.238.123:2087?encryption=none&security=tls&sni=anime.11160321.xyz&fp=chrome&type=ws&host=anime.11160321.xyz&path=%2Fsocks%3A%2F%2F123%3A123%40138.68.166.48%3A1080#q_158
 vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?encryption=none&security=tls&sni=Xlz767V2Ray.PAGEs.DEv&fp=chrome&type=ws&host=Xlz767V2Ray.PAGEs.DEv&path=%2Fbethzrzkz5ljs32v%3Fed%3D2560#q_202
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@104.16.50.195:2087?encryption=none&security=tls&sni=teslakit1.pages.dev&fp=chrome&type=ws&host=teslakit1.pages.dev&path=%2F#q_206
-vless://6742388969-client-81f@45.14.244.250:2087/?type=ws&encryption=none&flow=&host=ws.ne1.tunnelx.space&path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20305534
-vless://6742388969-client-81f@45.14.244.250:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20218209
+vless://6742388969-client-81f@45.14.244.250:2087/?type=ws&encryption=none&flow=&host=ws.ne1.tunnelx.space&path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20100156
+vless://6742388969-client-81f@45.14.244.250:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20861578
