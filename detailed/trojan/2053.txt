@@ -6,7 +6,6 @@ trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZA
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#r♡ya
-trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@V2rayNGVPN <= کانفیگ رایگان
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🇩🇪@FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#@meli_proxyy
@@ -38,9 +37,9 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-3403
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-3454
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5384
-trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20957146
-trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20271076
-trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20471007
-trojan://YwuvGJk36B@104.20.5.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20579548
-trojan://YwuvGJk36B@104.20.5.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20668538
-trojan://YwuvGJk36B@104.20.6.134:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=/yamtekodasayahhh#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20340211
+trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20919391
+trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20780341
+trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20824373
+trojan://YwuvGJk36B@104.20.6.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20635601
+trojan://YwuvGJk36B@104.20.6.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20306774
+trojan://YwuvGJk36B@104.20.5.134:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=/yamtekodasayahhh#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20777060
