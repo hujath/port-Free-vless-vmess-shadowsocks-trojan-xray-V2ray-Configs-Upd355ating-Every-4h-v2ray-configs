@@ -252,10 +252,10 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?typ
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.6.189:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20920679
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20614028
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20571081
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@173.245.59.100:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20627441
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20663050
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20296526
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.66:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20906368
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.33.45:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20491823
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20331422
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.29.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20477663
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@173.245.58.100:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20378904
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20431532
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.5.189:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20147943
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.196.20:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20257548

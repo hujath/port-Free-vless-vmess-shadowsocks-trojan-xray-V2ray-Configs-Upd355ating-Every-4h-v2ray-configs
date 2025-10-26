@@ -9,5 +9,5 @@ vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@meli_proxyy
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20485425
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20273158
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20630393
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20779177
