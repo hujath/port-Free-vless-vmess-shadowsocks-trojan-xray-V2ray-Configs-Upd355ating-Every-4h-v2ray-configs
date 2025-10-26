@@ -8,8 +8,8 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20786579
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20641854
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20848912
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20354016
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20102547
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20389400
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20382388
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&security=tls&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20888422
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20251041
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20374405
