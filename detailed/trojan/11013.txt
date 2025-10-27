@@ -1,2 +1,2 @@
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?type=tcp&security=tls&sni=wus03.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20928430
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&headerType=none&type=tcp&sni=wus03.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20407917
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?type=tcp&security=tls&sni=wus03.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20294770
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&headerType=none&type=tcp&sni=wus03.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20699373
