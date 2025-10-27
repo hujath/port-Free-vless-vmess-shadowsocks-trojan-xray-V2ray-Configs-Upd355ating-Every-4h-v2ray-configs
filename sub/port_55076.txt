@@ -2,12 +2,11 @@ vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encr
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#limo
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️@FreakConfig
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@Daily_Configs
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💔
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@meli_proxyy
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20336915
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20172666
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20263682
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20376434

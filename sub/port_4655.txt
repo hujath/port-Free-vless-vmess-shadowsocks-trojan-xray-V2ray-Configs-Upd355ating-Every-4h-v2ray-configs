@@ -1,6 +1,6 @@
 vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
 vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
 vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@203.202.232.252:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ATR
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20244988
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@203.202.232.252:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20915428
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20303067
+vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20917324
+vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@203.202.232.252:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20545407
+vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20470200
