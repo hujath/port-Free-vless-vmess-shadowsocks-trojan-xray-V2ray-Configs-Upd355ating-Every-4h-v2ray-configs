@@ -9,14 +9,18 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&securi
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#telegram 🌺 v2ray_configs_pools
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%3E%3E%40DailyV2RY%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%3E%3E%40DailyV2RY%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AUS
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AUS
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AUS
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20582040
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20209744
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20204416
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20634925
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20109318
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20367878
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20475580
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20476952
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20133306
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20938719
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483/?type=grpc&encryption=none&flow=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20265280
