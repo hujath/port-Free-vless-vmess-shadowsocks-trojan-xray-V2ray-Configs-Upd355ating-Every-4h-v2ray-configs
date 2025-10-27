@@ -15,8 +15,9 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encr
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%3E%3E%40DailyV2RY%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AUS
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AUS
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20763333
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20683658
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20786756
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20968198
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20875476
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.158:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20557665
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20730220
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20716660
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20778929
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.198.168:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20577810
