@@ -1,2 +1,2 @@
 vless://2a7a473e-cc62-4df0-bb2f-f19b10e3a67a@137.220.56.53:29752?type=grpc&encryption=none&serviceName=&authority=&security=none#%3E%3E%40DailyV2RY%3A%3AUS
-vless://2a7a473e-cc62-4df0-bb2f-f19b10e3a67a@137.220.56.53:29752?type=grpc&encryption=none&serviceName=&authority=&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20198192
+vless://2a7a473e-cc62-4df0-bb2f-f19b10e3a67a@137.220.56.53:29752?type=grpc&encryption=none&serviceName=&authority=&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20345708
