@@ -6,7 +6,4 @@ vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&e
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IR-@V2ray_Alpha--3
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#95.164.45.122::XX
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230109
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20345421
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287734
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20288437
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20443706
