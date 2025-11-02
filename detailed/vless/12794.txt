@@ -9,8 +9,7 @@ vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&e
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#azadiiivpn 🎀
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B19%5D
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20914239
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20333438
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20212108
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20389051
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20505765
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144096
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110424
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420678
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898814
