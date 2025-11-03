@@ -1,3 +1,3 @@
 vless://9de88209-c544-4294-8419-1119153d624c@sv4.utsteam2.top:40004?encryption=none&security=none&type=tcp&headerType=none#%253E%253E%2540v2nodes%253A%253ADE%3A%3ADE
-vless://9de88209-c544-4294-8419-1119153d624c@88.151.194.53:40004?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20230138
-vless://9de88209-c544-4294-8419-1119153d624c@88.151.194.53:40004?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20744979
+vless://9de88209-c544-4294-8419-1119153d624c@109.172.55.210:40004?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20393304
+vless://9de88209-c544-4294-8419-1119153d624c@109.172.55.210:40004?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20398451
