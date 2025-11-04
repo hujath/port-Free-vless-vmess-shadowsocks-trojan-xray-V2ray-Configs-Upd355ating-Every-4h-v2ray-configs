@@ -1,2 +1,2 @@
 vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&encryption=none&security=none#@V2rayNG3
-vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&amp;encryption=none&amp;security=none#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20462377
+vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&amp;encryption=none&amp;security=none#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20661989

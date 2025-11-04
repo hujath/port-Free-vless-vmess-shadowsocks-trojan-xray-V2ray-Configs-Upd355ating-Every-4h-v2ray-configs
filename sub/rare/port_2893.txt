@@ -1,2 +1,2 @@
 vless://0addeafe-4637-486f-8ff7-19254fc7fbcf@us.farshalinezhad.xyz:2893?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
-vless://0addeafe-4637-486f-8ff7-19254fc7fbcf@82.152.98.30:2893?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20394928
+vless://0addeafe-4637-486f-8ff7-19254fc7fbcf@82.152.98.30:2893?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20843941
