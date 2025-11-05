@@ -8,5 +8,5 @@ vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@speed199o9sili.mongral.ir:7936?secu
 vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@uae1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@speed199o9sili.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#%2540V2rayNGVPN%252B%253C%253D%252B%25DA%25A9%25D8%25A7%25D9%2586%25D9%2581%25DB%258C%25DA%25AF%252B%25D8%25B1%25D8%25A7%25DB%258C%25DA%25AF%25D8%25A7%25D9%2586%2520%253E%253E%2540v2rayngvpn%3A%3ADE
 vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@uae1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#%2540V2rayNGVPN%252B%253C%253D%252B%25DA%25A9%25D8%25A7%25D9%2586%25D9%2581%25DB%258C%25DA%25AF%252B%25D8%25B1%25D8%25A7%25DB%258C%25DA%25AF%25D8%25A7%25D9%2586%2520%253E%253E%2540v2rayngvpn%3A%3AAE
-vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@91.98.156.103:7936?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20558576
-vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@38.180.27.191:7936?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20959678
+vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@91.98.156.103:7936?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20767227
+vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@38.180.27.191:7936?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20912170
