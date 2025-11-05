@@ -73,4 +73,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3389#%F0%9F%87%AC%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.99:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.99-7536
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7539
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7543
-vless://37a45bee-ab3a-46f6-b77a-1c242536af84@185.239.141.182:3389?security=reality&encryption=none&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0274c94d298e#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20532528
+vless://37a45bee-ab3a-46f6-b77a-1c242536af84@185.239.141.182:3389?security=reality&encryption=none&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0274c94d298e#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20384331
