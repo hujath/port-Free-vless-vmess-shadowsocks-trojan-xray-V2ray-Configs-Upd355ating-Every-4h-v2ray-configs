@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_offcial-🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@188.208.110.58:8444#AstroVPN_Official 🇦🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU=@de-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtc2c=@sg-2.stunnel.cc:8444#@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇺🇸
@@ -15,5 +16,5 @@ vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&en
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://02334dc7-5535-4909-a972-07d1d937ea3f@80.242.56.200:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&sid=6ba85179e30d4fc2&type=tcp&headerType=none#a_0430
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20634025
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&type=tcp&sni=fl.v2bazzar.ir#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20152885
+vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20533285
+vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&type=tcp&sni=fl.v2bazzar.ir#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20555487

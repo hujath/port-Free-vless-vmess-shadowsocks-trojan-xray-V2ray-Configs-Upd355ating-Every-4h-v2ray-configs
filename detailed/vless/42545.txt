@@ -1,5 +1,5 @@
 vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=none&encryption=none&headerType=none&type=tcp#@Hddify
 vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545/?type=tcp&encryption=none&flow=#%252525F0%2525259F%2525258D%2525258215%25252540oneclickvpnkeys%25252520%2525253E%2525253E%25252540oneclickvpnkeys%25253A%25253ADE%253A%253ADE%3A%3ADE
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545/?type=tcp&encryption=none&flow=#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20805964
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20488568
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20487416
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545/?type=tcp&encryption=none&flow=#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20312405
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20884068
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20249792
