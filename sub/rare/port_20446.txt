@@ -1,1 +1,1 @@
-vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?flow=xtls-rprx-vision&security=reality&encryption=none&sni=aws.amazon.com&fp=chrome&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&type=tcp&headerType=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20149210
+vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?flow=xtls-rprx-vision&security=reality&encryption=none&sni=aws.amazon.com&fp=chrome&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&type=tcp&headerType=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20247252
