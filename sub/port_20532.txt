@@ -2,5 +2,5 @@ vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encry
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🇬🇧@FreakConfig
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%252525F0%2525259F%25252587%252525AC%252525F0%2525259F%25252587%252525A7%25252540FreakConfig%25252520%2525253E%2525253E%25252540FreakConfig%25253A%25253AGB%253A%253AGB%3A%3AGB
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20738983
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20538775
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20735859
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20150607
