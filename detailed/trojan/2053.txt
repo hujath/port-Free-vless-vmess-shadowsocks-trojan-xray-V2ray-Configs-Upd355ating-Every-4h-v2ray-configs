@@ -1,3 +1,5 @@
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me&path=/?ed=2560&host=epge.muarua.filegear-sg.me#US
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#US_speednode_0036
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Selinc
@@ -33,5 +35,5 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-3377
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-3428
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5354
-trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20260077
-trojan://YwuvGJk36B@104.20.5.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20652020
+trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20151418
+trojan://YwuvGJk36B@104.20.5.134:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20736532
