@@ -4,7 +4,7 @@ vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=&encry
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#@meli_proxyy
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287/?type=tcp&encryption=none&flow=#%25252525253E%25252525253E%252525252540oneclickvpnkeys%25252525253A%25252525253ADE%252525253A%252525253ADE%2525253A%2525253ADE%25253A%25253ADE%253A%253ADE%3A%3ADE
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20886137
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20127943
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20433994
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20628617
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20418159
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20177077
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20598965
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20103755
