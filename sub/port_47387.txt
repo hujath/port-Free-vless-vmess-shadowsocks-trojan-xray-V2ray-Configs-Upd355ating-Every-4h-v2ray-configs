@@ -2,5 +2,5 @@ vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#%252540V2rayNGVPN%25252B%25253C%25253D%25252B%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%25252B%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520%25253E%25253E%252540v2rayngvpn%253A%253ADE%3A%3ADE
-vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20888030
-vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20864283
+vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20471608
+vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20956921
