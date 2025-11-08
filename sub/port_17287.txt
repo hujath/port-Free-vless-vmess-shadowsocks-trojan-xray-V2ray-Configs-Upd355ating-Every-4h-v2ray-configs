@@ -2,7 +2,7 @@ vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20962237
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20732969
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20464703
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20843572
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20866992
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20461544
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20575680
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20720636

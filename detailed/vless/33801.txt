@@ -6,7 +6,6 @@ vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tc
 vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#MCI-@V2rayAlpha--17
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#@Daily_Configs
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇷@FreakConfig
-vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel id:  @vpnserverrr🇫🇷
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @EXPRESSVPN_420 🏴🏳
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Selinc
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#→@Hddify 🍥
@@ -76,26 +75,26 @@ vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#telegram%2520%253E%253E%2540DailyV2RY%3A%3APL
 vless://d36f457f-17a9-4891-a113-322ec6792917@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%2525252525252525252540V2RAY_VMESS_free%25252525252525252520%2525252525252525253E%2525252525252525253E%25252525252525252540V2RAY_VMESS_free%25252525252525253A%25252525252525253ACA%252525252525253A%252525252525253ACA%2525252525253A%2525252525253ACA%25252525253A%25252525253ACA%252525253A%252525253ACA%2525253A%2525253ACA%25253A%25253ACA%253A%253ACA%3A%3ACA
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#telegram%2520%253E%253E%2540DailyV2RY%3A%3APL
-vless://21d29623-3b91-4494-8402-08372da813a9@51.83.112.164:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20905690
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@57.128.163.127:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20681415
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@57.128.163.127:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20598765
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20850531
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20643580
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@51.89.117.103:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20684751
-vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@5.196.236.33:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20734107
-vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@5.196.236.33:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20680099
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@57.129.94.164:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20224915
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@57.129.94.164:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20314262
-vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@152.228.231.92:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20579552
-vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@152.228.231.92:33801?type=tcp&headerType=http&host=varzesh3.ir&security=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20411774
-vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@51.79.29.172:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20546762
-vless://f65e636d-c532-4e6c-b428-015402fd276c@51.83.251.98:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20651132
-vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@51.89.231.76:33801?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20948078
-vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@51.89.231.76:33801?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20768389
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@51.83.254.31:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20234949
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@51.83.254.31:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20977447
-vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@51.38.220.51:33801?security=&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20531197
-vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@51.38.220.51:33801?encryption=none&host=varzesh3.ir/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20200572
-vless://a0c968aa-6723-404e-93e2-5987593a7f19@15.235.41.93:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20477182
-vless://d36f457f-17a9-4891-a113-322ec6792917@15.235.41.93:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20576769
-vless://a0c968aa-6723-404e-93e2-5987593a7f19@15.235.41.93:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20973849
+vless://21d29623-3b91-4494-8402-08372da813a9@51.83.112.164:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20454725
+vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@51.38.220.51:33801?security=&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20526527
+vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@51.38.220.51:33801?encryption=none&host=varzesh3.ir/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20800843
+vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@51.89.117.103:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20219203
+vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@51.89.231.76:33801?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20285854
+vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@51.89.231.76:33801?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20144470
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@57.128.163.127:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20604794
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@57.128.163.127:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20935935
+vless://f65e636d-c532-4e6c-b428-015402fd276c@51.83.251.98:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20413697
+vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20416329
+vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20898489
+vless://7b311017-4c83-490d-87d1-5aeef15a5250@57.129.94.164:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20429258
+vless://7b311017-4c83-490d-87d1-5aeef15a5250@57.129.94.164:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20582464
+vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@51.79.29.172:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20241232
+vless://a0c968aa-6723-404e-93e2-5987593a7f19@15.235.41.93:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20954724
+vless://d36f457f-17a9-4891-a113-322ec6792917@15.235.41.93:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20946739
+vless://a0c968aa-6723-404e-93e2-5987593a7f19@15.235.41.93:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20775894
+vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@152.228.231.92:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20567677
+vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@152.228.231.92:33801?type=tcp&headerType=http&host=varzesh3.ir&security=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20651344
+vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@5.196.236.33:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20284210
+vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@5.196.236.33:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20743332
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@51.83.254.31:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20465778
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@51.83.254.31:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20114889
