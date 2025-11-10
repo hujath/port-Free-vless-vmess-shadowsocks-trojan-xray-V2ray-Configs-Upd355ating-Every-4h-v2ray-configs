@@ -1,6 +1,6 @@
 vless://71d6d93a-eeeb-b06e-5166-993832efdc77@fin.anonnexuse.com:1002?mode=gun&security=reality&encryption=none&pbk=dtGvWLmlTqOrjju1CDZSpXJmL9tjCLaX9lDuSVGofXY&fp=chrome&type=grpc&serviceName=b2c7d9a4&sni=stackoverflow.com&sid=c3de4f1eb2d5dcff#@meli_proxyy
 vless://71d6d93a-eeeb-b06e-5166-993832efdc77@fin.anonnexuse.com:1002?mode=gun&security=reality&encryption=none&pbk=dtGvWLmlTqOrjju1CDZSpXJmL9tjCLaX9lDuSVGofXY&fp=chrome&type=grpc&serviceName=b2c7d9a4&sni=stackoverflow.com&sid=c3de4f1eb2d5dcff#🇫🇮@FreakConfig
-vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@46.62.138.131:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20258271
-vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@157.180.68.5:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20538506
-vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@91.99.62.201:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20847932
-vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@185.243.99.16:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20871810
+vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@46.62.138.131:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20654660
+vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@157.180.68.5:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20748459
+vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@91.99.62.201:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20225414
+vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@185.243.99.16:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20533017
