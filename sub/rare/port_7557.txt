@@ -1,3 +1,3 @@
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%25F0%259F%258C%259F59%2540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3ARU
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20718734
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?encryption=none&host=dns.google.com&type=tcp&headerType=http#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20934183
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20826809
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?encryption=none&host=dns.google.com&type=tcp&headerType=http#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20783492
