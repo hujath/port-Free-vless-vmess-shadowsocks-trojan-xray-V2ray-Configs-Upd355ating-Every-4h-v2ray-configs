@@ -27,5 +27,5 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.
 trojan://installshield@38.180.249.177:8443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.177-5804
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-9250
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.158%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.158%3D8443&security=tls&fp=randomized&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
