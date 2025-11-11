@@ -1,3 +1,5 @@
+vless://62a7f030-a79d-437f-b523-e7bdbf913855@netherlands.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
+vless://62a7f030-a79d-437f-b523-e7bdbf913855@finland.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_offcial-🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@188.208.110.58:8444#AstroVPN_Official 🇦🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU=@de-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇩🇪
@@ -17,4 +19,3 @@ vless://62a7f030-a79d-437f-b523-e7bdbf913855@netherlands.netninja.ru:8444?securi
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtbW9iaWxlc2lnbmFs@23.165.104.239:8444#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20237206
