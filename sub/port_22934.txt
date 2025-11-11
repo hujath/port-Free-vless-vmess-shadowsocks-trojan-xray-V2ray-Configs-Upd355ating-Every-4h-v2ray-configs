@@ -1,6 +1,0 @@
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#%25253E%25253E%252540ShadowsocksM%253A%253ANL%3A%3ANL
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20781759
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20771166
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20637511
