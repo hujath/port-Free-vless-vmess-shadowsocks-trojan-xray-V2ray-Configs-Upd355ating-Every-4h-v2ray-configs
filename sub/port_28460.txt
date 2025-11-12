@@ -13,4 +13,6 @@ vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=none&
 vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=none&encryption=none&host=/?BIA_TELEGRAM@V2rayBaaz&headerType=none&type=tcp#r♡ya
 vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=none&encryption=none&host=PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20286073
+vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20726897
+vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20515576
+vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=none&encryption=none&host=PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20223352
