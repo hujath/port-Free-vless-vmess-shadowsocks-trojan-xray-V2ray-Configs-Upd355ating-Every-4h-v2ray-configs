@@ -1,4 +1,4 @@
 vless://71d6d93a-eeeb-b06e-5166-993832efdc77@fin.anonnexuse.com:1002?mode=gun&security=reality&encryption=none&pbk=dtGvWLmlTqOrjju1CDZSpXJmL9tjCLaX9lDuSVGofXY&fp=chrome&type=grpc&serviceName=b2c7d9a4&sni=stackoverflow.com&sid=c3de4f1eb2d5dcff#@meli_proxyy
 vless://71d6d93a-eeeb-b06e-5166-993832efdc77@fin.anonnexuse.com:1002?mode=gun&security=reality&encryption=none&pbk=dtGvWLmlTqOrjju1CDZSpXJmL9tjCLaX9lDuSVGofXY&fp=chrome&type=grpc&serviceName=b2c7d9a4&sni=stackoverflow.com&sid=c3de4f1eb2d5dcff#🇫🇮@FreakConfig
-vless://520f26c0-f884-44f9-9351-26a51ff2b137@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894975
-vless://520f26c0-f884-44f9-9351-26a51ff2b137@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233111
+vless://520f26c0-f884-44f9-9351-26a51ff2b137@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20600694
+vless://520f26c0-f884-44f9-9351-26a51ff2b137@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20443474
