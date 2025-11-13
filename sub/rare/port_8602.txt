@@ -1,1 +1,1 @@
-vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@23.185.168.144:8602?path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=random&type=ws&sni=stall3.sni2026.netlib.re#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20153942
+vless://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@23.185.168.144:8602?path=/proxyip=tw.soso.edu.kg:43&security=tls&alpn=h3&encryption=none&host=stall3.sni2026.netlib.re&fp=random&type=ws&sni=stall3.sni2026.netlib.re#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20352996
