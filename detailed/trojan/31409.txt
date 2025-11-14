@@ -1,3 +1,1 @@
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.223.205:31409?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.223.205-0378
-trojan://1b57001bd214304027025a740b6cf1ac@160.16.223.205:31409?security=tls&sni=www.nintendogames.net&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20625504
-trojan://1b57001bd214304027025a740b6cf1ac@160.16.223.205:31409?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20364498

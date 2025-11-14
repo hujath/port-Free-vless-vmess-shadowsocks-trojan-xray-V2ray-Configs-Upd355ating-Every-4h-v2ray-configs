@@ -1,2 +1,0 @@
-vless://5ccb6a72-aaa1-9e2e-fb5c-4e550c584e3c@84.234.31.49:8089?flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf&type=tcp&path=/#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20551969
-vless://5ccb6a72-aaa1-9e2e-fb5c-4e550c584e3c@84.234.31.49:8089?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20641531
