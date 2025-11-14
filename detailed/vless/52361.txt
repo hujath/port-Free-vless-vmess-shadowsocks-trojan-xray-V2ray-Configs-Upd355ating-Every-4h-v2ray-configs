@@ -2,4 +2,3 @@ vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encry
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#WiFi-@V2rayAlpha--7
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361?security=none&encryption=none&host=zula.ir, parspack.com, refersion.com&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://0078d912-bca4-4898-a414-2514233c008a@91.99.136.250:52361?encryption=none&host=zula.ir,#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20850434
