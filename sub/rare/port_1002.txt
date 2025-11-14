@@ -1,2 +1,2 @@
-vless://520f26c0-f884-44f9-9351-26a51ff2b137@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20281558
-vless://520f26c0-f884-44f9-9351-26a51ff2b137@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20184752
+vless://520f26c0-f884-44f9-9351-26a51ff2b137@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20762448
+vless://520f26c0-f884-44f9-9351-26a51ff2b137@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20766298
