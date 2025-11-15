@@ -1,3 +1,2 @@
 vless://6202ab99-7f57-0a6a-180a-e980b41f5789@dir.lightnright.com:8883?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=jnir-x.pichondan.com#r♡ya@V2rayBaaz
 vless://6202ab99-7f57-0a6a-180a-e980b41f5789@dir.lightnright.com:8883?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=jnir-x.pichondan.com#🇸🇪r♡ya@V2rayBaaz
-vless://6202ab99-7f57-0a6a-180a-e980b41f5789@217.215.109.188:8883?security=tls&encryption=none&sni=jnir-x.pichondan.com&fp=chrome&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20954433

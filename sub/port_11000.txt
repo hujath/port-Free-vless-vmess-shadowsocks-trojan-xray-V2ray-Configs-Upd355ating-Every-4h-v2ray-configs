@@ -20,3 +20,7 @@ trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=/tw&security=tls&type
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?security=tls&sni=noproblemvpn.ru&type=ws&path=/tw#🆔@v2ray_configs_pool
 vmess://ewogICAgImFkZCI6ICI0Ny4yNTQuMjQwLjc1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4NjEwYTc5Mi04M2U2LTRjNzEtYWNjOC1jOGIxMDE0NDBjMDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTEwMDAsCiAgICAicHMiOiAi8J+HsvCfh75NWS00Ny4yNTQuMjQwLjc1LTc5MjUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?type=ws&path=%2Ftw&security=tls&sni=a913a5b91ce37ed2.noproblemvpn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@45.43.76.5:11000?security=tls&sni=noproblemvpn.ru&type=ws&path=/tw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314417
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?security=tls&sni=a913a5b91ce37ed2.noproblemvpn.ru&type=ws&path=/tw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435517
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@156.67.63.183:11000?security=tls&sni=noproblemvpn.ru&type=ws&path=/tw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553361
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?security=tls&sni=f4e23c6c168f0e91.noproblemvpn.ru&type=ws&path=/tw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20893564
