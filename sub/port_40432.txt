@@ -2,4 +2,4 @@ vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=/&securit
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&flow=&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ALV
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&flow=&path=%2F#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20ShatakVPN%20749205
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248075

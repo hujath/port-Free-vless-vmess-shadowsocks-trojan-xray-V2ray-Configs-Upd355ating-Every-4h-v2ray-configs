@@ -1,0 +1,2 @@
+vless://e78339f1-2a10-4b9a-ab97-154fb53affbf@invoker.fonixapp.org:40388?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=grammarly.com&sid=b19de72e#%40Filter_breaker-32
+vless://e78339f1-2a10-4b9a-ab97-154fb53affbf@152.53.133.226:40388?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=grammarly.com&sid=b19de72e#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20792670
