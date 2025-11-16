@@ -1,0 +1,2 @@
+vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
