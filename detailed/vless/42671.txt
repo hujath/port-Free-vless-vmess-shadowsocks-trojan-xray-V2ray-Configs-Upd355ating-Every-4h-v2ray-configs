@@ -6,4 +6,3 @@ vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&
 vless://6a7cafa7-2610-428b-9a33-4035212ded85@37.27.40.194:42671?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://78414a5a-439f-4150-8fc3-82412cbf4d44@91.98.233.176:42671?security=none&encryption=none&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp#All🇩🇪@JKVPN
 vless://f4ee4223-e427-4cf3-a717-0f34e7f32ef0@37.27.40.194:42671?security=&encryption=none&headerType=&type=tcp&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
-vless://f4ee4223-e427-4cf3-a717-0f34e7f32ef0@37.27.40.194:42671?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

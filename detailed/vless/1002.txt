@@ -1,4 +1,4 @@
-vless://774727ed-1e56-41bd-b55f-28549e21bcc8@91.98.199.164:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20376702
-vless://774727ed-1e56-41bd-b55f-28549e21bcc8@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20783268
-vless://774727ed-1e56-41bd-b55f-28549e21bcc8@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20570369
-vless://774727ed-1e56-41bd-b55f-28549e21bcc8@95.217.239.107:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20762508
+vless://774727ed-1e56-41bd-b55f-28549e21bcc8@91.98.199.164:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20138346
+vless://774727ed-1e56-41bd-b55f-28549e21bcc8@195.254.165.152:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20853389
+vless://774727ed-1e56-41bd-b55f-28549e21bcc8@157.180.68.5:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20107617
+vless://774727ed-1e56-41bd-b55f-28549e21bcc8@95.217.239.107:1002?security=reality&type=xhttp&path=/Api/AS&mode=auto&extra={"scMaxEachPostBytes":#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20892272

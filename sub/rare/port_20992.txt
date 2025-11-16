@@ -1,3 +1,4 @@
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&encryption=none&headerType=none&type=tcp#[Telegram:@tik7net_vpn]::LV🇱🇻
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ALV
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#%F0%9F%87%B1%F0%9F%87%BB%20ShatakVPN%20647569
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#%F0%9F%87%B1%F0%9F%87%BB%20ShatakVPN%20481412
