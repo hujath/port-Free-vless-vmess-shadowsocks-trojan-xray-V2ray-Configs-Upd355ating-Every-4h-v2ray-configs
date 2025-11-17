@@ -65,4 +65,3 @@ vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?path=/websocketpl&security=tls&encryption=none&type=ws&sni=cdn.filterai.ru#r♡ya
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?path=/websocketpl&security=tls&encryption=none&type=ws&sni=cdn.filterai.ru&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&type=ws&path=%2Fwebsocketpl&security=tls&sni=cdn.filterai.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
