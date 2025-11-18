@@ -1,2 +1,3 @@
 vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AXX
-vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@185.118.15.148:28995/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20731400
+vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@185.118.15.148:28995/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20342064
