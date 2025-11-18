@@ -1,10 +1,10 @@
 vless://193a692b-83ae-4586-979f-fe7e3fa74cbf@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%253E%253E%2540flyv2ray%3A%3AFR
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://193a692b-83ae-4586-979f-fe7e3fa74cbf@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://193a692b-83ae-4586-979f-fe7e3fa74cbf@147.79.100.54:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20897709
-vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@147.79.100.54:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20668602
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20513983
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20109485
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://193a692b-83ae-4586-979f-fe7e3fa74cbf@147.79.100.54:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20303066
+vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@147.79.100.54:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20427359
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20505710
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20458225
