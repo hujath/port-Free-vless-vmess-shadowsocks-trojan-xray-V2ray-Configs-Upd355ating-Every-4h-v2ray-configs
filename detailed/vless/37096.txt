@@ -1,1 +1,0 @@
-vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

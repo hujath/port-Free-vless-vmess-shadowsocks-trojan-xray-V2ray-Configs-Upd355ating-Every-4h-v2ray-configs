@@ -3,5 +3,5 @@ trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=t
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#🏴‍☠️@FreakConfig
 trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705/?type=tcp&security=tls#%253E%253E%2540oneclickvpnkeys%3A%3AJP
 trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705/?type=tcp&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://fg20mtCFHy@172.105.197.232:5705/?type=tcp&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918239
-trojan://fg20mtCFHy@172.105.197.232:5705?type=tcp&security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20576988
+trojan://fg20mtCFHy@172.105.197.232:5705/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20507857
+trojan://fg20mtCFHy@172.105.197.232:5705?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20921343
