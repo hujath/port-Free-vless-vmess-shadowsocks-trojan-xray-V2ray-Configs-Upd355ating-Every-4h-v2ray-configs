@@ -1,8 +1,10 @@
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%208.5MB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40netfreedom0%20%5B18%5D
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20474518
-trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20260399
-trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20383784
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:3169?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972250
+trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389284
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20797192
