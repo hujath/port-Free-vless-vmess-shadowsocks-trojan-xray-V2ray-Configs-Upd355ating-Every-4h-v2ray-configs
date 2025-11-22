@@ -37,5 +37,5 @@ vless://e5373d71-d0a8-4179-97d6-2950994268ab@zone-moon-red-api-worker.dlcnamatik
 vless://e5373d71-d0a8-4179-97d6-2950994268ab@zone-moon-red-api-worker.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#🏴‍☠️@FreakConfig
 vless://f84ee090-fcfb-43ba-a2b4-401aa47c3d77@tech-blue-silent-core-zone.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://f84ee090-fcfb-43ba-a2b4-401aa47c3d77@tech-blue-silent-core-zone.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#@meli_proxyy
-vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.126:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20439272
-vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.126:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20743492
+vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.126:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20523772
+vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.126:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20222948
