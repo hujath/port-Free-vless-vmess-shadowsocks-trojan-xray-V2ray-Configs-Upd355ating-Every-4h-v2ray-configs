@@ -2,16 +2,10 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&header
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2960 | Japan
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com] trojan-SG
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com] trojan-SG
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com] trojan-SG
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0294
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0302
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-0378
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20193471
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135800
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594937
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476809
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0299
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0301
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-0338
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20735788
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20461019
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20521499
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20185687
