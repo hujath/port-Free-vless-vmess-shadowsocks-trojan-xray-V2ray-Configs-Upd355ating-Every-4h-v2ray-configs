@@ -1,1 +1,1 @@
-vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?security=tls&encryption=none&type=grpc&serviceName=www.bing.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20245962
+vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?security=tls&encryption=none&type=grpc&serviceName=www.bing.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20654316
