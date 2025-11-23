@@ -3,7 +3,7 @@ trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpil
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&type=tcp&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20395220
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20863448
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20968119
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click&type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20859703
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20717185
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20140181
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20722869
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click&type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20703191

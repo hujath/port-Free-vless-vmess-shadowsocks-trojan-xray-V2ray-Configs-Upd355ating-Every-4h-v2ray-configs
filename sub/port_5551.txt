@@ -1,6 +1,8 @@
 vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[openproxylist.com] vless-DE
-vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ADE
 vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT
 vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20734642
-vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20891283
+vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20443544
+vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20149624
+vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20300808
+vless://b98105fa-8db3-416f-878c-8cece5971187@91.107.157.169:5551?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20911089
