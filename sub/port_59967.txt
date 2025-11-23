@@ -1,5 +1,5 @@
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20586319
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20767482
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20468775
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20169676
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20910893
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20769108
