@@ -3,6 +3,6 @@ trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietpla
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20575495
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=tcp&security=tls&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20883305
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=tcp&security=tls&sni=quietplace.lazymountain.click&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20394304
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20300620
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=tcp&security=tls&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20897237
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?type=tcp&security=tls&sni=quietplace.lazymountain.click&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B1%20ShatakVPN%20925801
