@@ -4,6 +4,6 @@ vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&e
 vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@meli_proxyy
 vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#t.me/entryNET/config=1849433894836482
 vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%253E%253E%2540FreakConfig%3A%3ADE
-vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20604125
-vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20345632
-vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20599871
+vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20910275
+vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20118329
+vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20923708
