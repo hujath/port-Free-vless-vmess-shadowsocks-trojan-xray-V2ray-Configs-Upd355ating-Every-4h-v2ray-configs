@@ -1,2 +1,2 @@
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20770457
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20814348
