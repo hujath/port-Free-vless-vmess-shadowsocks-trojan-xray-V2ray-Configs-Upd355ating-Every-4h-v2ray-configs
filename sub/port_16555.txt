@@ -2,7 +2,7 @@ trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbw
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#%40Filter_breaker-79
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20764369
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20916698
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20452649
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&type=tcp&path=/#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20693136
+trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20665718
+trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20796743
+trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20193089
+trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555?security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&type=tcp&path=/#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20417074

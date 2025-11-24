@@ -2,7 +2,7 @@ trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotco
 trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#%40Filter_breaker-68
 trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20260292
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20259765
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20816362
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?security=tls&sni=hotcoffee.angrypiano.click&type=tcp&path=/#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20458842
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20485157
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20247905
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20593133
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849?security=tls&sni=hotcoffee.angrypiano.click&type=tcp&path=/#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20125795

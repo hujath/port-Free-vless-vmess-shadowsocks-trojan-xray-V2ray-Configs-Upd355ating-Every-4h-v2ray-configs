@@ -2,4 +2,4 @@ trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=t
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=diningtable.electricbanana.click#%40Filter_breaker-4
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20535452
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20532848
