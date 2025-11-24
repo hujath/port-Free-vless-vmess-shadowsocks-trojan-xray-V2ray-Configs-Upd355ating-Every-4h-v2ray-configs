@@ -1,1 +1,0 @@
-vless://6923b959-c65f-764c-b072-94711382d716@106.242.64.238:50000?encryption=none&security=tls&sni=s2.sni565.netlib.re&alpn=h3&fp=random&type=ws&host=s2.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
