@@ -1,19 +1,22 @@
 trojan://telegram-id-directvpn@3.76.168.69:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-directvpn@3.127.91.148:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://telegram-id-directvpn@52.57.38.0:22223?sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5
-trojan://telegram-id-directvpn@3.127.91.148:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD5
+trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://telegram-id-directvpn@52.57.38.0:22223?sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A541
+trojan://telegram-id-directvpn@3.127.91.148:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6
 trojan://telegram-id-directvpn@52.57.38.0:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#DE_speednode_0007
+trojan://telegram-id-directvpn@3.127.91.148:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:195ms
+trojan://telegram-id-directvpn@3.76.168.69:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:192ms
 trojan://telegram-id-directvpn@54.93.174.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849596843482685
-trojan://telegram-id-directvpn@54.93.174.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.57ms
 trojan://telegram-id-directvpn@13.39.169.16:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.169.16-1204
 trojan://telegram-id-directvpn@3.76.168.69:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.76.168.69-1450
 trojan://telegram-id-directvpn@3.127.91.148:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.127.91.148-1453
-trojan://telegram-id-directvpn@63.178.126.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20242356
-trojan://telegram-id-directvpn@15.188.156.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20726038
-trojan://telegram-id-directvpn@51.44.94.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20927222
-trojan://telegram-id-directvpn@15.236.12.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20706698
-trojan://telegram-id-directvpn@35.159.144.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20505970
-trojan://telegram-id-directvpn@51.44.49.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20953402
-trojan://telegram-id-directvpn@52.57.38.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20624217
-trojan://telegram-id-directvpn@54.93.174.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20261426
+trojan://telegram-id-directvpn@3.127.91.148:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#рҹ‘үрҹҶ”@v2ray_configs_poolрҹ“ЎрҹҮ©рҹҮӘВ®пёҸGermanyВ©пёҸFrankfurt am Mainрҹ…ҝпёҸping:195ms
+trojan://telegram-id-directvpn@3.76.168.69:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#рҹ‘үрҹҶ”@v2ray_configs_poolрҹ“ЎрҹҮ©рҹҮӘВ®пёҸGermanyВ©пёҸFrankfurt am Mainрҹ…ҝпёҸping:192ms
+trojan://telegram-id-directvpn@3.66.82.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20142902
+trojan://telegram-id-directvpn@15.188.156.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20699221
+trojan://telegram-id-directvpn@63.180.126.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20118690
+trojan://telegram-id-directvpn@15.236.12.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20111656
+trojan://telegram-id-directvpn@51.44.49.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20513442
+trojan://telegram-id-directvpn@51.44.94.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20815573
+trojan://telegram-id-directvpn@54.93.174.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20452223
+trojan://telegram-id-directvpn@63.178.126.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20649337
