@@ -1,4 +1,4 @@
 trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590/?type=tcp&security=tls&sni=bookstore.bluetigeraa.click&allowInsecure=1#%40Filter_breaker-74
 trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590/?type=tcp&security=tls&sni=bookstore.bluetigeraa.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590?type=tcp&security=tls&sni=bookstore.bluetigeraa.click&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20333672
-trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590?security=tls&sni=bookstore.bluetigeraa.click&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20624204
+trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590?type=tcp&security=tls&sni=bookstore.bluetigeraa.click&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20478070
+trojan://2euhAfXj-1RMSEgK@155.138.164.81:13590?security=tls&sni=bookstore.bluetigeraa.click&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20592051
