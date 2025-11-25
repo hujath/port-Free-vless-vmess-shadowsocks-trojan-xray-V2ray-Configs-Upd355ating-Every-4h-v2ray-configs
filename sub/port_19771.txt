@@ -33,5 +33,5 @@ vless://e5373d71-d0a8-4179-97d6-2950994268ab@zone-moon-red-api-worker.dlcnamatik
 vless://e998eb52-4de4-450f-ae9b-6d0ed9089e4c@bridge-quick-logic-forest-zone.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#@meli_proxyy
 vless://f84ee090-fcfb-43ba-a2b4-401aa47c3d77@tech-blue-silent-core-zone.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#@meli_proxyy
 vless://fdb4805b-9125-43d0-a0a9-2b6a4a8521dd@byte-alpha-quantum-storm-matrix.dlcnamatike7.com:19771?type=ws&encryption=none&path=/&host=&security=none#@meli_proxyy
-vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.126:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20983421
-vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.126:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20213429
+vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.126:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20405713
+vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.126:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20169954
