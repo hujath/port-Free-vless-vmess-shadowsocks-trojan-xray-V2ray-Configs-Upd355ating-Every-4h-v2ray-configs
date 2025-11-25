@@ -2,5 +2,6 @@ trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A519%2025.7MB%2Fs
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#🇨🇦[openproxylist.com] trojan-CA
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509/?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#%40Filter_breaker-62
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20685624
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20663030
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509/?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20112371
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20770139
