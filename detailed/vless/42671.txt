@@ -18,14 +18,12 @@ vless://c6251b2d-9031-45f9-8ddc-591993e264a2@91.98.237.237:42671?path=/NT_Safe&s
 vless://cf4b927c-25f6-4915-89e1-99d6866ff768@88.198.160.200:42671?type=tcp&security=none#Donald-16
 vless://d39a768e-e3f7-42cd-8880-2d54bd187733@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://d7dc52c2-af34-437e-aaef-cb605eb41f5c@91.99.179.41:42671?type=tcp&security=none#DoNaLD_VPN13
-vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=/NT_Safe&security=&encryption=none&type=ws#⚡ @Fast78_Channel | Best Free Configs
 vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
 vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=none&encryption=none&type=ws#@sunflowerplato🌻
 vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=none&encryption=none&type=ws#⚡  | Best Free
-vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?type=ws&encryption=none&path=/NT_Safe&host=&security=none#⚡ @Fast78_Channel | Best Free Configs
 vless://f85e6560-bb77-472a-8fd6-9c1989b98419@91.99.179.41:42671?type=tcp&security=none#DONALD_VPN12
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?encryption=none&type=ws&path=%2FNT_Safe&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=/NT_Safe&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20905727
-vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?security=none&encryption=none&type=ws&path=/NT_Safe#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20767018
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=/NT_Safe&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20687143
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?security=none&encryption=none&type=ws&path=/NT_Safe#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20937169

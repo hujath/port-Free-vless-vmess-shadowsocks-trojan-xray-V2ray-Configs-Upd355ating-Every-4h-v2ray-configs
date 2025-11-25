@@ -1,5 +1,5 @@
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://vpn@109.205.56.37:5000?encryption=none&type=ws&host=ozon.ru&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20120464
-vless://vpn@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20937505
+vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20523446
+vless://vpn@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20684737
