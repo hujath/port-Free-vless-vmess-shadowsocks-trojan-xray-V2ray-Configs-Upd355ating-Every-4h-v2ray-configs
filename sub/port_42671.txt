@@ -27,5 +27,5 @@ vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?type=ws&encrypt
 vless://f85e6560-bb77-472a-8fd6-9c1989b98419@91.99.179.41:42671?type=tcp&security=none#DONALD_VPN12
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#%E2%9A%A1%20%40Fast%20%7C%20Best%20Free%20Configs
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?encryption=none&type=ws&path=%2FNT_Safe&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20907298
-vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?security=none&encryption=none&type=ws&path=/NT_Safe#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20625587
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20223305
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?security=none&encryption=none&type=ws&path=/NT_Safe#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875641
