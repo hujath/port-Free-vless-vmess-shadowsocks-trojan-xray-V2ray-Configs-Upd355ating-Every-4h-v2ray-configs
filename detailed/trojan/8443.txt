@@ -1,6 +1,5 @@
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F158.178.206.197%3D8443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F94.177.199.119%3D8443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?sni=joss.gpj1.web.id#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20
@@ -32,4 +31,4 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-3394
 trojan://installshield@38.180.249.177:8443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.177-5557
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-9090
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

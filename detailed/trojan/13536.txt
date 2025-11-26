@@ -2,7 +2,7 @@ trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartph
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click&allowInsecure=1#%40Filter_breaker-69
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20872088
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?type=tcp&security=tls&sni=smartphone.angrypiano.click#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20646475
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?type=tcp&security=tls&sni=smartphone.angrypiano.click&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20555466
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&sni=smartphone.angrypiano.click&type=tcp&headerType=none&path=/#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20665169
+trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20818434
+trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?type=tcp&security=tls&sni=smartphone.angrypiano.click#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20886315
+trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?type=tcp&security=tls&sni=smartphone.angrypiano.click&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20192676
+trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&sni=smartphone.angrypiano.click&type=tcp&headerType=none&path=/#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20304302
