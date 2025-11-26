@@ -1,1 +1,0 @@
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.20:4249?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sni=cloudflare.com&sid=123abc#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
