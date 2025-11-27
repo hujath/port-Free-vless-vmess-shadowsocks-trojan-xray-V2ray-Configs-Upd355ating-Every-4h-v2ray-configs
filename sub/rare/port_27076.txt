@@ -1,1 +1,2 @@
 vless://a35e8e2e-d535-4adb-9098-7ebd086793c0@95.179.253.176:27076?mode=gun&security=reality&encryption=none&pbk=jbHh3Eg4ms0xpX8Dophp-kqk1MzMNtAhitDAH0_YrhY&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=a45710#@Daily_Configs
+vless://a35e8e2e-d535-4adb-9098-7ebd086793c0@95.179.253.176:27076?encryption=none&type=grpc&security=reality&fp=chrome&pbk=jbHh3Eg4ms0xpX8Dophp-kqk1MzMNtAhitDAH0_YrhY&sni=cloudflare.com&sid=a45710&spx=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
