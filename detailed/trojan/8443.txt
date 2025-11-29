@@ -56,9 +56,10 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.68.240-3889
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-3892
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-9630
-trojan://trojan@ip.sb:8443?security=tls&sni=fofang.pages.dev&type=ws&path=/?ed=2560&Host=fofang.pages.dev#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?path=%2FFree-VPN-CF-Geo-Project%2F193.181.208.28%3D8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
 trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?path=%2FFree-VPN-CF-Geo-Project%2F194.87.45.19%3D8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F194.87.45.19%3D8443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F193.181.208.28%3D8443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
+trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F194.87.45.19%3D8443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?path=/Free-VPN-CF-Geo-Project/193.181.208.28=8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20544381
+trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?path=/Free-VPN-CF-Geo-Project/194.87.45.19=8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20787379
