@@ -1,0 +1,2 @@
+vless://49c1fa3e-85b2-40c2-89e8-9376adf79b90@bonefletcher.fonixapp.org:49873?security=reality&encryption=none&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=12d75b#IR-@V2rayAlpha--10
+vless://49c1fa3e-85b2-40c2-89e8-9376adf79b90@bonefletcher.fonixapp.org:49873?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&security=reality&sid=12d75b&sni=indeed.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

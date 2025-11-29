@@ -1,0 +1,2 @@
+vless://1c1023ac-3d16-494d-be09-65a248f49cd7@broodmother.fonixapp.org:49722?security=reality&encryption=none&pbk=eRuDPGgOwmAbFaNZtqzEfgflU4Jaj2MJNYwAQPkp32s&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=23f89c#IR-@V2rayAlpha--6
+vless://1c1023ac-3d16-494d-be09-65a248f49cd7@broodmother.fonixapp.org:49722?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eRuDPGgOwmAbFaNZtqzEfgflU4Jaj2MJNYwAQPkp32s&security=reality&sid=23f89c&sni=yelp.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
