@@ -1,7 +1,7 @@
 vless://953bcea6-dd81-4c9a-a20a-053805f48195@144.31.86.3:9443/?type=ws&encryption=none&flow=&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#🌏45@oneclickvpnkeys
 vless://953bcea6-dd81-4c9a-a20a-053805f48195@de.ufavpn.ru:9443/?type=ws&encryption=none&flow=&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#🌏2@oneclickvpnkeys
 vless://953bcea6-dd81-4c9a-a20a-053805f48195@ru.ufavpn.ru:9443/?type=ws&encryption=none&flow=&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#🌏71@oneclickvpnkeys
-vless://953bcea6-dd81-4c9a-a20a-053805f48195@77.90.19.239:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20332865
-vless://953bcea6-dd81-4c9a-a20a-053805f48195@144.31.86.3:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20769764
-vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20564926
-vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?path=/update&security=tls&encryption=none&type=ws&sni=ger.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20770867
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@77.90.19.239:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20965779
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@144.31.86.3:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20371299
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?type=ws&encryption=none&path=/update&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20145587
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?path=/update&security=tls&encryption=none&type=ws&sni=ger.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20783927
