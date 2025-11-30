@@ -1,1 +1,1 @@
-vless://81ada8f0-54ac-4128-9593-86b86cb14b9d@195.254.165.200:6884?security=none&encryption=none&type=grpc&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20534491
+vless://81ada8f0-54ac-4128-9593-86b86cb14b9d@195.254.165.200:6884?security=none&encryption=none&type=grpc&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20190793
