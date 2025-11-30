@@ -52,7 +52,5 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3822
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3851
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5851
-trojan://585c210b-a566-4a60-9acc-c3999effc431@80.211.205.173:2053?path=%2FFree-VPN-CF-Geo-Project%2F80.211.205.173%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-trojan://f7021513-aeed-4092-a084-52e4be1d8a1e@103.45.245.208:2053?path=%2FFree-VPN-CF-Geo-Project%2F103.45.245.208%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-trojan://585c210b-a566-4a60-9acc-c3999effc431@80.211.205.173:2053?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F80.211.205.173%3D2053&security=tls&fp=chrome&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-trojan://f7021513-aeed-4092-a084-52e4be1d8a1e@103.45.245.208:2053?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F103.45.245.208%3D2053&security=tls&fp=chrome&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://585c210b-a566-4a60-9acc-c3999effc431@80.211.205.173:2053?path=/Free-VPN-CF-Geo-Project/80.211.205.173=2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%A8%F0%9F%87%BF%20ShatakVPN%20206855
+trojan://f7021513-aeed-4092-a084-52e4be1d8a1e@103.45.245.208:2053?path=/Free-VPN-CF-Geo-Project/103.45.245.208=2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20412870
