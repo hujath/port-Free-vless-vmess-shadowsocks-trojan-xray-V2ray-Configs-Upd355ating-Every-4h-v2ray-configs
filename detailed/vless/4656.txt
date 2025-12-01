@@ -1,3 +1,3 @@
 vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3ATR
-vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20781865
-vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20984683
+vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20544520
+vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20454016
