@@ -1,26 +1,22 @@
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line | Free | 3045 | France
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#ًں‡«ًں‡·[Telegram:NetifyVPN]
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#ًںŒڈ43@oneclickvpnkeys
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇫🇷[Telegram:NetifyVPN]
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#🌏43@oneclickvpnkeys
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb ًںڈ´ًںڈ³
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@ShikaVPN
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb ًںڈ´ًںڈ³
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel@vmesskhodam
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#%253E%253E%2540v2line%3A%3AFR
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇫🇷[Telegram:NetifyVPN]
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#🌏43@oneclickvpnkeys
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel@vmesskhodam
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#рҹҮ«рҹҮ·[Telegram:NetifyVPN]
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#рҹҢҸ43@oneclickvpnkeys
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb рҹҸҙрҹҸі
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb рҹҸҙрҹҸі
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789/?type=tcp&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20210819
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20107958
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20899715
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20955496
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20817328
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20881277
