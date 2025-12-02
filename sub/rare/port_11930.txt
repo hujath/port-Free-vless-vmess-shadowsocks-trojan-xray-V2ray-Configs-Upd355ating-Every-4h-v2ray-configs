@@ -1,2 +1,1 @@
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20526341
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?sni=softpillow.silentrocket.click&path=/#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20895518
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?sni=softpillow.silentrocket.click&path=/#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20907908
