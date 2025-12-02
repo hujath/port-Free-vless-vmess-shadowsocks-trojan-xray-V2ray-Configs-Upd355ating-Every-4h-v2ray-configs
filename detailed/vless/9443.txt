@@ -1,1 +1,1 @@
-vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?path=/update&security=tls&encryption=none&type=ws&sni=ger.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20841244
+vless://953bcea6-dd81-4c9a-a20a-053805f48195@147.45.219.19:9443?path=/update&security=tls&encryption=none&type=ws&sni=ger.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20903499
