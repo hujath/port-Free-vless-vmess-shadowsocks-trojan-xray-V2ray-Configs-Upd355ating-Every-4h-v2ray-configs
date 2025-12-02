@@ -2,7 +2,7 @@ vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encry
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@Maznet-46196-1
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#WiFi-@V2rayAlpha--4
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AXX
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20818405
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20311515
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20103190
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20166950
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843391
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643875
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844075
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121100
