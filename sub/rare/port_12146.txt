@@ -1,0 +1,2 @@
+vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#azadiiivpn ALL ³✨
+vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?flow=&type=tcp&headerType=none&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
