@@ -1,2 +1,1 @@
 vless://25a2fdd7-17f9-4f1c-9343-a3b40d97e08d@necrolyte.fonixapp.org:33931?security=reality&encryption=none&pbk=tH0oRowYvJRr2CUvK3FsiS77gnfE_6c2yB7sY-C3bU4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=0f39fc8e#WiFi-@V2rayAlpha--7
-vless://25a2fdd7-17f9-4f1c-9343-a3b40d97e08d@152.53.144.195:33931?security=reality&encryption=none&pbk=tH0oRowYvJRr2CUvK3FsiS77gnfE_6c2yB7sY-C3bU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=0f39fc8e#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228877
