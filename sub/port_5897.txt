@@ -1,5 +1,0 @@
-trojan://fg20mtCFHy@usiys.southbyte.xyz:5897/?type=tcp&security=tls#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://fg20mtCFHy@128.14.180.218:5897?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20632091
-trojan://fg20mtCFHy@128.14.180.218:5897?security=tls&fp=chrome&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20638415
-trojan://fg20mtCFHy@128.14.180.218:5897?security=tls&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20740312
-trojan://fg20mtCFHy@128.14.180.218:5897?security=tls&sni=usiys.southbyte.xyz&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20599828
