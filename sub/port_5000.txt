@@ -30,7 +30,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5000#%F0%9F%87%B3%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-9296
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594624
-vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677378
-vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20694027
-vless://vpn@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20298677
+vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20934701
+vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20264036
+vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20578801
+vless://vpn@109.205.56.37:5000?type=ws&encryption=none&host=ozon.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20173566
