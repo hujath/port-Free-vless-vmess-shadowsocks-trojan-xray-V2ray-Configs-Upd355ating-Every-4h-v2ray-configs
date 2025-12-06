@@ -11,4 +11,3 @@ vless://Parsashonam-309@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-310@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNGCLOUD🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-311@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNGCLOUD🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-312@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNGCLOUD🇩🇪 نیازمند فعال بودن ipv6
-vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@38.55.198.156:8888?encryption=none&type=ws&host=act13.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re&security=tls&alpn=h3&fp=random&sni=act13.sni565.netlib.re#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
