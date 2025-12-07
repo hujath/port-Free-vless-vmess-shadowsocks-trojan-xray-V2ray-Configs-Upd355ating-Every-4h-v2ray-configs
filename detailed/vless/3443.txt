@@ -1,1 +1,2 @@
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn.ultima.foundation:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#🎶83@oneclickvpnkeys
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@158.160.175.98:3443?security=reality&encryption=none&pbk=IgaNLuUg1JOIoUdX4CegMU_XBU35B5RAYRL_-KZfpSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=c84a28bb05989ff4#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
