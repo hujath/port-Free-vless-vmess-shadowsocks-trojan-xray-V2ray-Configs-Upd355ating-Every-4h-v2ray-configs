@@ -1,2 +1,2 @@
 vless://a9002c49-484d-4fc3-91a5-88125f010e1b@146.103.41.77:47102?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://a9002c49-484d-4fc3-91a5-88125f010e1b@146.103.41.77:47102?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20863698
+vless://a9002c49-484d-4fc3-91a5-88125f010e1b@146.103.41.77:47102?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20591699
