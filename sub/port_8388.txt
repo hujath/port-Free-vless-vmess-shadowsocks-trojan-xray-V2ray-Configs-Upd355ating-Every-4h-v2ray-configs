@@ -18,9 +18,10 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.88:8388#%F0%9F%87%AD%F0%9F%87%
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.38:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.38-7628
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.101:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.101-7629
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@141.95.160.152:8388#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.160.152-11571
-vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20380343
-vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20444129
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20980562
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.88:8388#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20714249
+vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20602588
+vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20703923
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20630659
 ss://YWVzLTI1Ni1nY206@Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs:8388#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Exclusive%20SH%CE%9EN%E2%84%A2%20miner
 ss://YWVzLTI1Ni1nY206@Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYXhwMWRkbU1lYWNKZ0lCYjRJaUF5:8388#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Exclusive%20SH%CE%9EN%E2%84%A2%20miner
 ss://YWVzLTI1Ni1nY206@Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVkJZUmtTa0hsVHFlYlNKckdjMkM3:8388#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Exclusive%20SH%CE%9EN%E2%84%A2%20miner

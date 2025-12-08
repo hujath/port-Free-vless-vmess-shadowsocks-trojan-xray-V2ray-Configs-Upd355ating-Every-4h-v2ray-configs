@@ -1,2 +1,1 @@
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🟣60@oneclickvpnkeys
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.20:4249?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
