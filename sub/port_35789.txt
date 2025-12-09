@@ -7,5 +7,5 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=no
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#Channel@vmesskhodam
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20635146
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20691762
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20170813
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20169225
