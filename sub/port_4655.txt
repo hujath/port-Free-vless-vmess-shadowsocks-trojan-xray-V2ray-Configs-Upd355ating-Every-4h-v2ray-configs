@@ -2,11 +2,7 @@ vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&en
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655/?type=tcp&encryption=none&flow=#♾️28@oneclickvpnkeys
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655/?type=tcp&encryption=none=ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&flow=#%3E%3E%40EliV2ray%3A%3AAZ
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AAZ
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20445987
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20793637
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655/?type=tcp&encryption=none=ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575059
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20551159
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655/?type=tcp&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20935082
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20154501
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655/?type=tcp&encryption=none=ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&flow=#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20387024
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20496716
