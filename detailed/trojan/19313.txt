@@ -1,2 +1,2 @@
-trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?security=tls&sni=raincoat.bluetigeraa.click&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20410610
-trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?security=tls&sni=raincoat.bluetigeraa.click&type=tcp&headerType=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20762519
+trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?security=tls&sni=raincoat.bluetigeraa.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228487
+trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?security=tls&sni=raincoat.bluetigeraa.click&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465334
