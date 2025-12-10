@@ -1,5 +1,5 @@
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT
-vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#DE%20VLESS-35%20%7C%20free-nodes
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#DE%20VLESS-40%20%7C%20free-nodes
 vless://4df10efe-824a-4579-ab85-50f088f456d4@lovetea.dastur-amuzesh.ir:3002?security=none&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=Zula.ir&headerType=none&type=tcp#𝐕𝐢𝐩 (TEHRANARGO) | 🇱🇷⚡️
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?security=&fp=chrome&type=tcp&encryption=none&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -14,4 +14,9 @@ vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?securi
 vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNNBot🔥⚡❤️‍🔥
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?security=&fp=chrome&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20792079
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20755418
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.143.214:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20302786
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20846756
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.143.214:3002?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20366562
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.143.214:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20411444
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.143.214:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20576425
