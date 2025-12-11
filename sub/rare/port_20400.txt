@@ -1,3 +1,2 @@
 vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40V2rayNG3%3A%3AFI
-vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20210314
-vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20488038
+vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20374551
