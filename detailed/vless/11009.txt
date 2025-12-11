@@ -1,1 +1,1 @@
-vless://a49b96bc-f0e7-219b-dd22-98e69b229761@46.8.70.157:11009?security=reality&encryption=none&sni=www.bunny.net&fp=chrome&pbk=2-JBR_gIAup5_dncA72fNulNlVCWv-tS1OSAjQ5gS2Q&sid=61fb6c0d&spx=/&type=grpc&serviceName=xraygrpc&path=/#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20882801
+vless://a49b96bc-f0e7-219b-dd22-98e69b229761@46.8.70.157:11009?security=reality&encryption=none&sni=www.bunny.net&fp=chrome&pbk=2-JBR_gIAup5_dncA72fNulNlVCWv-tS1OSAjQ5gS2Q&sid=61fb6c0d&spx=/&type=grpc&serviceName=xraygrpc&path=/#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20315529
