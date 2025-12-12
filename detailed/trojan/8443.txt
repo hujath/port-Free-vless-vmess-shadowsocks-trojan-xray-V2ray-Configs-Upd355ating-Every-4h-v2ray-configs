@@ -1,10 +1,4 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%E6%9C%AA%E7%9F%A53
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%E6%9C%AA%E7%9F%A528
-trojan://vip@www.visa.com.hk:8443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#HK
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%E6%9C%AA%E7%9F%A588
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5131
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5169
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5170
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn5.868863.xyz:8443?sni=17654164554752.796812.xyz#%E6%9C%AA%E7%9F%A566
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-231%20%7C%20free-nodes
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-253%20%7C%20free-nodes
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%E6%9C%AA%E7%9F%A5%20TROJAN-305%20%7C%20free-nodes
@@ -83,7 +77,7 @@ trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:8443?security=
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.209-4280
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.87.89-4494
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.87.89-4540
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://trojan@172.67.75.172:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20853754
-trojan://trojan@172.67.75.172:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20494559
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://trojan@172.67.75.172:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20229311
+trojan://trojan@104.26.12.31:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20764931
