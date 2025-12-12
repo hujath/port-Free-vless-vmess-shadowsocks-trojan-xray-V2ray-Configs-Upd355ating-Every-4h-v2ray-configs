@@ -24,4 +24,4 @@ vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?securi
 vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#🏴🏳
 vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?security=none&type=tcp&encryption=none#[🇩🇪]t.me/ConfigsHub
-vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.174.82:3002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20536338
+vless://4fbf976a-ecff-42e6-a100-0436ef96ee46@91.107.143.214:3002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20745921

@@ -10,9 +10,8 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=no
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&type=tcp &encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 3.5MB/s
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#%3E%3E%40EliV2ray%3A%3AXX
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2RAY_VMESS_free%3A%3AXX
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20592232
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20111087
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20830502
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20292103
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20805462
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20789668
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20787739
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20704667
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20349114
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20947965

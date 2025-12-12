@@ -85,8 +85,7 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.209-4214
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.20.245.139-4372
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.121.119-4474
-trojan://trojan@ip.sb:8443?security=tls&type=ws&sni=fofang.pages.dev&path=/?ed=2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://trojan@172.67.75.172:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20590492
-trojan://trojan@172.67.75.172:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20172355
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://trojan@172.67.75.172:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20940650
+trojan://trojan@104.26.12.31:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20443591
