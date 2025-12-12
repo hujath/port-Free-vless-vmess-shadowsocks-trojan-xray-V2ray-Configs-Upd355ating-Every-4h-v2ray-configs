@@ -5,4 +5,4 @@ vless://62b0e46b-d2a5-423d-8457-95bde707fc19@de-b.vasilej.org:7443/?type=tcp&enc
 vless://7e501035-03bb-47ac-bcdb-8f21b57ba571@65.109.177.133:7443?security=none&encryption=none&headerType=none&type=tcp#@Hddify |§| چنل هدیفای
 vless://e7e9b9a5-a5e5-41c9-905c-2782342b0afd@159.69.24.12:7443?security=none&encryption=none&headerType=none&type=tcp#1
 vless://e7e9b9a5-a5e5-41c9-905c-2782342b0afd@159.69.24.12:7443?security=none&encryption=none&headerType=none&type=tcp#limo
-vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:7443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20665740
+vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:7443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20692348
