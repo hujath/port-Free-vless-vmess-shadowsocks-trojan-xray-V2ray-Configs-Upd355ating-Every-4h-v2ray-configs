@@ -1,4 +1,4 @@
 trojan://FodSUXysuS@180.131.145.161:23274?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-145%20%7C%20free-nodes
 trojan://FodSUXysuS@180.131.145.161:23274?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-180.131.145.161-0644
 trojan://FodSUXysuS@180.131.145.161:23274?security=tls#%E6%9C%AA%E7%9F%A5167
-trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&type=grpc&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20869821
+trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&type=grpc&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20125702
