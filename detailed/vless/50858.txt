@@ -1,2 +1,2 @@
 vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?security=tls&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@45.61.150.49:50858?security=tls&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20999954
+vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@45.61.150.49:50858?security=tls&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20329322
