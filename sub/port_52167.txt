@@ -3,3 +3,7 @@ vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=
 vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=&encryption=none&host=speedtest.net&type=ws#🏳
 vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=none&encryption=none&host=speedtest.net&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&security=none&encryption=none&host=speedtest.net&type=ws#🏳
+vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=%2F&security=&encryption=none&host=speedtest.net&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?encryption=none&type=ws&host=speedtest.net&path=%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?path=/&encryption=none&host=speedtest.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20669199
