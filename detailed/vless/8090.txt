@@ -1,2 +1,1 @@
 vless://59d5046b-8b88-4183-a543-f0701bb81464@bra2.hackkcah.xyz:8090?path=/vless-ws/&security=none&encryption=none&host=bra2.hackkcah.xyz&type=ws&sni=bra2.hackkcah.xyz#azadiiivpn 🎀
-vless://59d5046b-8b88-4183-a543-f0701bb81464@bra2.hackkcah.xyz:8090?encryption=none&type=ws&host=bra2.hackkcah.xyz&path=%2Fvless-ws%2F&security=none#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
