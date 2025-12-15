@@ -46,5 +46,3 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:4248/?type=tcp&encryp
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%AD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20976558
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20406936

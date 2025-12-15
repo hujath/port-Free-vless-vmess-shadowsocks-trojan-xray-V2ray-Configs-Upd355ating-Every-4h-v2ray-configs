@@ -18,4 +18,4 @@ vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&s
 vless://f85e6560-bb77-472a-8fd6-9c1989b98419@91.99.179.41:42671?type=tcp&security=none#DONALD_VPN12
 vless://6e613f0a-0255-4563-be20-730633f9b99c@37.27.40.194:42671?type=ws&encryption=none&path=/NT_Safe&host=&security=none#🇺🇸-@nt_safe ‌
 vless://c6251b2d-9031-45f9-8ddc-591993e264a2@91.98.237.237:42671?type=ws&encryption=none&path=/NT_Safe&host=&security=none#🇺🇸-@nt_safe
-vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=/NT_Safe&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20702786
+vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=/NT_Safe&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20998587
