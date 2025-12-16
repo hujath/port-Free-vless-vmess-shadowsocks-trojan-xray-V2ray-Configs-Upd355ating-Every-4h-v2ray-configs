@@ -1,5 +1,5 @@
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.13-0384
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20235250
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20614307
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=runningshoes.purpletornado.click&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20402308
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20460342
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20303208
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=runningshoes.purpletornado.click&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20614735
