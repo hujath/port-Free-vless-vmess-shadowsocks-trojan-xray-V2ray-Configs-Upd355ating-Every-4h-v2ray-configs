@@ -2,8 +2,8 @@ vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryp
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇦🇿
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20717691
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20310504
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20186796
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20491732
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20709608
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20486843
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20487325
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20976068
