@@ -4,8 +4,8 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=no
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 | @HajmVPN_Config
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20194549
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20500583
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20705702
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20722568
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20780173
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20458688
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20937303
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20687649
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20634867
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20907704
