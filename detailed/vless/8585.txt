@@ -4,4 +4,3 @@ vless://5df2193b-af25-4747-ab90-daf0d78db1a7@46.224.121.233:8585?security=&encry
 vless://5df2193b-af25-4747-ab90-daf0d78db1a7@46.224.121.233:8585?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:8585?security=&encryption=none&headerType=&type=tcp#JOIN ➪@FILTERK0SH
-vless://5df2193b-af25-4747-ab90-daf0d78db1a7@46.224.121.233:8585?security=none&encryption=none&type=tcp&headerType=none&host=Join---nitruStore---Join---nitruStore#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20569456
