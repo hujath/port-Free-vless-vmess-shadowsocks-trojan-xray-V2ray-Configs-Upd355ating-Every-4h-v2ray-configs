@@ -1,2 +1,1 @@
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@211.253.100.65:20201?encryption=none&security=tls&sni=ak.suoni.nyc.mn&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ak.suoni.nyc.mn&path=%2F#qol_325
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@211.253.100.65:20201?type=ws&encryption=none&host=ak.suoni.nyc.mn&path=/proxyip=sjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20614894
