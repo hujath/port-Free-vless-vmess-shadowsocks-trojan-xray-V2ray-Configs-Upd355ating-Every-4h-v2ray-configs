@@ -5,7 +5,6 @@ trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20823737
-trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20123240
-trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20158072
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20647435
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20147445
+trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20479480
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20891122
