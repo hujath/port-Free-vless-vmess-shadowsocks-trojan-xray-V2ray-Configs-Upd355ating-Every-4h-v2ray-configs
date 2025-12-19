@@ -1,3 +1,4 @@
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_2%20%F0%9F%A7%AD%204.9MB%2Fs#کانفیگ_پرسرعت
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru#%E6%9C%AA%E7%9F%A510
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1#🧢15@oneclickvpnkeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
@@ -12,4 +13,5 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&hea
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇹IT_1 🧭 4.8MB/s
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20271569
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_1%20%F0%9F%A7%AD%205.3MB%2Fs#کانفیگ_پرسرعت
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20804951
