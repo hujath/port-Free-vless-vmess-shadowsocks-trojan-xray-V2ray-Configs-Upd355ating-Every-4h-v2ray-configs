@@ -7,16 +7,7 @@ vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&typ
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇦🇿
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇷FR_1 🧭 4.5MB/s
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇷FR_2 🧭 4.7MB/s
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#[🇵🇱]t.me/ConfigsHub
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🇵🇱]t.me/ConfigsHub
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI_4 🧭 7.8MB/s
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3APL
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20373122
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20847210
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20175294
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20342983
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20772823
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20809558
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20222968
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20547038

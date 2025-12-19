@@ -1,4 +1,3 @@
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.108.239:4657?security=none&type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHub
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.108.239:4657?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI_2 🧭 5.1MB/s
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADK
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20180333
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20622895
