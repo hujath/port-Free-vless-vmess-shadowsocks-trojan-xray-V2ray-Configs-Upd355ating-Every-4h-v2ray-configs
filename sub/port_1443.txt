@@ -18,4 +18,4 @@ vless://58f12e5f-36f9-41cd-83be-d5aa443a2131@bra.hackkcah.xyz:1443?mode=auto&pat
 vless://cf9e542c-b2ae-4eee-b21b-22b0f90c619e@deu.hackkcah.xyz:1443?mode=auto&path=/vless-xhttp/&security=none&encryption=none&host=can.hackkcah.xyz&type=xhttp#@Broz_time > کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRFkxTg@de1.opensocks.site:1443#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMk5rTw%3D%3D@us1.opensocks.site:1443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMk5rTw==@193.32.177.210:1443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20968987
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMk5rTw==@193.32.177.210:1443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443268
