@@ -1,2 +1,2 @@
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20711790
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20551098
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20499463
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20852239
