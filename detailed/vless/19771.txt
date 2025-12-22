@@ -1,2 +1,2 @@
-vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.64:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20314645
-vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.64:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20764912
+vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.64:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20568440
+vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.64:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20495338
