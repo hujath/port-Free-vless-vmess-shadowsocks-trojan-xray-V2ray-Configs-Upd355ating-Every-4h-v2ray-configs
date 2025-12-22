@@ -1,8 +1,5 @@
 vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#❄️9@oneclickvpnkeys
 vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_12 🧭 4.4MB/s
 vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#вқ„пёҸ9@oneclickvpnkeys
-vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080?security=none&type=tcp&encryption=none#рҹ‘үрҹҶ” @v2ray_configs_pool рҹ“Ў рҹҮ©рҹҮӘDE_12 рҹ§ӯ 4.4MB/s
-vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20689471
-vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20327122
+vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20742066
+vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20189889
