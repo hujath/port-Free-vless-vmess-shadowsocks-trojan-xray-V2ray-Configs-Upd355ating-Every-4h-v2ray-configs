@@ -6,5 +6,6 @@ vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?note=---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---&security=none&type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raytg%20%5B35%5D
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ATR
-vless://ee5576a5-d0d7-4c83-9656-f11c85238014@194.116.236.12:8081?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20400253
-vless://ee5576a5-d0d7-4c83-9656-f11c85238014@194.116.236.12:8081?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20588874
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?note=---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---&security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@194.116.236.12:8081?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20915013
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@194.116.236.12:8081?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20287187
