@@ -1,4 +1,3 @@
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADK
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20906738
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20845471
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20310574
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20575942
