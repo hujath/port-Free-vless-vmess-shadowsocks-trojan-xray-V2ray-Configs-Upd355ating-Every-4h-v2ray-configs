@@ -6,6 +6,5 @@ vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&e
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#🏴🏳
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3ARU
-vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20249214
+vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20286702

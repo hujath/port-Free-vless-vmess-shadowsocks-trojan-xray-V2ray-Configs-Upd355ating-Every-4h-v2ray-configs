@@ -10,5 +10,5 @@ vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?security=none&encr
 vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002/?type=tcp&encryption=none&flow=#❄️7@oneclickvpnkeys
 vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
-vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@91.107.149.145:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20996076
-vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@172.245.233.119:3002?security=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20978098
+vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@91.107.152.162:3002?security=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20908167
+vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@172.245.233.119:3002?security=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20575776
