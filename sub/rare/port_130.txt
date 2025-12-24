@@ -1,2 +1,2 @@
 vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 𝐆𝐞𝐫𝐦𝐚𝐧𝐲
-vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321437
+vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20293182
