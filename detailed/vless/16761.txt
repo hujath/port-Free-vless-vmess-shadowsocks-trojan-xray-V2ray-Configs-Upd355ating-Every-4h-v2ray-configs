@@ -2,7 +2,6 @@ vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&enc
 vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&type=tcp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_8 🧭 4.9MB/s
 vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3ADE
-vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20347782
-vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20465816
+vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20650087
+vless://9c353dcb-d16f-4bfd-a8bc-bf6b7dcbb4a2@91.99.73.21:16761?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20151110
