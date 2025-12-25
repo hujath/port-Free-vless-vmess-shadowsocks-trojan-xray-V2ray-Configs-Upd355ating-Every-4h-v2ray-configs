@@ -1,7 +1,8 @@
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&type=tcp&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_2 🧭 5.3MB/s
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?encryption=none&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20897844
+vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?encryption=none&packetEncoding=xudp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310981
