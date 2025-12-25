@@ -1,2 +1,4 @@
-vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_10%20%F0%9F%A7%AD%205.2MB%2Fs#کانفیگ_پرسرعت
-vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?encryption=none&type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
+vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_11 🧭 5.3MB/s
+vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3ADE
+vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20299220
