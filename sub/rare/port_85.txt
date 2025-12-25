@@ -1,3 +1,4 @@
 vless://2db5f169-e2fd-3239-a099-d362e91bb87f@u13-unlim.standalonemsnew.cam:85?security=none&encryption=none&type=ws&sni=1#t.me/entryNET/config=1852402327559236
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH【🇦🇪】
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:85?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH【🇩🇪】
+vless://2db5f169-e2fd-3239-a099-d362e91bb87f@u13-unlim.standalonemsnew.cam:85?encryption=none&type=ws&host=u13-unlim.standalonemsnew.cam&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
