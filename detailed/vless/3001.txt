@@ -1,5 +1,6 @@
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#⛄26@oneclickvpnkeys
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#[⚡] ➠ @V2ray_official
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#⛄26@ConfigV2RayNG
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#🇳🇱@FreakConfig
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
@@ -15,11 +16,11 @@ vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&en
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20612954
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20488687
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20382299
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20356618
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20148176
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20304676
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20166144
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20196307

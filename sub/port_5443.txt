@@ -1,5 +1,6 @@
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=/vless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#𝗝𝗼𝗶𝗻 ➠ @SkyPro_Vpn
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=/vless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#🐆 @vpnserverrrکانال تلگرامی
+vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=/vless&security=&encryption=none&host=noda3.mcqueenconnection.ru&type=ws#❄️21@ConfigV2RayNG
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=/vless&security=none&encryption=none&host=noda3.mcqueenconnection.ru&type=ws#@V2ray1_Ng
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=/vless&security=none&encryption=none&host=noda3.mcqueenconnection.ru&type=ws#🐆 @vpnserverrr کانال تلگرامی
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@de2.mcqueenconnection.ru:5443?path=/vless&security=none&encryption=none&host=de2.mcqueenconnection.ru&type=ws#🇩🇪 @vpnserverrrکانال تلگرامی
@@ -7,5 +8,5 @@ vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443/?type=ws&encrypti
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/vless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#🇫🇮[Telegram:NetifyVPN]
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443/?type=ws&encryption=none&flow=&host=noda3.mcqueenconnection.ru&path=/vless#❄️21@oneclickvpnkeys
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443/?type=ws&encryption=none&flow=&host=noda3.mcqueenconnection.ru&path=%2Fvless#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443/?type=ws&encryption=none&flow=&host=noda3.mcqueenconnection.ru&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20466454
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?type=ws&encryption=none&host=noda3.mcqueenconnection.ru&path=/vless#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20347809
+vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443/?type=ws&encryption=none&flow=&host=noda3.mcqueenconnection.ru&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20912441
+vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?type=ws&encryption=none&host=noda3.mcqueenconnection.ru&path=/vless#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20382235

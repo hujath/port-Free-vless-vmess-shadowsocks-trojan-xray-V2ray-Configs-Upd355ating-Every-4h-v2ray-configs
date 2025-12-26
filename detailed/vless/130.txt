@@ -4,4 +4,4 @@ vless://88a7ff4d-0146-40e8-a899-3bed3e950a09@88.99.168.134:130?security=none&enc
 vless://88a7ff4d-0146-40e8-a899-3bed3e950a09@88.99.168.134:130?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://88a7ff4d-0146-40e8-a899-3bed3e950a09@88.99.168.134:130?security=none&encryption=none&headerType=none&type=tcp#🏴🏳
 vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 𝐆𝐞𝐫𝐦𝐚𝐧𝐲
-vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20836358
+vless://5d7731b4-138c-4020-8f24-b37884441ca3@91.98.237.228:130?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20552551
