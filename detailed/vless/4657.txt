@@ -1,7 +1,5 @@
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI_3 🧭 5.2MB/s
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#🇩🇰 - DK - @freeOnlineVPN
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADK
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI_6 🧭 4.0MB/s
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20901395
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20476313
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20576919
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%B0%20ShatakVPN%20129818
