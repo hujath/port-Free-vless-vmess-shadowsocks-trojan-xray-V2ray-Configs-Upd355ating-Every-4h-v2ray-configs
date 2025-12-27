@@ -1,0 +1,1 @@
+trojan://HQk9wst3vK@ip.dudeuni.com:52251?type=tcp&security=tls&sni=ip.dudeuni.com&alpn=h3%2Ch2&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
