@@ -10,7 +10,6 @@ vless://35342035-3420-4130-b120-353620313032@92.112.126.22:8442?security=reality
 vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442/?type=tcp&encryption=none&flow=#🎁30@oneclickvpnkeys
 vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&encryption=none&headerType=none&type=tcp#WiFi--@V2rayAlpha-4
 vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#@sunflowerplato🌻
-vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20163695
-vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20215646
+vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20929871
+vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20970703
