@@ -1,0 +1,2 @@
+vless://0f42bad0-e525-4b46-9551-c76a65c7333d@194.116.236.157:54378?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20162033
+vless://aa78a7f9-1f85-44f9-9f99-5f8e1860efc2@194.116.236.157:54378?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20271687
