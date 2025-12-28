@@ -12,7 +12,8 @@ vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&enc
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3ADE
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=&encryption=none&headerType=none&type=tcp#@Enzewa_Network👈جوین‌شوقطع‌نشی
-vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20112873
-vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20454592
+vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20219143
+vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20687017
+vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20982364
