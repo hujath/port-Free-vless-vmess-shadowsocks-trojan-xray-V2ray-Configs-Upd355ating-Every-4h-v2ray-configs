@@ -1,2 +1,3 @@
-vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.64:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20425936
-vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.64:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20856866
+vless://c6bd55f5-6595-4bb7-b470-c43f8311a3bf@delta-ocean-core-gateway-star.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#@Arshiavpn12 جوین شو قطع نشی
+vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@89.185.82.64:19771?type=ws&encryption=none&path=/&security=none#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20803663
+vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.64:19771?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20510360
