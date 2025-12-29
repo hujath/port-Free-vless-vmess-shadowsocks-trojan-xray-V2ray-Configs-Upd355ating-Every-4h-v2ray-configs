@@ -1,2 +1,2 @@
 trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.138-0909
-trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@220.130.58.136:31102?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20924575
+trojan://913d0c8a-1c21-4fe2-9ce3-1d98f0db12e0@220.130.58.136:31102?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20382493
