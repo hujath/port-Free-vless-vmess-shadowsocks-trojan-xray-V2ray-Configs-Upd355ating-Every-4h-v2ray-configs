@@ -1,1 +1,1 @@
-trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@220.130.58.138:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20632266
+trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20752909
