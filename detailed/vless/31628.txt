@@ -5,7 +5,5 @@ vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ADE
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1852824232629426
-vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20177128
-vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20762056
+vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20661710
+vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@89.106.69.56:31628?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20982449

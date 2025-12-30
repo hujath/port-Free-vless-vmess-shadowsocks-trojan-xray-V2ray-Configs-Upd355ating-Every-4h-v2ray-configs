@@ -13,5 +13,6 @@ vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&e
 vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&headerType=none&type=tcp#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
 vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&type=tcp#🇫🇷+Uvpn_org
 vless://3c79187e-34ca-4840-8d33-8cf176001294@51.195.103.227:8442?security=none&encryption=none&type=tcp#🇩🇪+Uvpn_org
-vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20144724
+vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20126314
