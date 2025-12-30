@@ -1,0 +1,2 @@
+vless://b1840f07-6100-4871-97df-0e37b9649867@zahedan.dns-dynamic.net:46063?encryption=none&security=tls&sni=zahedan.dns-dynamic.net&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207784
+vless://b1840f07-6100-4871-97df-0e37b9649867@zahedan.dns-dynamic.net:46063?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=zahedan.dns-dynamic.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399237
