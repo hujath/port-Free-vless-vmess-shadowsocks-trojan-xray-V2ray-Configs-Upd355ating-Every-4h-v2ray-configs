@@ -6,6 +6,5 @@ vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=non
 vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3AXX
 vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=none&encryption=none&headerType=none&type=tcp#%40one_shop_official`
 vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?type=tcp&encryption=none&security=none#67shkyh0
-vless://2364f94b-f985-478b-d694-879bb47d14e6@83.228.225.253:3749?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20782951
-vless://2364f94b-f985-478b-d694-879bb47d14e6@83.228.225.253:3749?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20625369
-vless://2364f94b-f985-478b-d694-879bb47d14e6@83.228.225.253:3749?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20335937
+vless://2364f94b-f985-478b-d694-879bb47d14e6@83.228.225.253:3749?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20573900
+vless://2364f94b-f985-478b-d694-879bb47d14e6@83.228.225.253:3749?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20667270
