@@ -2,8 +2,7 @@ vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&enc
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AGB
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#r♡ya
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20810791
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20318170
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20392846
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20323434
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20760028
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20290962
