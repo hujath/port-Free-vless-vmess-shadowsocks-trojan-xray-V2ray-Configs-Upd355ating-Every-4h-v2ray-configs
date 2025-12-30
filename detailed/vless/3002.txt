@@ -8,5 +8,5 @@ vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?security=none&encr
 vless://6f858ab4-56a6-45bd-90aa-84d1e2e3063a@lovetea.parsianboton.ir:3002?security=none&encryption=none&host=lovetea.parsianboton.ir&headerType=none&type=tcp#@V2ray_confing33
 vless://6f858ab4-56a6-45bd-90aa-84d1e2e3063a@lovetea.parsianboton.ir:3002?security=none&encryption=none&host=lovetea.parsianboton.ir&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://d42d0748-fd4c-4f96-977a-863e5e245aa3@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
-vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@209.50.227.1:3002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20376045
-vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@172.245.233.119:3002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20723842
+vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@209.50.227.1:3002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20781395
+vless://66ea0087-f7fb-48dd-8faa-c8d1e27a041e@172.245.233.119:3002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20711586

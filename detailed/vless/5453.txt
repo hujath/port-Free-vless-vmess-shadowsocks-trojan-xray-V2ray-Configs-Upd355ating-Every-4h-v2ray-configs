@@ -1,1 +1,3 @@
-vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@185.213.164.174:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20594031
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@185.213.164.174:5453?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#[🛸] ➠ @V2ray_official
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@185.213.164.174:5453?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@185.213.164.174:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20369458
