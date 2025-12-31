@@ -1,1 +1,1 @@
-trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=dns.google.com&path=/#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20339418
+trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=dns.google.com&path=/#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20827030
