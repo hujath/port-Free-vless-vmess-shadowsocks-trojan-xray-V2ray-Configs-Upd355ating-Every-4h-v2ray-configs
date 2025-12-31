@@ -46,15 +46,15 @@ vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&type
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#@Broz_time+>+کانفیگ+رایگان
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#@Broz_time+>+کانفیگ+رایگان
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🩵
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20538593
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20657151
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20952020
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20674934
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20128708
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20756837
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20480186
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20335769
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20601667
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20751923
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20738799
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20177687
+vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20840454
+vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20591467

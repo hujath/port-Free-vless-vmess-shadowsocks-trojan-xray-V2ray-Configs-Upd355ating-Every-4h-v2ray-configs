@@ -16,4 +16,3 @@ vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&enc
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#Channel : @vpnserverrr
 vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?security=none&encryption=none&headerType=none&type=tcp#limo
-vless://7e669fcd-4dd9-4c87-ab10-f6d4ddee68cd@91.99.67.80:47158?path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20873890

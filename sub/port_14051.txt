@@ -11,4 +11,4 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&hea
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3247 | Italy
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&allowInsecure=1&type=tcp&headerType=none&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&path=/&allow_insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20736145
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&path=/&allow_insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20613979
