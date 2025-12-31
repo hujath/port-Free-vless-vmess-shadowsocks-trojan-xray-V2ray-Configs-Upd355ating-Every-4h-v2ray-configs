@@ -1,11 +1,13 @@
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#🎉63@oneclickvpnkeys
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#r♡ya
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#🇹🇷
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972468
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20587962
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20263859
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20926694
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20750835
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20291826
