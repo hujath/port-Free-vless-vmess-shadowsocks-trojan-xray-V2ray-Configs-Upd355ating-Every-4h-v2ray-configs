@@ -11,7 +11,6 @@ vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&t
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=#🎉2@oneclickvpnkeys
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#🎉2@ConfigV2RayNG
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
@@ -45,20 +44,15 @@ vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&en
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AAZ
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#⚡ @Fast78_Channel | Best Free Configs
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20198614
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20532195
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20413013
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20312432
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20628509
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&path=/#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20553806
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20341523
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20169050
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20881475
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20667203
+vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20190230
+vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20211454
+vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20745415
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20707391
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20701444
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&path=/#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20773497
