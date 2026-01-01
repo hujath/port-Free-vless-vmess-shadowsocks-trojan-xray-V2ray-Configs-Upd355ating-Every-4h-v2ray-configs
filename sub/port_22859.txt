@@ -4,4 +4,3 @@ vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?security=none&
 vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?type=tcp&encryption=none&security=none#%40Filter_breaker
 vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://295139fa-0631-4448-adb1-d5f72d3dae41@95.179.252.255:22859?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20547918
