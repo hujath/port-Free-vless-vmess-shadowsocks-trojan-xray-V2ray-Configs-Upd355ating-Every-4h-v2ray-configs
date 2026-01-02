@@ -302,18 +302,19 @@ vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?path=/@XpnTe
 vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-egwx79v1
 vless://eb5e2adb-8466-450f-a962-83b3228efa2d@test2.amin8263.ir:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=test3.amin8263.ir&type=ws#[🛸] ➠ @V2ray_official
 vless://eb5e2adb-8466-450f-a962-83b3228efa2d@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-230nj6j4
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20673725
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20690970
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20818819
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095/?type=ws&encryption=none&flow=&host=uk9.hope-pls.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20317802
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?type=ws&encryption=none&host=uk9.hope-pls.ir&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20429257
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20493971
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?path=/&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20937137
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20333813
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?path=/&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20439705
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20193218
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20729459
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.143.237:2095?encryption=none&type=ws&host=fangbinxingnmsl.pusytroller.cf&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?encryption=none&type=ws&host=fangbinxingnmsl.pusytroller.cf&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20976466
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20883020
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?path=/&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20370156
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20407416
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20624944
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?path=/&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20539781
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20379260
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095/?type=ws&encryption=none&flow=&host=uk9.hope-pls.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20661618
+vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?type=ws&encryption=none&host=uk9.hope-pls.ir&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20823411
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20700878
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20708808
