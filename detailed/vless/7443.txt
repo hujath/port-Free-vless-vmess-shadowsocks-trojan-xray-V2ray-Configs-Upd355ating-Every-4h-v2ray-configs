@@ -16,5 +16,4 @@ vless://f6d37008-ecb4-4e26-d8b8-0c8f0fd13cd6@78.46.200.43:7443?security=none&enc
 vless://f6d37008-ecb4-4e26-d8b8-0c8f0fd13cd6@78.46.200.43:7443?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️|•@confegraigan
 vless://72731735-d40c-4d0e-aa0b-cbf6debb9e2b@46.224.181.65:7443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ADE
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&sid=fd88bd27db4cc661#🌨️90@oneclickvpnkeys
-vless://72731735-d40c-4d0e-aa0b-cbf6debb9e2b@46.224.181.65:7443?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://72731735-d40c-4d0e-aa0b-cbf6debb9e2b@46.224.181.65:7443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20899853
+vless://72731735-d40c-4d0e-aa0b-cbf6debb9e2b@46.224.181.65:7443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20272964
