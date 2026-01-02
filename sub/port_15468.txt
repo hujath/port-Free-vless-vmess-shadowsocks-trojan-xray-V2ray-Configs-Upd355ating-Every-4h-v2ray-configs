@@ -9,8 +9,6 @@ vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&headerType=none&type=tcp#limo
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#[🇸🇦]t.me/ConfigsHub
-vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#t.me/entryNET/config=1853183609075905
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#🇸🇦 | @External_Net
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%A6%20ShatakVPN%20817291
-vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%A6%20ShatakVPN%20116665
+vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%A6%20ShatakVPN%20890533
