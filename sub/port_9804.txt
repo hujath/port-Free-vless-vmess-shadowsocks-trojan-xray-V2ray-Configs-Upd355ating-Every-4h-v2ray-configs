@@ -7,4 +7,4 @@ vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=&encry
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&encryption=none&headerType=none&type=tcp#r♡ya
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@94.177.226.84:9804?security=&encryption=none&headerType=none&type=tcp#𝗚𝗘𝗥𝗠𝗔𝗡𝗬🇩🇪 | آلمان 2
 vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AIT
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.144.214.67:9804?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20448644
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.144.214.67:9804?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20590091
