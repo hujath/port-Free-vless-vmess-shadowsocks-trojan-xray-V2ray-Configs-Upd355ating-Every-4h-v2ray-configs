@@ -12,11 +12,9 @@ vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&typ
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#r♡ya
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&host=Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20467772
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20660111
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20731500
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&host=Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20983142
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20671886
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20633758
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20362344
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?path=/#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20596135
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&host=Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20622883
