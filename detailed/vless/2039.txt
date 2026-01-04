@@ -6,7 +6,7 @@ vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encry
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039?encryption=none&type=ws&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20719675
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20232163
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20546241
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20478174
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20133178
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20618428
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248070
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557832
