@@ -1,5 +1,7 @@
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%BC%A6%E5%A4%9A%20V2CROSS.COM
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A72
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-4919
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-5007
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20651492
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20254680
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20550760
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20254561
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20506913
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20250225
