@@ -1,4 +1,0 @@
-trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
-trojan://f9f59b4f-67b5-4ffa-a832-c9e38da35ac4@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#%3E%3E%40v2nodes%3A%3AHK
-trojan://03c765f2-8969-472d-8984-250f39e9e134@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://f9f59b4f-67b5-4ffa-a832-c9e38da35ac4@220.130.58.136:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20119757
