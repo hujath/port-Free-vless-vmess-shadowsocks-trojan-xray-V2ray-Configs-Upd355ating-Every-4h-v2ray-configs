@@ -295,10 +295,11 @@ vless://6-TEL-JKVPN--JKVPN@www.zula.ir:2095?path=/TELEGRAM--BYA--CHANEL----@JKVP
 vless://a94a2efa-0bf9-48e2-cc7f-d3fc2420ae31@www.speedtest.net:2095?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=httpupgrade#⁴𝗝𝗼𝗶𝗻➠🇳🇱⭕᭄꯭@v2ray_configs_pools
 vless://044f94e9-a61d-4c43-a4b8-dae2ff823256@a-lf-0.okamii.ir:2095?security=none&amp%3Btype=tcp&amp%3BheaderType=http&amp%3Bpath=%2Fpath&amp%3Bhost=varzesh3.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20407175
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20636687
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20684068
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20204365
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20926067
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20950447
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20222732
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.143.237:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20414046
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20929567
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20777433

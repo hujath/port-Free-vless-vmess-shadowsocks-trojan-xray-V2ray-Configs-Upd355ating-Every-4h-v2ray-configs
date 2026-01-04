@@ -2,7 +2,10 @@ trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=t
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%3E%3E%40oneclickvpnkeys%3A%3AJP
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20739906
-trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20440639
-trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20796149
-trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20488903
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20645136
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20120322
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20990383
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20285704
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20684439
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20478967
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20195918
