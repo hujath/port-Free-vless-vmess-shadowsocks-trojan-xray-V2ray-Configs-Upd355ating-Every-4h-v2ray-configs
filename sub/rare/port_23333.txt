@@ -1,2 +1,2 @@
-trojan://5a2c16f9@141.147.152.229:23333?security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.152.229-1810
-vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20416008
+trojan://5a2c16f9@141.147.152.229:23333?security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.152.229-1844
+vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20147134
