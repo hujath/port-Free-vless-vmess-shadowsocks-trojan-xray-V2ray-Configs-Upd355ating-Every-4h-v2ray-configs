@@ -1,8 +1,5 @@
-vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_10 🧭 4.4MB/s
-vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_9 🧭 4.7MB/s
+vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40flyv2ray
 vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#%3E%3E%40v2ray_configs_pool%3A%3ADE
-vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_7 🧭 4.7MB/s
 vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@91.107.242.200:3101?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20166197
+vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@116.203.15.139:3101?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20327647
