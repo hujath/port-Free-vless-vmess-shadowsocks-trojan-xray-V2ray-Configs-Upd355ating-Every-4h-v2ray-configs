@@ -5,4 +5,5 @@ vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=/?ed=2048&s
 vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%3E%3E%40v2rayng_fast%3A%3AGB
 vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?encryption=none&type=ws&host=skyroom.online&path=%2F%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20383532
+vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20470066
+vless://08c7f096-d057-4d53-82fd-c739d372887b@165.227.234.8:2026?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20306347
