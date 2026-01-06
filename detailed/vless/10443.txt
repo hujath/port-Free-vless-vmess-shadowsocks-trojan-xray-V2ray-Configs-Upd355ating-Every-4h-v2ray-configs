@@ -1,2 +1,2 @@
 vless://cc6bfed8-7010-4eab-a8e7-89793ade0815@cloud.ns.g01e.nochofscu.sbs:10443?security=reality&amp%3Bsni=www.speedtest.net&amp%3Bfp=firefox&amp%3Bpbk=n8tbatLDMMjIgL42OziDdK-lQGi3M1hFz4xVtmOjuTE&amp%3Bsid=93a1f0fa&amp%3Bspx=%2F&amp%3Btype=tcp&amp%3Bencryption=none#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40public504
-vless://00000000-0000-4000-8000-000000000000@172.86.94.7:10443?encryption=none&type=ws&host=mot.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=mot.gike.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://00000000-0000-4000-8000-000000000000@172.86.94.7:10443?encryption=none&type=ws&host=mot.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=mot.gike.dpdns.org#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

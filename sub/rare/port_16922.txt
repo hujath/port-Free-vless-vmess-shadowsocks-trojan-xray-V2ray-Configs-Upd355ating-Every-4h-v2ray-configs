@@ -1,2 +1,2 @@
 vless://51a08234-9b5e-4e8d-804d-bd0a824bb809@185.100.159.28:16922?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=xkCxFXlnv8uM2BeOF6MqOU6N-mY4J8ounFhwmRUO-xY&sid=ccdce4&spx=/&type=grpc# @NIM_VPN_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20797211
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20865346
