@@ -7,4 +7,6 @@ vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=&encr
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs ☄️
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20844682
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3ADE
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20833865
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20534336

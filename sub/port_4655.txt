@@ -1,7 +1,4 @@
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=&encryption=none&headerType=&type=tcp#BESTIIVPNBOT
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#All--%40V2rayAlpha-17
 vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=tcp#@TEHRANARGOعضو شو قطع نشی
 vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2rayNplus |🇦🇿
@@ -22,28 +19,22 @@ vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encr
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#خرید سرویس اختصاصی پرسرعت : @SkyPro_Vpn
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@Arshiavpn12 جوین شو قطع نشی
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇦🇿
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@206.189.30.131:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.254.199:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AAZ
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20811839
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20839513
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20994257
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20130392
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20822800
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20388022
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20741923
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@206.189.30.131:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20846461
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20295645
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.254.199:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20986729
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?encryption=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20619038
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20956111
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20314932
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@206.189.30.131:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20267066
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.254.199:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20336763
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20972886
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20229327
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20759704
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20215973
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20ShatakVPN%20910138
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20555735
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20263745
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?encryption=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20116941
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20290152
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20956302
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@206.189.30.131:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20262290
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.254.199:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20512616
