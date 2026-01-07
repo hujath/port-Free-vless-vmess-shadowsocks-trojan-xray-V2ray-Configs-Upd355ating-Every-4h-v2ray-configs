@@ -16,6 +16,6 @@ vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 💚
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#@YamYamProxy 💚
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3ADE
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20628962
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20118185
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20366862
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790297
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167419
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@2.189.119.24:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892171
