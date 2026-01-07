@@ -1,2 +1,2 @@
 vless://26c4884d-e265-4507-94bf-83f6a144fedc@194.87.219.24:28723?encryption=none&type=grpc&security=reality&fp=chrome&pbk=wuev4Ui4vOUl43k_O9pB0i6W6IuGvoM13lTBcI_DGkk&sni=dev.max.ru&sid=0600#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://26c4884d-e265-4507-94bf-83f6a144fedc@194.87.219.24:28723?security=reality&encryption=none&sni=dev.max.ru&fp=chrome&pbk=wuev4Ui4vOUl43k_O9pB0i6W6IuGvoM13lTBcI_DGkk&sid=0600&type=grpc&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610201
+vless://26c4884d-e265-4507-94bf-83f6a144fedc@194.87.219.24:28723?security=reality&encryption=none&sni=dev.max.ru&fp=chrome&pbk=wuev4Ui4vOUl43k_O9pB0i6W6IuGvoM13lTBcI_DGkk&sid=0600&type=grpc&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20166303
