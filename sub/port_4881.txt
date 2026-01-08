@@ -1,3 +1,4 @@
+vless://a9171965-cda0-461f-a6f2-a57069c875a3@2k.taptop.shop:4881?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_2%20%F0%9F%A7%AD%209.3MB%2Fs#کانفیگ_پرسرعت
 vless://3560c119-e298-43c1-b087-e77a4b3d7bf9@94k.bestusers.ir:4881?encryption=none&packetEncoding=xudp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:268.89ms
 vless://7f186e6b-6c4a-4b18-8bb1-152192c0f46c@94k.bestusers.ir:4881?encryption=none&packetEncoding=xudp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:268.89ms
 vless://a9171965-cda0-461f-a6f2-a57069c875a3@2k.taptop.shop:4881?encryption=none&packetEncoding=xudp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:129.79ms
@@ -7,5 +8,4 @@ vless://a9171965-cda0-461f-a6f2-a57069c875a3@2k.taptop.shop:4881?security=&encry
 vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?flow=&type=tcp&headerType=none&security=none#📍 Join to @vmessorg
 vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@94k.bestusers.ir:4881?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
 vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#%3E%3E%40v2nodes%3A%3AXX
-vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@94k.bestusers.ir:4881?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735279
+vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20576083
