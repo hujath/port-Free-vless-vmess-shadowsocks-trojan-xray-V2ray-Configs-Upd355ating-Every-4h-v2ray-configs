@@ -1,2 +1,1 @@
-trojan://5a2c16f9@118.141.64.192:36619?security=tls&sni=snippets.kkii.eu.org&type=ws&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3WangCai2&Host=snippets.kkii.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK-118.141.64.192-0925
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20705619
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20860094
