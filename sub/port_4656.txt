@@ -1,5 +1,5 @@
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106187
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763753
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20827226
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20594481
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20627936
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20119302
