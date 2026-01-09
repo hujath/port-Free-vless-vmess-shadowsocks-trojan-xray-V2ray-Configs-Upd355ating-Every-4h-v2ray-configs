@@ -1,4 +1,0 @@
-vless://bfc1104e-5616-4f0f-8112-324d1ddd149d@subscription.lormarb.ir:53762?security=none&type=ws&path=%2F&host=subscription.lormarb.ir&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AES
-vless://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762/?type=ws&amp%3Bencryption=none&amp%3Bhost=subscription.lormarb.ir&amp%3Bpath=/#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://0b3dc0af-9ca6-4542-ac1a-513d0e3b8eaa@subscription.lormarb.ir:53762?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://3eb830aa-18a4-4f1e-81fa-0a40a0493b08@subscription.lormarb.ir:53762?encryption=none&type=ws&host=subscription.lormarb.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
