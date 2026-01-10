@@ -3,7 +3,7 @@ trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#%3E%3E%40oneclickvpnkeys%3A%3AIN
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%9F%A971%40oneclickvpnkeys
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#%E6%9C%AA%E7%9F%A526%20989.0KB%2Fs
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20978710
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20231452
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20282459
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20665771
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20558821
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20784142
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20989317
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20771461
