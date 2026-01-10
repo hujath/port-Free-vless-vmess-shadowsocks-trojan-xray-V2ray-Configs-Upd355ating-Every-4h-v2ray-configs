@@ -25,5 +25,6 @@ trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree12
 trojan://3437698@104.19.39.165:2053?security=tls&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev&path=/?ed=2560&host=rough-violet-b842.heydari-cis64.workers.dev#%E6%9C%AA%E7%9F%A57
 trojan://Watashi_VPN@104.18.13.229:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?ed=2560&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#[78442] - Telegram : @V2All
 trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20563443
-trojan://3437698@104.19.39.165:2053?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20758186
+trojan://3437698@104.19.39.165:2053?type=ws&host=rough-violet-b842.heydari-cis64.workers.dev&path=%2F%3Fed%3D2560&security=tls&fp=random&sni=rough-violet-b842.heydari-cis64.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://3437698@104.19.39.165:2053?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20228619
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20739307
