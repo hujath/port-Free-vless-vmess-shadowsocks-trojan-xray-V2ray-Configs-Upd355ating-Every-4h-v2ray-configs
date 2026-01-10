@@ -1,5 +1,5 @@
 trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3APL
 trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3APL
-trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20806937
-trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20501419
-trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&type=tcp&headerType=none&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20367329
+trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20196181
+trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20994291
+trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&type=tcp&headerType=none&path=/#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20607711
