@@ -3,4 +3,3 @@ trojan://cde8eda2-9c2e-4fae-b308-2fed2cc33e4b@green2.cdntencentmusic.com:31103?a
 trojan://9f879bc7-3ac6-4ddd-8f7d-18d9f431f6a3@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2%20155.5KB%2Fs
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
 trojan://cde8eda2-9c2e-4fae-b308-2fed2cc33e4b@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0901
-trojan://9f879bc7-3ac6-4ddd-8f7d-18d9f431f6a3@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
