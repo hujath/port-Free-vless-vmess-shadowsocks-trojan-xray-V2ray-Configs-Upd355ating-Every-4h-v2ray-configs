@@ -7,8 +7,9 @@ trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?security=tls&sni=ww
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0340
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909652
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20988679
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267876
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20523912
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186396
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20583252
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20599641
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20664734
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20613953
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?security=tls&sni=www.nintendogames.net&type=tcp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20373790
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20455147
