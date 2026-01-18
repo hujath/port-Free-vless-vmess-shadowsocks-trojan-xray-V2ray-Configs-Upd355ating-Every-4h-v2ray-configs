@@ -2,5 +2,5 @@ trojan://148f82fa-d43a-4e1c-9536-4109e8c022a5@bestcdn0.868863.xyz:2096?security=
 trojan://148f82fa-d43a-4e1c-9536-4109e8c022a5@bestcdn1.868863.xyz:2096?security=tls&sni=17685523786268.206353.xyz#%F0%9F%8F%81RELAY-141.101.121.93-1759
 trojan://148f82fa-d43a-4e1c-9536-4109e8c022a5@bestcdn2.868863.xyz:2096?security=tls&sni=17685523788190.206355.xyz#%F0%9F%8F%81RELAY-104.21.224.5-1763
 trojan://148f82fa-d43a-4e1c-9536-4109e8c022a5@bestcdn4.868863.xyz:2096?security=tls&sni=17685523785425.206352.xyz#%F0%9F%8F%81RELAY-104.26.5.60-1767
-trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20422958
-trojan://5a2c16f9@94.140.0.238:2096?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/TelegramU0001F1E8U0001F1F3WangCai2#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20153326
+trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20786280
+trojan://5a2c16f9@94.140.0.238:2096?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/TelegramU0001F1E8U0001F1F3WangCai2#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20310514
