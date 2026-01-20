@@ -3,6 +3,6 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=non
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANO
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20914589
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20196221
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20114930
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20154793
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20647156
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20810849
