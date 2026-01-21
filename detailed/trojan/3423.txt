@@ -3,8 +3,8 @@ trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?security=tls&sni=w
 trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-4888
 trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-4889
 trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20929023
-trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20860377
-trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20507344
-trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20931873
-trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20578619
+trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20640633
+trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20900934
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20729674
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20523950
+trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20115114
