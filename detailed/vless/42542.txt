@@ -1,4 +1,4 @@
 vless://67b4afda-335f-4d40-b509-ba0816088690@de.broadcasp.info:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@fr.broadcasp.info:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@51.178.9.58:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20169848
-vless://67b4afda-335f-4d40-b509-ba0816088690@91.98.161.99:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20333451
+vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@51.178.9.58:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20649793
+vless://67b4afda-335f-4d40-b509-ba0816088690@91.98.161.99:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20513744

@@ -1,1 +1,1 @@
-vless://e0d1dbea-651b-4e81-8d64-26b48019cc25@88.218.66.58:5443?encryption=none&type=grpc&serviceName=catsecret.catlove.qzz.io&security=reality&fp=chrome&pbk=LeGoKhqaKrmtejsRi2mNbZPSuI3YOD08GhYsbC1x5A4&sni=catsecret.catlove.qzz.io&sid=46174a21#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://e0d1dbea-651b-4e81-8d64-26b48019cc25@88.218.66.58:5443?encryption=none&type=grpc&serviceName=catsecret.catlove.qzz.io&security=reality&fp=chrome&pbk=LeGoKhqaKrmtejsRi2mNbZPSuI3YOD08GhYsbC1x5A4&sni=catsecret.catlove.qzz.io&sid=46174a21#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
