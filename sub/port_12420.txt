@@ -4,8 +4,8 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0611
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20407230
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20381354
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20845878
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&path=/#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20938385
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20936469
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20195899
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20132436
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20825191
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&path=/#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20879042
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B4%20ShatakVPN%20707071
