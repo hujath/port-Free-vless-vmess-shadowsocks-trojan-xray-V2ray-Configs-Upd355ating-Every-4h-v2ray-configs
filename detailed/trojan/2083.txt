@@ -7,4 +7,4 @@ trojan://2c6bd338-237b-42f2-bf90-9fc3be812e82@bestcdn3.868863.xyz:2083?security=
 trojan://2c6bd338-237b-42f2-bf90-9fc3be812e82@bestcdn4.868863.xyz:2083?security=tls&sni=17691448611056.206355.xyz#%F0%9F%8F%81RELAY-172.67.70.92-1769
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8295
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8297
-trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20791373
+trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20624978

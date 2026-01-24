@@ -2,4 +2,4 @@ vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@m1.melalgame.com:33093?security=tls
 vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@m1.melalgame.com:33093?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@m1.melalgame.com:33093?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#⚡Telegram = @vmessorg
 vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@m1.melalgame.com:33093?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#✅سرورها بیشتردرکانال:prrofile_purple@✅
-vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@213.156.152.203:33093?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20393770
+vless://2c2143d5-5d80-4a76-8094-88f1e47251ca@213.156.152.203:33093?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20531780
