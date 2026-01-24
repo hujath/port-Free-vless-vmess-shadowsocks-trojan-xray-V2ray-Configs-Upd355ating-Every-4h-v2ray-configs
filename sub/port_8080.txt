@@ -15,34 +15,22 @@ ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0
 ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0@5.129.219.21:8080#🇧🇪@SimChin_iR جوین شید
 vless://0b12f5e0-b23e-4555-96d0-ced10fe6e4f3@84.21.189.63:8080?security=reality&encryption=none&pbk=KzxTSXu6qhbthLT4RtoFFeNa0vvG6ehwHGNPahg0en0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.latimes.com&sid=be7084#🇫🇷@SimChin_iR جوین شید
 vless://0b12f5e0-b23e-4555-96d0-ced10fe6e4f3@84.21.189.63:8080?security=reality&encryption=none&pbk=KzxTSXu6qhbthLT4RtoFFeNa0vvG6ehwHGNPahg0en0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.latimes.com&sid=be7084#🔰 @ConfigV2RayNG (تلگرام)
-vless://1114cfbd-453b-4e06-a107-de9cd9eb72a0@tr.p.sandis.space:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://1114cfbd-453b-4e06-a107-de9cd9eb72a0@tr.p.sandis.space:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @vmesorg
-vless://226ecd86-5e26-4d36-9d87-dd8841f351f9@keshvar.alman.iranesfahan.com:8080?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://23adc6b0-dcf7-4bef-8136-72d2c566b1c5@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
 vless://2ad3d767-3527-4f11-b277-5c5e9105bc96@104.16.1.106:8080?mode=auto&path=/&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
-vless://37b82d91-6754-4d1c-ab7f-5a686946cf20@fs4.netwatchds.com:8080?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=sgndlkgdlgjds.global.ssl.fastly.net&type=xhttp#⚡Telegram = @SOSkeyNET
-vless://5583f734-f94c-45f8-9339-21d1eed95da7@173.245.59.254:8080?type=ws&encryption=none&path=/cdn&host=Fanla0.ghAfGh.Ir.&security=none#⚡Telegram = @SOSkeyNET
 vless://5583f734-f94c-45f8-9339-21d1eed95da7@173.245.59.254:8080?type=ws&encryption=none&path=/cdn&host=Fanla0.ghAfGh.Ir.&security=none#⚡️Telegram = @unlimiteddev
-vless://642df780-bd98-491c-fa7e-9f42a527f326@154.16.183.96:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=/?ed=2048#⚡Telegram = @SOSkeyNET
 vless://726c7800-a083-4b83-b9cf-9a9872ea1fcb@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram. @Sobi_vpn
+vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?security=reality&encryption=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&headerType=none&fp=chrome&type=tcp&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&sid=98815cc9bcf5b56f#⚡Telegram = @SOSkeyNET
+vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?security=reality&encryption=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&headerType=none&fp=chrome&type=tcp&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&sid=98815cc9bcf5b56f#⚡Telegram = @vmessorg
 vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?security=reality&encryption=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&host=Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&headerType=none&fp=chrome&type=tcp&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&sid=98815cc9bcf5b56f#⚡Telegram = @SOSkeyNET
-vless://7938581a-83fa-4d66-bab8-6077a94da389@fro.izumii.ir:8080?security=reality&encryption=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&headerType=none&fp=chrome&type=tcp&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&sid=98815cc9bcf5b56f#⚡Telegram = @SOSkeyNET
 vless://7938581a-83fa-4d66-bab8-6077a94da389@fro.izumii.ir:8080?security=reality&encryption=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&headerType=none&fp=chrome&type=tcp&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&sid=98815cc9bcf5b56f#✅سرورها بیشتردرکانال:prrofile_purple@✅
+vless://7a8ae7a2-d22a-4fa1-a903-69a7a907baf8@kesvar.turkey.iransystemstatus.com:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ConfigX2ray
 vless://7a8ae7a2-d22a-4fa1-a903-69a7a907baf8@kesvar.turkey.iransystemstatus.com:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#VPNBaz
-vless://7a8ae7a2-d22a-4fa1-a903-69a7a907baf8@kesvar.turkey.iransystemstatus.com:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://80746ab5-6c08-4a35-c2f8-558577613f64@185.229.251.44:8080?path=/&security=none&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=&encryption=none&type=ws#ConfigV2RayNG1
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&fp=chrome&type=ws#Channel%@vmessorg
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&fp=chrome&type=ws#VPNBaz
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#@Vip_fragment_v2ray
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#VPNBaz
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://b3e696b6-10bc-4b14-949d-246834b2f34d@82.22.40.44:8080?security=none&encryption=none&host=tgju.com&headerType=http&type=tcp#@Capoit
 vless://b3e696b6-10bc-4b14-949d-246834b2f34d@82.22.40.44:8080?security=none&encryption=none&host=tgju.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://d14e62e6-7ae5-4a13-a36a-852c5fd25a3a@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
-vless://e15ba043-5fb6-4c73-b9ab-5aeff8cc4195@usa.musichubmel.ir:8080?path=/?ed=2048&security=none&encryption=none&type=ws#تلگرام سرچ کن: یام‌یام پروکسی | YamYamProxy
-vless://e15ba043-5fb6-4c73-b9ab-5aeff8cc4195@usa.musichubmel.ir:8080?path=/?ed=2048&security=none&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
-vless://e15ba043-5fb6-4c73-b9ab-5aeff8cc4195@usa.musichubmel.ir:8080?path=/?ed=2048&security=none&encryption=none&type=ws#⚡Telegram = @vmessorg
 vless://e6744da1-f381-419c-bc4b-32946d7ded30@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
 vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbjJ3MW53ZWIuc2lnbWFjaGVtaWNhbHMuaXIiLCJpZCI6IjIzOWVkNDFjLTRhZjYtNDliYS04MTU2LWZmMjMxMGVhNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNDM1MS9OZXh0bGlmZSIsInBvcnQiOiI4MDgwIiwicHMiOiJAdjJyYXluZ3plbmRlZ2ltYW1hZPCflYrvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImlkIjoibmFzbmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2MnJheW5nemVuZGVnaW1hbWFk8J+Viu+4jyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -275,137 +263,111 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@185.88.140.204
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjE2LjgwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIwZWE2MGViYi02MzJkLTQyMjYtODkzYS1jY2NjMjA1M2RiZjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjIxNi44MC04NzAzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTEuMTUxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIwZWE2MGViYi02MzJkLTQyMjYtODkzYS1jY2NjMjA1M2RiZjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjExLjE1MS04NzQ3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTk1LjgwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmNDY3ZjRkYS0yMjI2LTQ0OGQtYTMwZC00NjNlZjEwNTQ4YWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjE5NS44MC04NzY3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImlkIjoibmFzbmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://98f7f641-b3b1-42d5-81ec-3e14047f7c04@support.zoom.us:8080/?type=ws&encryption=none&flow=&host=lithusha.riyon.cfd&path=%2Flithusha#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080/?type=grpc&encryption=none&flow=&serviceName=max.ru#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@198.41.222.50:8080?encryption=none&security=none&sni=198.41.222.50&fp=chrome&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiRzBvTDBuZEFVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080/?type=grpc&encryption=none&flow=&serviceName=max.ru#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?path=%2F&security=&encryption=none&host=v2raynselling.kir-rasol-kir.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&type=grpc&serviceName=max.ru&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@198.41.222.50:8080?encryption=none&security=none&sni=198.41.222.50&fp=chrome&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiRzBvTDBuZEFVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20841058
-vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@172.64.153.235:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20528688
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20832964
-vless://98f7f641-b3b1-42d5-81ec-3e14047f7c04@170.114.46.6:8080/?type=ws&encryption=none&flow=&host=lithusha.riyon.cfd&path=%2Flithusha#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20834499
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@188.114.97.222:8080?encryption=none&security=none&sni=188.114.97.222&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiTzZZQ2dpUW1WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20901397
-vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNzExMDI5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20711029
-vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNjIyNDc4IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBvbmVjbGlja3ZwbmtleXM6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFgifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20622478
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chatgpt.com&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20266132
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20725889
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20267562
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20590845
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20482173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20402655
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.147.209:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20326034
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@51.254.143.72:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20657848
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20714819
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@54.37.229.126:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20776818
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@54.37.229.126:8080?security=reality&type=tcp&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20820309
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20889709
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20735029
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20787036
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20963927
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20586266
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20926219
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20708081
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20380581
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20515999
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20457519
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20595725
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20165133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20760959
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20815431
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20557295
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20254689
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20925380
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20310469
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20750486
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20502788
-vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080/?type=grpc&encryption=none&flow=&serviceName=max.ru#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20561344
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20528075
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20110377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20269506
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20341456
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20870528
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20444479
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@83.228.225.9:8080?path=%2Fvip&security=&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20237935
-vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@51.195.233.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20651853
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20346507
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgU2hhdGFrVlBOIDk5MjM1NSIsICJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJwb3J0IjogODA4MCwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgIm5hbWUiOiAi8J+Hq/Cfh7dGUl8xfDEuM01CL3MifQ==#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20992355
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgU2hhdGFrVlBOIDczNjc2NiIsICJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJwb3J0IjogODA4MCwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCAicGF0aCI6ICIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+PtOKAjVNoaW5lIn0=#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20736766
-vmess://eyJhZGQiOiAiOC4yMTguMTk5LjExMSIsICJwb3J0IjogODA4MCwgImlkIjogImY1NWRiNDJkLWVlNTItNGE0Ny04ODBiLTZmN2IxMjNhYjIyMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidiI6ICIyIiwgInBzIjogIvCfh63wn4ewIFNoYXRha1ZQTiA3NTQzMzIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0eXBlIjogIm5vbmUiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIiwgIm5hbWUiOiAi6aaZ5rivXzEyMTgwMDcifQ==#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20754332
-vmess://eyJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtMTQ2MTk4MDg2LmlyYW5wcmVzcy5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4eu8J+HtyBTaGF0YWtWUE4gOTYzMTIzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICJIUDcxIn0=#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20963123
+vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?encryption=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20953708
+vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@198.41.222.50:8080?encryption=none&security=none&sni=198.41.222.50&fp=chrome&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiRzBvTDBuZEFVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20552594
+vless://98f7f641-b3b1-42d5-81ec-3e14047f7c04@170.114.45.6:8080/?type=ws&encryption=none&flow=&host=lithusha.riyon.cfd&path=%2Flithusha#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20117873
+vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20365034
+vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@188.114.97.222:8080?encryption=none&security=none&sni=188.114.97.222&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiTzZZQ2dpUW1WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20188147
+vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNTM0MTU3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20534157
+vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNjk1NTMwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBvbmVjbGlja3ZwbmtleXM6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYIn0=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20695530
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20279120
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20329380
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20296005
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20785385
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20831661
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20836381
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20393504
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20439424
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20550748
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277936
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20868457
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chatgpt.com&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20577734
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20477665
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20189454
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.235.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20762991
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@51.254.143.72:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20337896
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20843268
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20937515
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20484589
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20331749
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20636366
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20996094
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20273468
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20492907
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20785273
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@54.37.229.126:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20118011
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@54.37.229.126:8080?security=reality&type=tcp&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20507461
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20953918
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20428277
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@151.80.147.209:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20622900
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20988468
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20259802
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20652867
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20775628
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20971373
+vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080/?type=grpc&encryption=none&flow=&serviceName=max.ru#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20247492
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20999002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20482560
+vless://ac26aac6-9833-46e3-9629-ec2a87db2355@83.228.225.9:8080?path=%2Fvip&security=&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20920917
+vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@51.195.233.107:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20583679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20220953
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgU2hhdGFrVlBOIDk5ODA0NCIsICJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJwb3J0IjogODA4MCwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgIm5hbWUiOiAi8J+Hq/Cfh7dGUl8xfDEuM01CL3MifQ==#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20998044
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgU2hhdGFrVlBOIDEzNjA2NCIsICJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJwb3J0IjogODA4MCwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28iLCAicGF0aCI6ICIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+PtOKAjVNoaW5lIn0=#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20136064
+vmess://eyJhZGQiOiAiOC4yMTguMTk5LjExMSIsICJwb3J0IjogODA4MCwgImlkIjogImY1NWRiNDJkLWVlNTItNGE0Ny04ODBiLTZmN2IxMjNhYjIyMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidiI6ICIyIiwgInBzIjogIvCfh63wn4ewIFNoYXRha1ZQTiA0NTk2NjciLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0eXBlIjogIm5vbmUiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIiwgIm5hbWUiOiAi6aaZ5rivXzEyMTgwMDcifQ==#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20459667
+vmess://eyJhZGQiOiAiMTk0LjUwLjIxNi42MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtMTQ2MTk4MDg2LmlyYW5wcmVzcy5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4eu8J+HtyBTaGF0YWtWUE4gNTUzMDUxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICJIUDcxIn0=#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20553051
