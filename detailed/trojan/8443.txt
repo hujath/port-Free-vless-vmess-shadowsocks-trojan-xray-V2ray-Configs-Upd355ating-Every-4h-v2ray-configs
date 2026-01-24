@@ -1,4 +1,3 @@
-trojan://trojan@162.159.152.4:8443?path=/?ed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#✅سرورها بیشتردرکانال:prrofile_purple@✅
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F%3Fed%3D2560&Host=store.timimi.dpdns.org#%F0%9F%8F%81RELAY-45.192.222.112-0907
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.76.54-1293
@@ -20,6 +19,5 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2837
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.74.65-2883
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8550
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@162.159.152.4:8443?path=/?ed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20933170
-trojan://trojan@172.67.75.172:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20160708
+trojan://trojan@162.159.152.4:8443?path=/?ed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20493116
+trojan://trojan@172.67.75.172:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20823964

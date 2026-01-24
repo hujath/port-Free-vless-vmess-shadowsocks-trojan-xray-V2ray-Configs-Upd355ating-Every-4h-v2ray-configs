@@ -1,5 +1,4 @@
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇩🇪@JKVPN
-trojan://qHmYAcJH01McOqgsMUuQjg@62.133.63.21:2083?security=tls&amp%3Btype=ws&amp%3Bsni=h110vpnturkey.outlinekeys.net&amp%3Bfp=%3Ca#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20TROJAN%20%7C%20%40config_proxy%20%231
 trojan://Go5e2nKM8P@188.42.88.252:2083?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE%F0%9F%8C%8F+%40v2ray_ar+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 trojan://Go5e2nKM8P@45.95.241.101:2083?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%3E%3E%40v2rayNG_Matsuri%3A%3ATR
@@ -9,6 +8,6 @@ trojan://2c6bd338-237b-42f2-bf90-9fc3be812e82@bestcdn4.868863.xyz:2083?security=
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8295
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8297
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
-trojan://nodes-b211f28a@node-fr-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-fr-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20543447
-trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20538138
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20659774
+trojan://nodes-b211f28a@185.181.208.21:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20304695
