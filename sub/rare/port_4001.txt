@@ -1,2 +1,1 @@
-vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@62.84.100.190:4001?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&sni=wikipedia.org&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20709808
-vless://22fa731e-8707-4507-8641-8c1ff424fa45@13.39.104.36:4001?type=tcp&encryption=none&sni=wikipedia.org&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20880078
+vless://22fa731e-8707-4507-8641-8c1ff424fa45@13.39.104.36:4001?type=tcp&encryption=none&sni=wikipedia.org&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20600388

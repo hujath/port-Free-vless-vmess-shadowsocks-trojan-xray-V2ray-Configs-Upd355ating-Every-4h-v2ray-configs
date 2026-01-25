@@ -4,8 +4,8 @@ vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&e
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@212.113.109.101:2584?&type=tcp&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20687468
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20738264
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@212.113.109.101:2584?type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20512370
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20947047
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20667930
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20505791
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20416362
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?encryption=none&type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20496465
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20483644
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20692934
