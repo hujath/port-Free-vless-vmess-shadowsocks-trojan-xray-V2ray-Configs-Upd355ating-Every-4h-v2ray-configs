@@ -1,4 +1,4 @@
 vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@sv20.farsdataco.top:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3AES
-vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20176671
-vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20404302
-vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20914710
+vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20907051
+vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20322660
+vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@83.97.79.180:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20ShatakVPN%20385383
