@@ -1,1 +1,2 @@
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?security=none&amp%3Btype=tcp&amp%3BheaderType=http&amp%3Bpath=/&amp%3Bhost=chess.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
+vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@85.17.162.13:3000?security=none&encryption=none&host=chess.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20460861
