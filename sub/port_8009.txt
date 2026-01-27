@@ -32,6 +32,7 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.191:8009#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.67:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-6902
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6936
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8009#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-6952
-vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=firefox&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=firefox&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20112618
+vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009?type=tcp&encryption=none&flow=&sni=refersion.com&fp=firefox&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=firefox&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20167448
