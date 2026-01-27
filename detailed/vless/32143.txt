@@ -2,4 +2,4 @@ vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=/&security
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40ultrasurf_12%3A%3ADE
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20116240
+vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20526445
