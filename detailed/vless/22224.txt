@@ -2,4 +2,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.51.93:22224?path=/telegram-cha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.51.93:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#⚡Telegram = @SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.51.93:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[85841] - Telegram : @V2All
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.51.93:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20972809
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20256213

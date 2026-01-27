@@ -4,5 +4,5 @@ vless://ebb9e285-6d76-4d34-8b26-ffacdd65ce6b@37.221.92.194:2082?security=reality
 vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082/?type=ws&encryption=none&flow=&host=sr1.cloud-files-uploader.com&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://16b5906d-a20b-4929-9e60-44a9c4eef0f7@104.16.53.11:2082?encryption=none&type=httpupgrade&host=cAnAdA.nOdE-gAmE.iR&path=%2Fspeedtest.net%2FnOdE-gAmE.iR%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?encryption=none&type=httpupgrade&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082/?type=ws&encryption=none&flow=&host=sr1.cloud-files-uploader.com&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20246148
-vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082?type=ws&encryption=none&host=sr1.cloud-files-uploader.com&path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20198588
+vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082/?type=ws&encryption=none&flow=&host=sr1.cloud-files-uploader.com&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20179617
+vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082?type=ws&encryption=none&host=sr1.cloud-files-uploader.com&path=/#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20754690
