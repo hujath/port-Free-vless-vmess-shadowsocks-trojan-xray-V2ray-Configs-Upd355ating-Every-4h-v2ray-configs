@@ -1,1 +1,0 @@
-ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@172.64.152.23:2053?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ds2-mx-hel22-protection.iranlease.com&fp=chrome&type=ws&allowInsecure=1&sni=ds2-mx-hel22-protection.iranlease.com#%40Dextoken_10x
