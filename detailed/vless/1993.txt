@@ -1,2 +1,2 @@
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@77.237.90.158:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20293879
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@77.237.90.158:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20660692
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@77.237.90.158:1993?encryption=none&security=none&type=tcp&headerType=http&host=cafebazar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20343590
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@77.237.90.158:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20159398

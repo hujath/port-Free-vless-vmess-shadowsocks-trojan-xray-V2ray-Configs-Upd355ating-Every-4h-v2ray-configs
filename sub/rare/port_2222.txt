@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.223:2222#@meli_proxyy
-vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?type=tcp&encryption=none&security=tls&sni=tcp1.speedx3net.ir&alpn=h2,http/1.1&allowInsecure=1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20495925
+vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?type=tcp&encryption=none&security=tls&sni=tcp1.speedx3net.ir&alpn=h2,http/1.1&allowInsecure=1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20663484

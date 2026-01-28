@@ -3,5 +3,5 @@ vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&securi
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20498194
-vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=/&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20512289
+vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20841534
+vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=/&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20871154

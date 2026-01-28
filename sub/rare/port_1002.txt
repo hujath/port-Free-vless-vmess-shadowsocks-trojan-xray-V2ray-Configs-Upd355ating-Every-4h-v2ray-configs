@@ -1,1 +1,1 @@
-vless://d476250d-e8a8-4b9c-af1e-a4da2c6f0bd2@16.170.196.132:1002?security=reality&encryption=none&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=14cf6857b8741cbf#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20444097
+vless://d476250d-e8a8-4b9c-af1e-a4da2c6f0bd2@13.51.181.183:1002?security=reality&encryption=none&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=14cf6857b8741cbf#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20639498
