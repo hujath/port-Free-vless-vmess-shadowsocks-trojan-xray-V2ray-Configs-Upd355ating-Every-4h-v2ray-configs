@@ -1,1 +1,2 @@
-vless://b6effac4-2883-47ff-8325-93d0a3d75c22@38.143.58.75:42537?encryption=none&security=none&type=tcp&headerType=http&host=excoino.com#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20232791
+vless://962575c4-26de-4bd5-bac2-59b863dcdca3@usa.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#@v2rays_ha 4852
+vless://b6effac4-2883-47ff-8325-93d0a3d75c22@38.143.58.75:42537?encryption=none&security=none&type=tcp&headerType=http&host=excoino.com#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20575134
