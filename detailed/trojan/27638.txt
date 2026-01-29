@@ -1,5 +1,5 @@
 trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#%3E%3E%40v2nodes%3A%3AVN
 trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?security=tls&sni=vn.yiciyuanquicken.online#%F0%9F%87%BB%F0%9F%87%B3VN-192.229.96.16-0400
-trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20130702
-trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20344159
-trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?security=tls&sni=vn.yiciyuanquicken.online&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20550910
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20528777
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20482850
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?security=tls&sni=vn.yiciyuanquicken.online&path=/#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20244139
