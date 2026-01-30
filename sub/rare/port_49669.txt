@@ -1,4 +1,1 @@
-vless://67424c60-beb8-4f25-9abb-18348baaf11a@irg.technops.online:49669?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Config 3 - @lebertad
-vless://67424c60-beb8-4f25-9abb-18348baaf11a@irg.technops.online:49669?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#⚡Telegram = @SOSkeyNET
-vless://67424c60-beb8-4f25-9abb-18348baaf11a@irg.technops.online:49669?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Config 1 - @lebertad
-vless://67424c60-beb8-4f25-9abb-18348baaf11a@94.184.17.178:49669?encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20108474
+vless://67424c60-beb8-4f25-9abb-18348baaf11a@94.184.17.178:49669?encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20467707
