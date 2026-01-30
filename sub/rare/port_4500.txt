@@ -1,2 +1,2 @@
-vless://2b7a1667-345e-4fdf-b1a7-4957435be682@94.182.152.252:4500?security=none&type=tcp&headerType=http&path=/&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20528301
-vless://2b7a1667-345e-4fdf-b1a7-4957435be682@94.182.107.215:4500?security=none&type=tcp&headerType=http&path=/&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20394265
+vless://2b7a1667-345e-4fdf-b1a7-4957435be682@94.182.107.215:4500?security=none&type=tcp&headerType=http&path=/&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20392960
+vless://2b7a1667-345e-4fdf-b1a7-4957435be682@94.182.152.252:4500?security=none&type=tcp&headerType=http&path=/&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20126494
