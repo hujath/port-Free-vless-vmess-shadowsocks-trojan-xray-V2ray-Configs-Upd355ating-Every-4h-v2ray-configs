@@ -1,2 +1,1 @@
-vless://80d367e0-7050-4aae-af43-7c9f43e6a834@188.245.59.111:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20215856
-vless://80d367e0-7050-4aae-af43-7c9f43e6a834@188.245.59.111:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20538137
+vless://80d367e0-7050-4aae-af43-7c9f43e6a834@188.245.59.111:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20364964

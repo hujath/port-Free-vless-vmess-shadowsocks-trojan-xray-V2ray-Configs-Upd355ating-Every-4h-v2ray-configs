@@ -3,5 +3,7 @@ vless://0011e5d3-a865-41a6-83c0-50a6b65b0cf6@ip.hamrahto.com:2082?path=/api/stre
 vless://90a320c3-602c-445b-8d42-507f3054ac9a@ip4.hamrahto.com:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=hm3333.mutee.com.tr&path=/api/stream?ed=2080#@sogoandfuckyourlove🥒
 vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3.mutee.com.tr&type=ws#جوین شید قط نشید @shankamil
 vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3.mutee.com.tr&type=ws#⚡Telegram = @SOSkeyNET
-vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?encryption=none&type=httpupgrade&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20608314
+vless://16b5906d-a20b-4929-9e60-44a9c4eef0f7@104.16.53.11:2082?encryption=none&type=httpupgrade&host=cAnAdA.nOdE-gAmE.iR&path=%2Fspeedtest.net%2FnOdE-gAmE.iR%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?encryption=none&type=httpupgrade&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.219:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20654670
