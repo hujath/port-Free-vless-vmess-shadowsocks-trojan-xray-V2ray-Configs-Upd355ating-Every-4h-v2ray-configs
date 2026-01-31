@@ -1,3 +1,2 @@
-vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@fn.love-speed.sbs:2022?security=none&type=tcp&headerType=http&path=%2F&host=#%3E%3E%40vip_vpn_2022%3A%3AFI
-vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@78.157.47.108:2022?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763543
-vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@78.157.47.108:2022?security=none&type=tcp&headerType=http&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115317
+vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@78.157.47.108:2022?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20126007
+vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@78.157.47.108:2022?security=none&type=tcp&headerType=http&path=/#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20669909
