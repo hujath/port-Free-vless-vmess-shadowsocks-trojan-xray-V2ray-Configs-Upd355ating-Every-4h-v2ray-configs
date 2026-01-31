@@ -1,3 +1,3 @@
 vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@t2ec.venomspeeds.com:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&fp=&alpn=&sni=2ec.venomspeeds.com#%3E%3E%40configshub2%3A%3AXX
-vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@193.228.169.18:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&fp=&alpn=&sni=2ec.venomspeeds.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20351745
-vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@193.228.169.18:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&sni=2ec.venomspeeds.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20600953
+vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@193.228.169.17:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&fp=&alpn=&sni=2ec.venomspeeds.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20670447
+vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@193.228.169.17:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&sni=2ec.venomspeeds.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20951048
