@@ -1,1 +1,2 @@
 vless://8a7c781d-8f4f-42d4-8704-fb642cb9a4d2@ru.storenet.store:1159?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@OnNetVpn جوین شو
+vless://8a7c781d-8f4f-42d4-8704-fb642cb9a4d2@37.202.232.61:1159?encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20290118

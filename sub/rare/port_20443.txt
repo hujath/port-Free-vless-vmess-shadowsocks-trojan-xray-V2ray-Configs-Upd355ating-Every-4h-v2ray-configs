@@ -1,1 +1,2 @@
 vless://dca08a58-06c2-441e-b8ea-72eb898d1874@st2.pmme5.top:20443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#channel : @freedomofinfor
+vless://dca08a58-06c2-441e-b8ea-72eb898d1874@94.182.108.199:20443?encryption=none&security=none&type=tcp&headerType=http&host=uptvs.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747823

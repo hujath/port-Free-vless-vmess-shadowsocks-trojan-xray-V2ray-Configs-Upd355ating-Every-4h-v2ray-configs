@@ -1,0 +1,2 @@
+vless://bc4d55c1-38df-43e6-8df7-3733e84d9399@47.76.106.139:35789?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.apple.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#a_308
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119311
