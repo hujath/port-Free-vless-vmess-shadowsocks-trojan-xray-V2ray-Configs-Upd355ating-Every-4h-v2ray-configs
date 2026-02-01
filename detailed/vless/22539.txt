@@ -1,1 +1,0 @@
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@188.166.177.22:22539?type=tcp&encryption=none&security=tls&sni=node1.nanonet.host&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20271355
