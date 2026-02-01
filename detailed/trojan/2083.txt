@@ -3,5 +3,5 @@ trojan://Go5e2nKM8P@45.95.241.101:2083?path=%2F&security=tls&host=aa.v2jey.fun&t
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ATR
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8141
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-8143
-trojan://nodes-b211f28a@185.181.208.21:2083/?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20341490
-trojan://nodes-b211f28a@185.181.208.21:2083?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20699246
+trojan://nodes-b211f28a@185.181.208.21:2083/?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20976302
+trojan://nodes-b211f28a@185.181.208.21:2083?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20586299
