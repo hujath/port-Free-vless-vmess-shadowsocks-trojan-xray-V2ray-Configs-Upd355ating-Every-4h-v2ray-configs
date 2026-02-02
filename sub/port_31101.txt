@@ -4,3 +4,4 @@ trojan://9f65ca35-4cc1-4e1d-9660-955e916d9c83@green2.cdntencentmusic.com:31101?s
 trojan://14f7a5c0-e8ae-40a7-884c-41555730e3b6@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&path=/#⚡Telegram = @SOSkeyNET
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
 trojan://9f65ca35-4cc1-4e1d-9660-955e916d9c83@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0892
+trojan://14f7a5c0-e8ae-40a7-884c-41555730e3b6@220.130.58.136:31101?sni=green2.cdntencentmusic.com&path=/#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20552966

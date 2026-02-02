@@ -1,2 +1,2 @@
 vless://825fc382-f41b-48d9-a934-a62ff5eac03e@178.239.146.88:5050?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://2473e31a-adbc-47e5-b58a-c294d0450812@45.11.184.233:5050?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830124
+vless://2473e31a-adbc-47e5-b58a-c294d0450812@45.11.184.233:5050?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20122691
