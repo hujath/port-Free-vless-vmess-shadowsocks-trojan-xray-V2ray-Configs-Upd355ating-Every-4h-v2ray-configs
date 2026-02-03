@@ -1,4 +1,4 @@
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%40proxy_online_net
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#@V2ray_confing33
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#🇸🇪 @config_v2rayy 12769626
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@90.226.75.129:50?encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20432676
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@90.230.214.110:50?encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20516311
