@@ -1,2 +1,1 @@
-vless://4e5c6735-d657-4f9c-931d-52504f31aae8@94.182.83.89:8085?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20866222
-vless://9936e4bd-036e-4e3d-a975-9cb37d07b611@213.21.229.144:8085?security=reality&encryption=none&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=9b1a0779152db496#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20653466
+vless://9936e4bd-036e-4e3d-a975-9cb37d07b611@213.21.229.144:8085?security=reality&encryption=none&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=9b1a0779152db496#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20767342

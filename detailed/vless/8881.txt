@@ -1,2 +1,2 @@
 vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@dlc-nl2.persianpinggame.ir:8881?path=/&security=none&encryption=none&host=divar.ir&type=ws#VayNora
-vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:8881?encryption=none&type=ws&host=divarcdn.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:8881?allowInsecure=0&sni=divarcdn.com&type=ws&host=divarcdn.com&path=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
