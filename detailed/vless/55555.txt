@@ -9,3 +9,4 @@ vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇫🇷
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#@YamYamProxy 🇫🇷
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%3E%3E%40v2nodes%3A%3ATR
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20841838
