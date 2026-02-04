@@ -3,4 +3,4 @@ vless://8e4257a8-668c-40fc-9e53-612aec460652@de2.persianpinggame.ir:9091?securit
 vless://8e4257a8-668c-40fc-9e53-612aec460652@de2.persianpinggame.ir:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@meliproxyy
 vless://8e4257a8-668c-40fc-9e53-612aec460652@de2.persianpinggame.ir:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@vpnbaz 🎱
 vless://af78695a-b8b8-4f1f-a706-8b6493980378@sw.irwebsrv.com:9091?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#@meliproxyy
-vless://8e4257a8-668c-40fc-9e53-612aec460652@46.38.149.91:9091?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20512845
+vless://8e4257a8-668c-40fc-9e53-612aec460652@46.38.149.91:9091?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20589042

@@ -1,2 +1,2 @@
 vless://610e7f9e-3a91-4b2d-bfc3-472c3dbf3d79@FI.sattarlink.online:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#Config 5 - @lebertad
-vless://610e7f9e-3a91-4b2d-bfc3-472c3dbf3d79@46.62.154.78:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20309162
+vless://610e7f9e-3a91-4b2d-bfc3-472c3dbf3d79@46.62.154.223:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20231102
