@@ -1,1 +1,1 @@
-vless://aab679f9-f437-498a-836b-c8137264666a@89.167.21.44:40552?encryption=none&security=none&type=tcp&headerType=http&host=eset.com#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20703659
+vless://aab679f9-f437-498a-836b-c8137264666a@62.60.192.233:40552?encryption=none&security=none&type=tcp&headerType=http&host=eset.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20779129
