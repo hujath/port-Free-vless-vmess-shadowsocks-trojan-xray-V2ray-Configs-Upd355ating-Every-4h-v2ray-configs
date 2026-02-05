@@ -25,5 +25,5 @@ vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%3E%3E%40v2nodes%3A%3ATR
-vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622282
-vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&headerType=http&host=uptvs.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497092
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20986659
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&headerType=http&host=uptvs.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20470112

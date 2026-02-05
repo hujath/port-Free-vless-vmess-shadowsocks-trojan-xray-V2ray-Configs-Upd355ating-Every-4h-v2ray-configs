@@ -1,1 +1,3 @@
 vless://98c9d936-c44d-95f1-ed8c-d3958b8b58e8@de.crcodileserver.top:8001?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.stackoverflow.com&fp=chrome&pbk=f_MuuqW5q9MSjfdkfWKnPpNrUwdBBDOyEa5f5g7oVk0#Config 5 - @lebertad
+vless://4fbf4bcc-f75a-415b-a357-c913e4614ee4@5.160.198.120:8001?security=none&path=/#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20797169
+vless://4fbf4bcc-f75a-415b-a357-c913e4614ee4@5.160.198.120:8001?type=tcp&path=/#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20977523

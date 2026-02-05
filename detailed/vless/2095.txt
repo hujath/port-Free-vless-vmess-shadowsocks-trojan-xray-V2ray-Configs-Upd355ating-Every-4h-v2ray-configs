@@ -14,7 +14,6 @@ vless://d881f1e0-9d84-4f18-8844-c538892db8c0@meli.dataxshop.ir:2095?path=/datax_
 vless://telegram : @datax_proxy@london.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=server.dataxshop.ir&type=ws#telegram : @datax_proxy 👈 کانفیگ های بیشتر
 vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40mt_proxy%20%232
 vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=%2F&security=&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
-vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=%2F&security=&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20572678
-vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=/&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20475335
-vless://b2ce47d7-f8dc-4fcf-8d51-de4c235a7c40@5.78.48.77:2095?encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20397620
-vless://b37b857c-37dd-4770-ac17-616771dfaab4@78.110.123.55:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20328313
+vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=%2F&security=&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20589873
+vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=/&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20591343
+vless://b2ce47d7-f8dc-4fcf-8d51-de4c235a7c40@5.78.48.77:2095?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20310768
