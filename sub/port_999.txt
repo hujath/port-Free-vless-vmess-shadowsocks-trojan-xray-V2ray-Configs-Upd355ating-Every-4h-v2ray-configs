@@ -3,4 +3,4 @@ vless://39ef8cf8-58d3-40fe-8360-97bcb3bb7da5@188.121.119.74:999?security=none&en
 vless://39ef8cf8-58d3-40fe-8360-97bcb3bb7da5@188.121.119.74:999?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=Mci.ir&headerType=http&type=tcp#@icv2ray
 vless://7ca3883a-9fbb-4e86-9d74-426ef758b7f6@188.121.118.2:999?security=none&encryption=none&host=Mci.ir&headerType=http&type=tcp#Config 3 - @lebertad
 vless://7ca3883a-9fbb-4e86-9d74-426ef758b7f6@188.121.118.2:999?security=none&encryption=none&host=Mci.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://39ef8cf8-58d3-40fe-8360-97bcb3bb7da5@188.121.119.74:999?security=none&encryption=none&host=Mci.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403592
+vless://39ef8cf8-58d3-40fe-8360-97bcb3bb7da5@188.121.119.74:999?security=none&encryption=none&host=Mci.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20939836

@@ -1,3 +1,4 @@
+vless://0a89f56d-b027-413a-9a8f-0eb507e157c7@94.184.17.221:2082?encryption=none&security=none&type=ws&path=%2F#telegram%20%F0%9F%8E%AA%20dailyv2ry
 vless://b14ed008-2b1c-419e-8093-c41693d39ef8@freeiran.lookanet.app:2082?path=%2FV2RayyNGvpn%3Fed%3D512&security=none&encryption=none&host=B2w.EsPoRtPlusNEWs.ToP.&type=httpupgrade#%E3%80%8E%20%20%F0%9F%8C%9F%40airdrop2033%20%E3%80%8F%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D8%A8%D8%B4%DB%8C%D9%86
 vless://0011e5d3-a865-41a6-83c0-50a6b65b0cf6@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3.mutee.com.tr&type=ws#@V2RAY_VMESS_free
 vless://7255b3ba-7484-493f-adaa-0bd7ff6eb3ed@ip.hamrahto.com:2082?path=/api/stream&security=none&encryption=none&host=hm3.mutee.com.tr&type=ws#YsZ 1 @Outline_Vpn
@@ -9,5 +10,6 @@ vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://e9cf6728-cb1e-486e-a492-22d7c46be078@rus5.mutee.com.tr:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus5.mutee.com.tr&type=ws#Config 2 - @lebertad
 vless://e9cf6728-cb1e-486e-a492-22d7c46be078@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#Config 5 - @lebertad
-vless://b14ed008-2b1c-419e-8093-c41693d39ef8@172.64.148.235:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=B2w.EsPoRtPlusNEWs.ToP.&type=httpupgrade#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487534
-vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484128
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20643564
+vless://b14ed008-2b1c-419e-8093-c41693d39ef8@172.64.148.235:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=B2w.EsPoRtPlusNEWs.ToP.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20278090
