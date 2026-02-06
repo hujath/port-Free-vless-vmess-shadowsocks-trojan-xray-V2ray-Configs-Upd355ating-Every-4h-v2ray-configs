@@ -1,2 +1,1 @@
-vless://7e12ed8c-07cd-4f7b-806e-6562470dedf6@193.151.129.206:33503?path=%2F&security=&encryption=none&host=speedtest.net&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20617429
-vless://7e12ed8c-07cd-4f7b-806e-6562470dedf6@193.151.129.206:33503?path=/&encryption=none&host=speedtest.net&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20471688
+vless://7e12ed8c-07cd-4f7b-806e-6562470dedf6@193.151.129.206:33503?path=/&encryption=none&host=speedtest.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562778

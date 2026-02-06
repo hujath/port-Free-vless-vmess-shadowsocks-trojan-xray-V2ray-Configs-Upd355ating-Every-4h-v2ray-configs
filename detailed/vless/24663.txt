@@ -2,6 +2,5 @@ vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=n
 vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=none&encryption=none&type=ws#ConfigV2RayNG
 vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=none&encryption=none&type=ws#🇳🇱@ConfigV2RayNG
 vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
-vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20981523
-vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?encryption=none&security=none&type=ws&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20328685
-vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20301649
+vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20983140
+vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=/&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246264
