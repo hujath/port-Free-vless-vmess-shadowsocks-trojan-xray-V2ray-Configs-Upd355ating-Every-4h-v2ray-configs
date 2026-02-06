@@ -1,2 +1,2 @@
 vless://cff99749-e0c0-42b3-a575-889e5f1afdf4@91.108.245.133:48449?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=owAZwe0NlA-zpog4zkan9GjuczD248C7KlLHzidOm2g&security=reality&sid=d82b2ab3e5&sni=google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cff99749-e0c0-42b3-a575-889e5f1afdf4@91.108.245.133:48449?flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=owAZwe0NlA-zpog4zkan9GjuczD248C7KlLHzidOm2g&sid=d82b2ab3e5&type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20571210
+vless://cff99749-e0c0-42b3-a575-889e5f1afdf4@91.108.245.133:48449?flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=owAZwe0NlA-zpog4zkan9GjuczD248C7KlLHzidOm2g&sid=d82b2ab3e5&type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20452087
