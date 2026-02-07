@@ -2,7 +2,7 @@ vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&en
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#⚡Telegram = @SOSkeyNET
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%3E%3E%40prrofile_purple%3A%3AXX
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20859083
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20585699
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20405939
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&amp;encryption=none&amp;headerType=none&amp;fp=random&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20820514
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20221212
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20407299

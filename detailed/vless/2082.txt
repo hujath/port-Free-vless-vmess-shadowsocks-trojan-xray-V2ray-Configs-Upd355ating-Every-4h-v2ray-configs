@@ -15,5 +15,6 @@ vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#@erfanandroid
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#💛@V2rayBaaz| تلگراممون 🤍
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
-vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.219:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20821164
-vless://b14ed008-2b1c-419e-8093-c41693d39ef8@172.64.148.235:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=B2w.EsPoRtPlusNEWs.ToP.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20337047
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.219:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20277999
+vless://b14ed008-2b1c-419e-8093-c41693d39ef8@172.64.148.235:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=B2w.EsPoRtPlusNEWs.ToP.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20317703
