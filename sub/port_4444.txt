@@ -12,6 +12,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.34:4444#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6593
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.18:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-6795
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20932637
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20661703
-vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20465775
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20143614
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20276610
+vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20332723
