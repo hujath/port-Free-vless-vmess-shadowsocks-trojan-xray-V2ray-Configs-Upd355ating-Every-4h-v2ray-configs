@@ -1,3 +1,3 @@
 vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?security=none&encryption=none&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none&amp;path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20171822
+vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20704290
