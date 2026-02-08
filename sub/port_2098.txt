@@ -3,5 +3,5 @@ vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rably-m.izumii.ir:2098?security=non
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rably-m.izumii.ir:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Config 1 - @lebertad
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rably-m.izumii.ir:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#جوین شید قط نشید @shankamil
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rably-m.izumii.ir:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@46.225.12.88:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20282034
-ss://eGsdOte2G3NHfTU=@46.225.12.88:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20834453
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@46.225.12.88:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20948566
+ss://eGsdOte2G3NHfTU=@46.225.12.88:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20586281
