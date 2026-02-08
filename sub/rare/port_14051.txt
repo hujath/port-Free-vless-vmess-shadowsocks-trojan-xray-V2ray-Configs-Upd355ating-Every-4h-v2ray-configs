@@ -1,2 +1,2 @@
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@V2rayNG3
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20587463
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20121865

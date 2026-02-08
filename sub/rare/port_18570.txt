@@ -1,3 +1,2 @@
-vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#⚡Telegram = @SOSkeyNET
-vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇺[openproxylist.com]
+vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
