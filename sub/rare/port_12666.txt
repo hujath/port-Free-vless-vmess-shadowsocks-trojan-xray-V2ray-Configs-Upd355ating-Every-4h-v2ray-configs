@@ -1,2 +1,2 @@
 vless://5470fc8f-ec3a-4e43-88df-ecc3a1a898f4@nova2.abzarsanat.sbs:12666?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@filembad
-vless://5470fc8f-ec3a-4e43-88df-ecc3a1a898f4@195.88.208.13:12666?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20934629
+vless://5470fc8f-ec3a-4e43-88df-ecc3a1a898f4@195.88.208.13:12666?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20482637
