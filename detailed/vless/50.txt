@@ -1,4 +1,4 @@
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@213.66.64.63:50/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20156141
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@213.66.64.63:50?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20948694
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@217.209.119.108:50/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20525505
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@217.209.119.108:50?type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20587245
