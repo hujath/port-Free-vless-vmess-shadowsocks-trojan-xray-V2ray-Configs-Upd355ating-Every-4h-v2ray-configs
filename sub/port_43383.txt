@@ -1,8 +1,7 @@
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#%E2%9E%A4%20%40netshekan99
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@meliproxyy
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20494580
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20939674
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20727330
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530845
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20482674
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783867
