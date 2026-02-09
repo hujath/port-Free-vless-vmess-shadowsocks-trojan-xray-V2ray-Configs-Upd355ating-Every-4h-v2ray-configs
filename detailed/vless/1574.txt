@@ -13,8 +13,9 @@ vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?security=none&all
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ADE
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?security=none&allowInsecure=0&encryption=none&type=ws&path=/#@``i``rmeliy`
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?security=none&allowInsecure=0&encryption=none&type=ws&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20938941
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20885609
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20476229
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20544705
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20926563
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20885867
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20168534
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20312071

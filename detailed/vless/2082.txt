@@ -8,9 +8,6 @@ vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?path=/ma
 vless://bdeda31d-5960-4cc1-afbd-9794119d86e4@s3-d2.hmvpa.ir:2082?path=/api/stream?ed=2080&security=&encryption=none&host=s3-d2.hmvpa.ir&type=ws#VayNora
 vless://c49a32db-1707-4db4-900e-c8f1d9e48ad2@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security=none&encryption=none&type=ws#🇮🇷 IR 29 @Outline_Vpn
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?&type=ws&headerType=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?encryption=none&type=ws&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://9b87b815-01e2-4c7c-b1f0-f2ffb025aa88@91.107.152.37:2082?security=none&type=ws&path=/api/stream?ed=2080&host=s3-d2.hmvpa.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20322722
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@104.24.197.20:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20662909
-vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20698058
+vless://48ce9313-4913-4100-eedf-bccf3f956dec@172.67.66.177:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20252975
+vless://9b87b815-01e2-4c7c-b1f0-f2ffb025aa88@91.107.152.37:2082?security=none&type=ws&path=/api/stream?ed=2080&host=s3-d2.hmvpa.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20725150
+vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.219:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20957505

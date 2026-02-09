@@ -1,2 +1,2 @@
-vless://b70cac5d-2f2b-4075-b2bc-2deebfc1e484@78.157.47.50:8016?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online,gharar.ir,igap.net#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20451897
-vless://b70cac5d-2f2b-4075-b2bc-2deebfc1e484@78.157.37.219:8016?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online,gharar.ir,igap.net#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20805377
+vless://b70cac5d-2f2b-4075-b2bc-2deebfc1e484@78.157.37.219:8016?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online,gharar.ir,igap.net#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20787023
+vless://b70cac5d-2f2b-4075-b2bc-2deebfc1e484@78.157.47.50:8016?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online,gharar.ir,igap.net#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20383655
