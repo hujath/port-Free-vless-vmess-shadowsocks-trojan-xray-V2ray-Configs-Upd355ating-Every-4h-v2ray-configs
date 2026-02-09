@@ -7,6 +7,8 @@ vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?path=/ma
 vless://bdeda31d-5960-4cc1-afbd-9794119d86e4@s3-d2.hmvpa.ir:2082?path=/api/stream?ed=2080&security=&encryption=none&host=s3-d2.hmvpa.ir&type=ws#VayNora
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@www.visaeurope.at:2082?encryption=none&security=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=/?ed=2560#[97588] - Telegram : @V2All
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security=none&encryption=none&type=ws#🇮🇷 IR 29 @Outline_Vpn
-vless://9b87b815-01e2-4c7c-b1f0-f2ffb025aa88@91.107.152.37:2082?security=none&type=ws&path=/api/stream?ed=2080&host=s3-d2.hmvpa.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20734731
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@172.67.66.177:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20666072
-vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20708416
+vless://60baf5e8-459f-4e30-9cb8-cda11a6d1e67@188.114.98.0:2082?encryption=none&type=httpupgrade&host=begaman.esportplusnews.top.&path=%2FV2RayyNGvpn%3Fed%3D512&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://48ce9313-4913-4100-eedf-bccf3f956dec@172.67.66.177:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20659224
+vless://9b87b815-01e2-4c7c-b1f0-f2ffb025aa88@91.107.152.37:2082?security=none&type=ws&path=/api/stream?ed=2080&host=s3-d2.hmvpa.ir#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20543351
+vless://ab8a745c-e989-4f7f-994a-868eb328e4ea@81.12.57.218:2082?path=/&security=none&encryption=none&host=sr1.cloud-files-uploader.com&fp=firefox&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20328490
