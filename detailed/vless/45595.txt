@@ -11,6 +11,5 @@ vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&en
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚡︎ 𓏺  منبع کانفیگ رایگان @NabiProxy
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚡︎ 𓏺 منبع کانفیگ ملی @NabiProxy
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%3E%3E%40v2rayng_fast%3A%3ADE
-vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20376230
-vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20939720
-vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966534
+vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20468066
+vless://195ec880-d140-4265-aec7-47d0429407ed@3.121.162.205:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476149

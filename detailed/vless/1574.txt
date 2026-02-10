@@ -10,7 +10,7 @@ vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=n
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#IR-@V2rayAlpha-54
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
 vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AXX
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20416533
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20712008
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20111789
-vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20824406
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795599
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590610
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218257
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=/&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20398159
