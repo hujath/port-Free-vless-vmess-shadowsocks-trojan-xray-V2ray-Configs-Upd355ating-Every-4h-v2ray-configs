@@ -1,9 +1,7 @@
-trojan://4755e7eb-1d68-4808-ab81-18de1e602290@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3%2090.1KB%2Fs
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
 trojan://826d33e2-ca5a-402a-ba5f-3aca73fe872e@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1755
 trojan://7612839c-f62f-42cc-9051-8413b5a8cbcf@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1775
-trojan://4755e7eb-1d68-4808-ab81-18de1e602290@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=/#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://155bc127-485a-44b2-8e38-3fbf711a6e25@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175049
-trojan://33f64b81-358b-467f-bc9f-8780090c88de@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354832
-trojan://4755e7eb-1d68-4808-ab81-18de1e602290@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729461
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135779
+trojan://155bc127-485a-44b2-8e38-3fbf711a6e25@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119236
+trojan://33f64b81-358b-467f-bc9f-8780090c88de@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20233833
+trojan://4755e7eb-1d68-4808-ab81-18de1e602290@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600509
+trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@220.130.58.136:31103?sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251104

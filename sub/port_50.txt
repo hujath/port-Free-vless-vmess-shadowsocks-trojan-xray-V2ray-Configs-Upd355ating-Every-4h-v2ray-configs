@@ -1,5 +1,7 @@
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@sogoandfuckyourlove
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.225.192.55:50/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962429
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.225.192.55:50?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542646
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.229.3.143:50/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20313779
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.229.3.143:50?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555589
