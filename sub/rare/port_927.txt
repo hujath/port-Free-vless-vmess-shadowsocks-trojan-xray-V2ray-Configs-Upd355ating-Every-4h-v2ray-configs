@@ -1,4 +1,4 @@
 vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?path=%2FPoshtiban&security=none&encryption=none&type=ws#%40v2Meli
 vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927/?type=tcp&encryption=none&security=none#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦:+『@config_v2rayy』
 vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927?security=none&encryption=none&headerType=none&type=tcp#@Golestan_VPN - All net
-vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100380
+vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20896761

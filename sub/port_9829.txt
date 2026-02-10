@@ -15,5 +15,5 @@ vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?encryption=none
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@ConfigV2RayNG
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@ConfigV2RayNG 👈🏻👈🏻سرورجدید داخل چنل
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@meliproxyy
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341168
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305825
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20814746
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20988405
