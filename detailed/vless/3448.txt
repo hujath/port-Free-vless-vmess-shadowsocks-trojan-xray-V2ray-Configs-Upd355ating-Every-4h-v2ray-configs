@@ -1,4 +1,3 @@
 vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@vinbil.com:3448?security=none&encryption=none&headerType=http&type=tcp#🇮🇷ConfigV2RayNG
-vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@vinbil.com:3448?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@94.101.186.199:3448?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895495
-vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@94.101.186.199:3448?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20604542
+vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@94.101.186.199:3448?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577709
+vless://346b15e8-9c47-4daf-b05f-2287e03e42bf@94.101.186.199:3448?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20410374

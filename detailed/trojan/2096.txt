@@ -1,1 +1,4 @@
-trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100844
+trojan://077da111-33ac-4453-a37d-69e7ccc647a0@bestcdn0.868863.xyz:2096?security=tls&sni=17706091715507.682637.xyz#%F0%9F%8F%81RELAY-104.18.38.47-1738
+trojan://077da111-33ac-4453-a37d-69e7ccc647a0@bestcdn1.868863.xyz:2096?security=tls&sni=17706091711317.206353.xyz#%F0%9F%8F%81RELAY-141.101.121.75-1742
+trojan://077da111-33ac-4453-a37d-69e7ccc647a0@bestcdn4.868863.xyz:2096?security=tls&sni=17706091716780.206352.xyz#%F0%9F%8F%81RELAY-104.26.4.60-1748
+trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20678256
