@@ -8,5 +8,5 @@ vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&en
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz🚀
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#جوین چنل شید قط نشید@shankamil
-vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668651
-vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771841
+vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218479
+vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677008

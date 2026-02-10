@@ -2,5 +2,5 @@ vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9
 vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#کانال تلگرام : v2ray_configs_pools@
 vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#shankamil
 vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%3E%3E%40v2nodes%3A%3AFI
-vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@193.151.132.193:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375623
-vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@193.151.132.193:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20352444
+vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@193.151.132.193:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787211
+vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@193.151.132.193:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20824869
