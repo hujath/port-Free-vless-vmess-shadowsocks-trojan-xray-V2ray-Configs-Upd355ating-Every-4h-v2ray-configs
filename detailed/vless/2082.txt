@@ -12,5 +12,4 @@ vless://95ffbc6a-0fe1-4dc1-b62a-a3bb91767d8f@s3-d2.hmvpa.ir:2082?path=/api/strea
 vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?path=/mahdi_383ir&security=none&encryption=none&host=kh2w7vurh3iplepp5zkyjtwclmwuvvp0iwgpvwy.mahdi383ir.website&type=httpupgrade#Channel : @Mrsoulb 🏴🏳
 vless://bdeda31d-5960-4cc1-afbd-9794119d86e4@s3-d2.hmvpa.ir:2082?path=/api/stream?ed=2080&security=&encryption=none&host=s3-d2.hmvpa.ir&type=ws#VayNora
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&security=none&encryption=none&type=ws#🇮🇷 IR 29 @Outline_Vpn
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@172.67.66.177:2082/?type=ws&encryption=none&flow=&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305956
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@104.24.196.20:2082?type=ws&encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260275
+vless://48ce9313-4913-4100-eedf-bccf3f956dec@172.67.66.177:2082?type=ws&encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=/mahdi_383ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623513
