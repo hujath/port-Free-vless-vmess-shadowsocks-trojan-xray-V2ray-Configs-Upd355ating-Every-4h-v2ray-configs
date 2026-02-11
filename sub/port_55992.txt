@@ -4,5 +4,5 @@ vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?encryption=none
 vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#Telegram : @@V2rayng_Fast 🔥
 vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#🟢ConfigV2RayNG
 vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ADE
-vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20172910
-vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20835133
+vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803618
+vless://96ca0ac0-163a-4066-9128-8770e1a810da@62.60.159.133:55992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540285

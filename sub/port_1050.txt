@@ -8,6 +8,6 @@ vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?security=none&enc
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050/?type=tcp&encryption=none&flow=#🦚12@oneclickvpnkeys
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?security=none&encryption=none&headerType=none&type=tcp#Config 5 - @lebertad
 vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652937
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990315
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@85.133.238.182:1050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581864
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864710
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361184
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@85.133.238.182:1050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20710716

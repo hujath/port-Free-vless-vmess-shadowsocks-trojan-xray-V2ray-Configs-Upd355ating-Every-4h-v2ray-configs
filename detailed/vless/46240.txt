@@ -9,4 +9,4 @@ vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?security=none&
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#[99829] - Telegram : @V2All
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#horn_proxy 10
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?type=tcp&encryption=none&path=/&host=divar.ir&headerType=http&security=none#🇳🇱[openproxylist.com] vless-NL
-vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?encryption=none&host=divar.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276415
+vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?encryption=none&host=divar.ir&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20653318

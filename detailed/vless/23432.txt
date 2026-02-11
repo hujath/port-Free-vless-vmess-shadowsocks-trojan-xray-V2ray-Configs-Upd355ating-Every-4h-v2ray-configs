@@ -11,4 +11,4 @@ vless://c84678ae-7469-4dc0-ab98-581e2c496906@wardennt.mhrnet.com:23432?security=
 vless://e0e835c9-73b9-41f2-b3da-2f7b5458ec7d@wardennt.mhrnet.com:23432?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#⚡Telegram = @SOSkeyNET
 vless://e40592f0-c46f-4079-a416-6cd6f2cb73a6@wardennt.mhrnet.com:23432?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#⚡Telegram = @SOSkeyNET
 vless://f40b2e87-17d6-4ac5-aa23-a84f36f9425b@wardennt.mhrnet.com:23432?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#⚡Telegram = @SOSkeyNET
-vless://81ed2478-b99f-4e1e-b05a-2e9e5fa3d6bc@94.182.107.142:23432?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561169
+vless://81ed2478-b99f-4e1e-b05a-2e9e5fa3d6bc@94.182.107.142:23432?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20823909
