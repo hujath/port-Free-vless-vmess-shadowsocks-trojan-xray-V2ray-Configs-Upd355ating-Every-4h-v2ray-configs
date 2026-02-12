@@ -12,4 +12,4 @@ vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encr
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encryption=none&headerType=none&type=tcp#جوین چنل شید قط نشید@shankamil
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encryption=none&headerType=none&type=tcp#قطع+شد+بیا+چنل+جدید+میزارمhttps://t.me/v2ray_configs_pools
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encryption=none&headerType=none&type=tcp#🐦‍🔥-@SPEEDS_VPN
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874815
+vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866022
