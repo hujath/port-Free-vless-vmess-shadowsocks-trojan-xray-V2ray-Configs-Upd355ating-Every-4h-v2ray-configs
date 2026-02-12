@@ -1,3 +1,2 @@
 vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.124.1.109:19285?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.124.1.109:19285?security=none&encryption=none&headerType=none&type=tcp#@AccoTUN
-vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@18.196.16.52:19285?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217357
