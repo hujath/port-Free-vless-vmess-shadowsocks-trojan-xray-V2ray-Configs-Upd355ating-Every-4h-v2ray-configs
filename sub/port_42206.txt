@@ -9,7 +9,7 @@ vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&e
 vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20378373
-vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20571029
-vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet?ed=2560&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674644
-vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960578
+vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234053
+vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20867483
+vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet?ed=2560&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412239
+vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555100
