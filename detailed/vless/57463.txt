@@ -5,8 +5,8 @@ vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?security=none&en
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?security=none&encryption=none&headerType=none&type=tcp#🇳🇱@KIA_NET
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#@chillguy_vpn
-vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515251
+vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20368061
