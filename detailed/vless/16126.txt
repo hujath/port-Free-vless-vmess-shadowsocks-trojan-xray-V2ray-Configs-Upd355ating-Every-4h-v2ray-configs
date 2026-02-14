@@ -4,6 +4,5 @@ vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?security=none&e
 vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?security=none&encryption=none&headerType=none&type=tcp#عضویت  vpnbaz@
 vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?security=none&encryption=none&headerType=none&type=tcp#🌐 TCP-None | @Express_alaki | src @V2rayBaaz
 vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20185311
+vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323790
