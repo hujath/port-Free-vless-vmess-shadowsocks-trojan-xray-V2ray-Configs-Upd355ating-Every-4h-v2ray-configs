@@ -2,9 +2,8 @@ vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&enc
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?path=/#@V2raysCollector 🗡️
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?security=none&encryption=none&type=tcp&headerType=none&path=/#@V2raysCollector 💝
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20995149
-vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20133877
-vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856104
-vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?security=none&encryption=none&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864343
+vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560940
+vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141952
+vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20667603
+vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?security=none&encryption=none&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20162381
