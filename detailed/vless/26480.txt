@@ -23,3 +23,4 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&type=tcp&headerType=&path=&host=#Config 1 - @lebertad
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?security=none&type=tcp&headerType=&path=&host=#@filembad
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?security=none&type=tcp&headerType=&path=&host=#Config 2 - @lebertad
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
