@@ -1,1 +1,2 @@
 vless://875cb468-a847-489e-bd16-7993a013a73c@rably-m.izumii.ir:2098/?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rays_ha 9310
+vless://5341f83e-634d-4920-9391-a6ffadd15276@85.192.26.88:2098?path=/PULAVPN&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20130768
