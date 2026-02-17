@@ -1,3 +1,2 @@
 vless://5341f83e-634d-4920-9391-a6ffadd15276@reza.alphanet01.com:2098?path=/PULAVPN&security=none&encryption=none&host=play.google.com&type=ws#@NETMelliAnti
 vless://875cb468-a847-489e-bd16-7993a013a73c@rably-m.izumii.ir:2098/?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rays_ha 9310
-vless://5341f83e-634d-4920-9391-a6ffadd15276@reza.alphanet01.com:2098?path=/PULAVPN&security=none&encryption=none&host=play.google.com&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
