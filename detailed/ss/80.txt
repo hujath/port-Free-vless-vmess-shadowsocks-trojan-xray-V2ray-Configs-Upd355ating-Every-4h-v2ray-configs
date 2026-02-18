@@ -21,14 +21,12 @@ ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#⚜️𝗝𝗼𝗶�
 ss://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80/?mode=auto&path=dl?ed=2560&security=none&encryption=none&extra={"downloadSettings":{"address":"188.244.122.136","port":443,"network":"xhttp","security":"tls","tlsSettings":{"serverName":"s1.utuvpn.org","fingerprint":"chrome"},"xhttpSettings":{"path":"/dl?ed=2560","host":"s1.utuvpn.org","mode":"auto"}}}&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#@v2rays_ha 9502
 ss://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80/?mode=auto&path=dl?ed=2560&security=none&encryption=none&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#@v2rays_ha 9480
 ss://d787c7d5-46c1-4434-869e-76cddd3e2e50@84bf6a263638e546.fast1.viperping.ir:80/?mode=auto&security=none&encryption=none&host=milad-g1.global.ssl.fastly.net&type=xhttp#@v2rays_ha 9458
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw@62.146.172.130:80#%3E%3E%40FreakConfig%3A%3AUS
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--@NetifyVPN--#%3E%3E%40v2nodes%3A%3AGB
 ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:80#%E2%9E%A4%20%40netshekan99
 ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:80#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610771
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw==@62.146.172.130:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695951
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw==@62.146.172.130:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20378931
-ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw==@199.247.27.182:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20195727
-ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20335652
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491678
-ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20309453
+ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw==@199.247.27.182:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437762
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20931031
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20750938
+ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593493
+ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349506
+ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw==@62.146.172.130:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626344
