@@ -4,5 +4,5 @@ vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@frt22.lizardshop.org:4545?security=
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@nlt.lizardshop.org:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇳🇱]- ConfigV2RayNG
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@frt22.lizardshop.org:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFR
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@catt.lizard2shop.com:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.179:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874403
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.225:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20431011
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.179:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686956
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.225:4545?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256562
