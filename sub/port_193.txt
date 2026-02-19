@@ -10,4 +10,3 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.85.33:193?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?sni=www.nintendogames.net&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413489
