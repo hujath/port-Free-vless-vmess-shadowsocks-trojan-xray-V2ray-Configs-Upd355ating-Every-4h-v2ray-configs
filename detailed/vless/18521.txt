@@ -7,5 +7,5 @@ vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?path=/&security=
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=65.109.203.5&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521/?type=ws&encryption=none&flow=&host=h22.amoosias.site&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=h22.amoosias.site&path=%2F#@chillguy_vpn
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=65.109.203.5&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205689
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=h22.amoosias.site&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20200087
+vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=65.109.203.5&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323708
+vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521/?type=ws&encryption=none&flow=&host=h22.amoosias.site&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20142472

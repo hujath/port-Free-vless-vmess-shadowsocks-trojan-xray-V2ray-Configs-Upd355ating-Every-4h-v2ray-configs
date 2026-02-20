@@ -5,6 +5,6 @@ vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@trt.lizard2shop.com:4546?security=t
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@fl.lizardshop.org:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%3E%3E%40configV2rayNG%3A%3AXX
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@flu0.lizardshop.org:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%3E%3E%40configV2rayNG%3A%3AFI
 vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@str0.lizard2shop.com:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mzax.shopmod2.ir#%3E%3E%40configV2rayNG%3A%3AFR
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@2.188.212.14:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mzax.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20871221
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.237:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243197
-vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@94.182.142.3:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177955
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@77.104.94.237:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20194843
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@94.182.142.3:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mza.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20227214
+vless://7174a404-0b07-4a78-b921-4c0a4dda44a7@2.188.212.14:4546?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mzax.shopmod2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20461821

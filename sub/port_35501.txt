@@ -3,6 +3,4 @@ trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@220.130.58.136:35501?security=tls&
 trojan://66c62e1a-8037-4154-ad0b-7a0ec415f46c@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1715
 trojan://125f929b-dbde-43b9-b498-695f1cd45d68@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1759
 trojan://92953fc6-f497-43af-9d6d-f3b5589df318@220.130.58.136:35501?sni=green2.cdntencentmusic.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://bbde1e79-49d4-448a-a81d-38bfbba3480d@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://bbde1e79-49d4-448a-a81d-38bfbba3480d@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/&allow_insecure=1#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20128551
+trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164780
