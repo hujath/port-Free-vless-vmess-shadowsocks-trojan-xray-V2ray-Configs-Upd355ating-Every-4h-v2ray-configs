@@ -4,6 +4,6 @@ vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&s
 vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&security=none&encryption=none&type=ws#IP_CF
 vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#%3E%3E%40ip_cf%3A%3AFI
 vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&security=none&encryption=none&type=ws#@chillguy_vpn
-vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20770485
-vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20932253
-vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669469
+vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20867560
+vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286327
+vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=/download&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20315427
