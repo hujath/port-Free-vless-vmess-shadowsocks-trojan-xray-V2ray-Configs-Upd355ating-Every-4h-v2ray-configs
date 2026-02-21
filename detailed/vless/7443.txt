@@ -4,4 +4,3 @@ vless://17142adb-da1b-4c77-be43-c13d5e7434ab@95.179.153.157:7443?security=none&e
 vless://17142adb-da1b-4c77-be43-c13d5e7434ab@95.179.153.157:7443?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
 vless://17142adb-da1b-4c77-be43-c13d5e7434ab@95.179.153.157:7443?security=none&encryption=none&headerType=none&type=tcp#همه نت ها@config_v2rayy
 vless://a25233a1-b8e7-48a8-a012-27834248ade7@51.250.9.25:7443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#@v2rayngzendegimamad🕊️
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@150.241.94.142:7443?type=grpc&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bfp=chrome&amp%3Bpbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&amp%3Bsid=ab1c1a11&amp%3Bsni=www.google.com&amp%3BserviceName=vless#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40config_proxy%20%232
