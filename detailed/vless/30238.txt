@@ -5,4 +5,4 @@ vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&%3Bsecurity=none&%3Btype=tcp&%3BheaderType=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&amp;amp%3Bsecurity=none&amp;amp%3Btype=tcp&amp;amp%3BheaderType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457200
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20580654
