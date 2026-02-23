@@ -12,5 +12,4 @@ vless://a3a01f35-2735-4ae4-88fa-1d192f25549b@sn1.saedbahari.ir:2082?encryption=n
 vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip2-cloud.tyryqyserver.ir:2082/?type=tcp&encryption=none&flow=#Config 5 - @lebertad
 vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip2-cloud.tyryqyserver.ir:2082/?type=tcp&encryption=none&flow=#🇨🇦 TCP-None | @Express_alaki | src @v2ray_configs_pool
 vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?encryption=none&security=none&type=ws&host=hm3.mutee.com.tr&path=/api/stream?ed=2080#[@ConfigPositive]+#8
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=/?ed=1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://53bc2c34-f3ed-4346-ac01-ee9f52f61d7b@104.20.39.116:2082?encryption=none&type=httpupgrade&host=Freemycity.esportplusnews.top&path=%2FV2RayyNGvpn%3Fed%3D512&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://01b52f36-ad50-4fad-8c06-6d55f0a2440f@tawananet.lookanet.app:2082?encryption=none&type=httpupgrade&host=Freemycity.esportplusnews.top&path=%2FV2RayyNGvpn%3Fed%3D512&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
