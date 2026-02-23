@@ -18,4 +18,4 @@ trojan://7l3mls9n-bb1v-y8dx-amhn-n5mvv7yk24yu@127.0.0.1:1080?security=tls&type=t
 trojan://gkg255e2-afel-bemg-x0t4-ng7lgb72pu90@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://ufhvbyvr-xjwo-7mpm-1jpn-yyp28w9lveug@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-8168
-ss://YWVzLTEyOC1nY206RmdFT0UzN1FqVmZkNzJjb2M0a3VFQQ==@192.248.148.230:1080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141907
+ss://YWVzLTEyOC1nY206RmdFT0UzN1FqVmZkNzJjb2M0a3VFQQ==@il1.arizanta.co.uk:1080#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

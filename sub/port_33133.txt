@@ -8,10 +8,8 @@ vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&e
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @v2ray_configs_pools
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#🐦‍🔥-@SPEEDS_VPN
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637792
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20693948
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20120465
+vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498839
+vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713261
+vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20499341
