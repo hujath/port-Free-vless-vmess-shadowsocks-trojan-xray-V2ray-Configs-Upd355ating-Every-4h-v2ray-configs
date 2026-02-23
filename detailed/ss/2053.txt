@@ -7,3 +7,4 @@ ss://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tl
 ss://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&insecure=1&host=kdx3.sellink.ir&fp=chrome&type=ws&allowInsecure=1&sni=kdx3.sellink.ir#https://t.me/allproconf
 ss://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&insecure=1&host=xlsf.sellink.ir&fp=chrome&type=ws&allowInsecure=1&sni=xlsf.sellink.ir#https://t.me/allproconf
 ss://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cd11.thisiswe.uno&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#https://t.me/allproconf
+ss://YXV0bzp3zrU0HnPjrb59e108@dwfty.fotball120.ir:2053#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20%40config_proxy%20%231

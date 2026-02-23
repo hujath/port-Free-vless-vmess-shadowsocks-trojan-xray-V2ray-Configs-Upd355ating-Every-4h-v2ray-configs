@@ -38,8 +38,9 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&type=ws&path=%2famd#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://T9BpZIVMNv@chatgpt.com:8443/?path=/amd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://T9BpZIVMNv@chatgpt.com:8443?path=%2Famd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://T9BpZIVMNv@172.66.44.211:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20132669
-trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596447
-trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526967
-trojan://T9BpZIVMNv@104.21.64.201:8443?security=tls&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276550
-trojan://T9BpZIVMNv@172.66.44.211:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648023
+trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20772022
+trojan://T9BpZIVMNv@104.21.64.201:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20229845
+trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466954
+trojan://T9BpZIVMNv@172.66.47.45:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20766416
+trojan://T9BpZIVMNv@172.66.47.45:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293452
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20618600

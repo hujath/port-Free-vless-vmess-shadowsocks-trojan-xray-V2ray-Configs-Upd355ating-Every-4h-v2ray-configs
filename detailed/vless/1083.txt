@@ -8,6 +8,6 @@ vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&enc
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329575
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20430015
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20258020
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937826
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781207
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20831570

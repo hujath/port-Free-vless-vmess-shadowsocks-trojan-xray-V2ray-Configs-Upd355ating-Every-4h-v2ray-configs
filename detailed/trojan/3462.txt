@@ -9,6 +9,6 @@ trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.232:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.226:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=45.32.28.232#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@211.20.245.140:3462?security=tls&sni=45.32.28.232#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20427996
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.248.240.224:3462?security=tls&sni=45.32.28.232#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642719
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20382948
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20673705
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@211.20.245.140:3462?security=tls&sni=45.32.28.232#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843989
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.221.189.242:3462?security=tls&sni=45.32.28.232#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367195

@@ -13,4 +13,4 @@ vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036/?type=ws&encry
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036/?type=ws&encryption=none&flow=&path=/#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542962
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20400492
