@@ -10,4 +10,4 @@ vless://e4bd3863-ef9f-4e39-9478-2003575d3380@fredii.ichimokutrader.org:2020?secu
 vless://e4bd3863-ef9f-4e39-9478-2003575d3380@fredii.ichimokutrader.org:2020?security=none&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
 vless://e6859af3-9286-4799-9b51-972029081581@81.12.34.197:2020?security=none&encryption=none&headerType=none&type=tcp#🔴 telegram ➡️ @ataconnect
 vless://e4bd3863-ef9f-4e39-9478-2003575d3380@fredii.ichimokutrader.org:2020?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://e4bd3863-ef9f-4e39-9478-2003575d3380@45.11.187.120:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706374
+vless://e4bd3863-ef9f-4e39-9478-2003575d3380@45.11.187.120:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890344
