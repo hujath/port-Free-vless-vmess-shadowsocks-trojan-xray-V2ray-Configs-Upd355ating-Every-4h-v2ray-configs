@@ -9,5 +9,4 @@ vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encry
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591871
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141884
+vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20339220

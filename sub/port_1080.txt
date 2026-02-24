@@ -14,4 +14,3 @@ trojan://tqae7wye-dhdy-goqz-yc03-2rb6t8eb7uas@127.0.0.1:1080?security=tls&type=t
 trojan://vstzi7dv-oxu4-w7zx-hz96-dttoq5c0lu1h@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://xx3fqva6-xyqe-nutu-31dv-dmmq5qrgiygn@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-8168
-ss://YWVzLTEyOC1nY206RmdFT0UzN1FqVmZkNzJjb2M0a3VFQQ==@il1.arizanta.co.uk:1080#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
