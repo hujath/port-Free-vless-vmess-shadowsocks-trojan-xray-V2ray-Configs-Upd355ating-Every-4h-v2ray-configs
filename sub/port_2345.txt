@@ -60,5 +60,4 @@ vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&pat
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&path=/#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345/?type=tcp&encryption=none&flow=#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&encryption=none#@chillguy_vpn
-ss://YXV0bzpGczt5H9+bd29f@simurgh.adslimit.info:2345#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%20%40config_proxy%20%231
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40vpn_ioss%20%231

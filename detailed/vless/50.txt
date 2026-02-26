@@ -4,4 +4,4 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=n
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%3E%3E%40v2nodes%3A%3ASE
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@217.215.190.213:50?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20229502
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@78.69.215.185:50?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747626
