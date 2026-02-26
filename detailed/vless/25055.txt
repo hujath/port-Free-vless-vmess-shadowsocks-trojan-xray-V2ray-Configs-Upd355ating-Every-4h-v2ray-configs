@@ -1,0 +1,1 @@
+vless://0d2566dd-ac64-4733-b8ba-3d0fe9a51a61@sgskb.osaip.net:25055?encryption=none&type=grpc&serviceName=violet&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

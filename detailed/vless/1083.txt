@@ -5,9 +5,9 @@ vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&enc
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#Telegram @Ettehad_vpn
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#____@afexxx_vpn__
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210377
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20808048
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665379
-vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197042
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20137979
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134463
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?encryption=none&type=tcp&headerType=none&host=188.40.210.8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20653921
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389846
