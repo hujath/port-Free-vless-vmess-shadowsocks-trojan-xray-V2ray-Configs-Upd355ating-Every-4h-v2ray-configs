@@ -6,5 +6,5 @@ vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encry
 vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=/ray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#🐯58@oneclickvpnkeys
 vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443?security=tls&type=ws&path=/ray&host=chunantong.cc.cd&sni=chunantong.cc.cd&fp=chrome&encryption=none#[🏁]t.me/ConfigsHub
 vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=%2Fray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://Telegram🇨🇳 @WangCai2@135.181.151.136:9443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=%2Fray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20161549
+vless://Telegram🇨🇳 @WangCai2@135.181.151.136:9443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=%2Fray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566605

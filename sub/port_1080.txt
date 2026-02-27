@@ -20,4 +20,3 @@ trojan://ap50k2oc-xkyh-svfh-mvjt-i4vinfnex4qq@127.0.0.1:1080?security=tls&type=t
 trojan://sd6310de-szjj-eu0d-cewj-fnx185djc9pe@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://xe76hfnj-pa3h-zpzv-uhuh-ca18f6ssplhr@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://xyu1oibn-fm59-74ea-21eq-eq0efc1jt3sy@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFJqcEpvTldxaUtCN0t6bEJUTWVn@Net0.iraliza.net.tr:1080#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

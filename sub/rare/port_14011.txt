@@ -1,1 +1,4 @@
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%AD%F0%9F%87%B0HK-154.86.11.145-1614
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@154.86.11.145:14011?security=tls&sni=jsygouer.weixin-baidu-qq.com&type=tcp&headerType=none&path=/&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&sni=jsygouer.weixin-baidu-qq.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
