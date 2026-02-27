@@ -1,11 +1,8 @@
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567/?type=tcp&encryption=none&flow=#🐯80@oneclickvpnkeys
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#@filembad
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#🇸🇬@FreakConfig
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567/?type=tcp&encryption=none&flow=#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#[14369]+-+Telegram+:+@configraygan
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491061
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962744
-vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771033
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20264420

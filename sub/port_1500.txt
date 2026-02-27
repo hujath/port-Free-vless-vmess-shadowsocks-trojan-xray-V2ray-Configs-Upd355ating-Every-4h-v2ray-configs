@@ -6,4 +6,4 @@ vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@cx55141.prodatabase.ir:1500?securit
 vless://e69ba407-fd9d-4185-bca7-7227ea50b8ad@cx55141.prodatabase.ir:1500?security=none&encryption=none&headerType=http&type=tcp#azadiiivpn 🎀
 vless://fa44db1f-b453-4eea-8343-0512a780675a@5552.prodatabase.ir:1500?security=&encryption=none&headerType=http&type=tcp#🇮🇷 🇩🇪 • configfarsi
 vless://fa44db1f-b453-4eea-8343-0512a780675a@5552.prodatabase.ir:1500?security=none&encryption=none&headerType=http&type=tcp#azadiiivpn 🎀
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500/?type=grpc&encryption=none&flow=&sni=www.ebay.com&fp=chrome&security=reality&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%A6
+vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?security=reality&encryption=none&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%A6
