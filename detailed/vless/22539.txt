@@ -4,4 +4,4 @@ vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encrypt
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20215729
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370586

@@ -1,2 +1,3 @@
 ss://81b4eb19-f1d3-4218-b621-8db032828582@193.151.153.127:203/?security=&encryption=none&headerType=none&type=tcp#@v2rays_ha 11376
 vless://7fe3d19c-957a-4d61-81a9-404c185eb1dd@193.151.153.107:203/?security=&encryption=none&headerType=none&type=tcp#@v2rays_ha 11693
+vless://2df16b02-34a4-4063-ba5d-9be0d3e147c6@193.151.153.107:203?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602897
