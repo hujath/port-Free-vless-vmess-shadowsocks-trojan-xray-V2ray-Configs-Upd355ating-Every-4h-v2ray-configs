@@ -54,9 +54,7 @@ vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-77.f-sub.cfd:1517?security=none
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2ray_configs_pools : چنل کانفیگ
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-79.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
-ss://YXV0bzobTh7fmj7GuX8=@vip-81.f-sub.cfd:1517#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20SS%20%7C%20%40config_proxy%20%231
-vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&amp%3Bencryption=none&amp%3Bhost=testspeed-foreign.tci.ir&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
-vless://2a14c345-950b-416b-a029-3aa4751cb1d5@vip-80.f-sub.cfd:1517?security=none&amp%3Bencryption=none&amp%3Bhost=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
+vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&amp%3Bencryption=none&amp%3Bhost=testspeed-foreign.tci.ir&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
 ss://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Telegram:@config_proxy 💦
 ss://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Telegram:@config_proxy 💦
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2rayland02🌐
