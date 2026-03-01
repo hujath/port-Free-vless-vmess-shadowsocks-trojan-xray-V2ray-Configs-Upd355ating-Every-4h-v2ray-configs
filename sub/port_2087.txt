@@ -244,4 +244,4 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&s
 vless://59b19fb8-aba7-44e5-ba9c-5c63e07af6df@b2w.esportplusnews.top:2087?security=none&seed=V2RayyNGvpn&encryption=none&headerType=wechat-video&type=kcp#کانال تلگرام : Free_VPN_CH@
 vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#@config_v2rayy
 vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?type=ws&security=tls&sni=all-zm1.netsnap.ir.&host=all-zm1.netsnap.ir.&path=/&fp=chrome#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20365717
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20859600

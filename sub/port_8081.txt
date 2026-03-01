@@ -31,3 +31,4 @@ vless://f3bf2de4-495d-45f1-bf5e-00da3b58796f@212.80.19.203:8081?encryption=none&
 vless://f3bf2de4-495d-45f1-bf5e-00da3b58796f@212.80.19.203:8081?security=none&encryption=none&host=gbaz.ir&headerType=http&type=tcp#@Vip_fragment_v2ray
 vless://f3bf2de4-495d-45f1-bf5e-00da3b58796f@212.80.19.203:8081?security=none&encryption=none&host=gbaz.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://f3bf2de4-495d-45f1-bf5e-00da3b58796f@212.80.19.203:8081?security=none&encryption=none&host=gbaz.ir&headerType=http&type=tcp#✅@AR14N24b
+vless://109ca94b-ecc6-4231-a9aa-db35ed767e91@84.201.138.30:8081?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20711452

@@ -3,5 +3,3 @@ trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?securit
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&headerType=none&type=tcp&sni=jsygouer.weixin-baidu-qq.com#vpnsal
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇸🇬@FreakConfig
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&sni=jsygouer.weixin-baidu-qq.com&allowInsecure=1&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@154.86.11.145:45005?security=tls&sni=jsygouer.weixin-baidu-qq.com&type=tcp&headerType=none&path=/&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
