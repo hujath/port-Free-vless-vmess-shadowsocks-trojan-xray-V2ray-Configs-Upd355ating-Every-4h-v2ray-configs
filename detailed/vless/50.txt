@@ -2,7 +2,9 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@78.69.215.185:50?security=none&type
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ | 🐥
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%3E%3E%40v2nodes%3A%3ASE
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪[openproxylist.com] vless-SE
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayng_fast%3A%3ASE
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@217.210.42.85:50?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639351
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@2.248.48.50:50?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907208
