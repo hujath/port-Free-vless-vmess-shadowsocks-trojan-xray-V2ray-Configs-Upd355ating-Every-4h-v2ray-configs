@@ -6,4 +6,3 @@ vless://b6090df3-8918-401e-aa18-e8b285b81d54@18.199.159.5:26819?encryption=none&
 vless://b6090df3-8918-401e-aa18-e8b285b81d54@18.199.159.5:26819?encryption=none&security=none&type=tcp#🌱1@oneclickvpnkeys
 vless://b6090df3-8918-401e-aa18-e8b285b81d54@18.199.159.5:26819?type=tcp&encryption=none&security=none#@freenettir
 vless://b6090df3-8918-401e-aa18-e8b285b81d54@18.199.159.5:26819?type=tcp&encryption=none&security=none#@meliproxyy
-vless://b6090df3-8918-401e-aa18-e8b285b81d54@18.199.159.5:26819?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
