@@ -2,5 +2,5 @@ vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encr
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#🐯69@oneclickvpnkeys
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20663868
-vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20655787
+vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460466
+vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20653824
