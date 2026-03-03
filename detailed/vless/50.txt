@@ -5,4 +5,4 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=n
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪[openproxylist.com] vless-SE
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@2.248.49.161:50?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286763
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@78.72.230.57:50?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20722155
