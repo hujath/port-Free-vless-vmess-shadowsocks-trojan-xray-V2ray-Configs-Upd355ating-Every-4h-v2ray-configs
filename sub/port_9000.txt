@@ -47,9 +47,7 @@ ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.218:9000#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.218-4088
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8363
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@185.135.86.173:9000#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8507
-vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@NetZoneNews
-vless://b5435b16-52dd-4257-946d-10f149cb87bb@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#@v2ray_configs_pools
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#@v2ray_configs_pools
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&allowInsecure=0&encryption=none&type=tcp&host=/?BIA_TELEGRAM@v2ray_configs_pools&path=Telegram=@N3TWRK&headerType=http#Join 🪖 @N3TWRK
@@ -57,4 +55,4 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#@azdeltaghalam7🦄
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=none&encryption=none&headerType=http&type=tcp#@v2rayland02🌐
 vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDAwIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OklOOjpJTjo6SU46OklOOjpJTjo6SU4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiAiMzYuMjU1LjE5Ny41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDkwMDAsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiA2NjcyMTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20667213
+vmess://eyJhZGQiOiAiMzYuMjU1LjE5Ny41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDkwMDAsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiAyMTE3NDUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211745
