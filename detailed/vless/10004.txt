@@ -1,2 +1,1 @@
 vless://87f106c2-0c97-44ce-9047-8570bee51175@vpn.lumanetwork.cloud:10004?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 | azadiiivpn 🎀
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@131.143.240.164:10004?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=Rp0axdMMyjBY3su8yFECX1rMCcg90y0HcCHalmxs73Y&sid=494cf2&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878158
