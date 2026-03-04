@@ -1,4 +1,1 @@
 vless://7bddd0a1-aefb-41e0-8e05-96456186c093@51.250.14.48:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇲🇩@ConfigV2RayNG
-vless://0339f151-d187-4d5e-b0eb-994cebf3f9ca@51.250.64.218:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20270206
-vless://0339f151-d187-4d5e-b0eb-994cebf3f9ca@51.250.71.199:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409810
-vless://46c68665-0ffc-4f0b-bded-758e8d09c260@51.250.64.218:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361511
