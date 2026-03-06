@@ -193,4 +193,3 @@ vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none
 vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?security=none&encryption=none&host=Myket.ir&headerType=http&type=tcp#@melli_shekan1
 vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=/Hellshop&security=&encryption=none&host=ikcosales.ir&type=ws#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=/Hellshop&security=none&encryption=none&host=ikcosales.ir&type=ws#IP_CF
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&type=ws&host=iioo.iioou.workers.dev&path=%2F%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
