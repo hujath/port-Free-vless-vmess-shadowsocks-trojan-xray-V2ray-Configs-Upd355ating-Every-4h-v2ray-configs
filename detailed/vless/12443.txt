@@ -1,1 +1,1 @@
-vless://42a7df85-0739-4760-a248-32a491abfa2a@45.15.147.2:12443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670812
+vless://42a7df85-0739-4760-a248-32a491abfa2a@45.15.147.2:12443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20423479
