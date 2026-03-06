@@ -78,9 +78,8 @@ vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.6.36:2086?encryption=none&ho
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.7.36:2086?encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?encryption=none&type=httpupgrade&host=span.dl101movis.ir&path=%2F%3Fed%3D2056&security=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.6.36:2086?encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20398298
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314480
-vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358302
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894619
-vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.7.36:2086?encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789121
-vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435276
+vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.6.36:2086?encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20770856
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20847587
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316691
+vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20133588
+vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.7.36:2086?encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20902136

@@ -1,2 +1,0 @@
-vless://4b6f02ad-5d75-4550-b840-dc59617cfbca@51.250.64.147:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20905064
-vless://36385b20-add6-4e84-a684-823589fbbbf0@51.250.6.105:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20176513
