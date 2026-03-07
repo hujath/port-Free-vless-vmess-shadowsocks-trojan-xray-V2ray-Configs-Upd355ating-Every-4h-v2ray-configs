@@ -13,6 +13,6 @@ vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&ho
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998123
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20954026
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20212963
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20417206
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20731469
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20436149
