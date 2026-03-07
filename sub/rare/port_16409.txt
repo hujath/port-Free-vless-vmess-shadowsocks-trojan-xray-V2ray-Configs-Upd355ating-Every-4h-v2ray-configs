@@ -1,1 +1,1 @@
-vless://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.microsoft.com&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&sid=ac43#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658661
+vless://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.microsoft.com&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&sid=ac43#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318845
