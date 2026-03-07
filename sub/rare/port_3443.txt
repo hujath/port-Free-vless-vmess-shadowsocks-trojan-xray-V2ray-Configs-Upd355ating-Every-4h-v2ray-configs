@@ -1,0 +1,1 @@
+vless://14bb4afc-22d6-4421-8063-4e3cee16f80c@188.225.73.95:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&sid=250d3c02fb96d485&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879508
