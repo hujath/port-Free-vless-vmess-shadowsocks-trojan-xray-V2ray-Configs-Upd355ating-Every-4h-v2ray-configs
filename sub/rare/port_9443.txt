@@ -1,3 +1,0 @@
-vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443?encryption=none&type=ws&host=chunantong.cc.cd&path=%2Fray&security=tls&sni=chunantong.cc.cd#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://4adcd180-f2fd-41dd-bebc-2f380d38eb8e@84.201.172.12:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561953
-vless://61e79a49-cad7-4914-955f-1c64ae3a69bc@84.201.172.12:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=travel.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942735
