@@ -33,6 +33,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8008#%F0%9F%87%AC%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.91.107.16:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-6786
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-6790
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.1.100:8008#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-5460
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#рҹ©ө+@Azarakhsh_Proxy+рҹ©·
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#ШЁШұШ§ЫҢ Ш§ШӘШөШ§Щ„ ШҜШ§ШҰЩ…ЫҢ Ш¬ЩҲЫҢЩҶ ШҙЩҲрҹ—ҫ prrofile_purple@
-vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&encryption=none&headerType=none&type=tcp#ШЁЫҢШ§ Ш§ЫҢЩҶШ¬Ш§ ConfigV2RayNG@

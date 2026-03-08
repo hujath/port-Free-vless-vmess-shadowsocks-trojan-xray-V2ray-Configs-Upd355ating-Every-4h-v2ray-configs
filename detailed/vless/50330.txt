@@ -6,4 +6,3 @@ vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?securit
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#Config 3 - @lebertad
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp@irproxy
-vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#вҡЎTelegram = @SOSkeyNET

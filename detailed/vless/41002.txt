@@ -6,8 +6,3 @@ vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none
 vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#کانال ما در تلگرام : @TeleProxyTele
 vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#@AkbarConfig👈کانفیگ روزانه در
-vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002/?type=tcp&encryption=none&path=/&host=fast.com&headerType=http&security=none#@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ
-vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ
-vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Ъ©Ш§ЩҶШ§Щ„ Щ…Ш§ ШҜШұ ШӘЩ„ЪҜШұШ§Щ… : @TeleProxyTele
-vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#вҡЎTelegram = @SOSkeyNET
-vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ
