@@ -14,7 +14,8 @@ vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnja
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#⚡Telegram = @SOSkeyNET
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%40v2_mod_shop%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?security=tls&encryption=none&type=ws&path=%2fvpnjantit&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?security=tls&encryption=none&type=ws&path=%2fvpnjantit&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.173.159.41:10002?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.ye.gs&alpn=http%2F1.1&sni=snippet.fgfw.ye.gs&fp=random#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
