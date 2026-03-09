@@ -1,3 +1,0 @@
-vless://17f3bfbf-7ac1-4054-96fa-328ea0b49c86@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747850
-vless://2c40df29-f2de-4fca-9566-c985ac93d8fa@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601543
-vless://431dbf45-02e9-480f-b6d3-63c923de7237@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920408

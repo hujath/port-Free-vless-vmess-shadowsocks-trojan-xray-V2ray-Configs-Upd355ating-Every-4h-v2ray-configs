@@ -1,1 +1,1 @@
-vless://1fb62a35-b930-485d-9eb7-5a660d28a78a@37.139.34.106:31842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sso.auto.ru&pbk=tJtvc3_iO8MH83xloyBErV_jxB-uqyd_y0r0rEFyXw4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917228
+vless://1fb62a35-b930-485d-9eb7-5a660d28a78a@37.139.34.106:31842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sso.auto.ru&pbk=tJtvc3_iO8MH83xloyBErV_jxB-uqyd_y0r0rEFyXw4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170326
