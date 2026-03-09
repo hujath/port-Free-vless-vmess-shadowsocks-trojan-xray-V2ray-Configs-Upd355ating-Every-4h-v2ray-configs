@@ -1,2 +1,2 @@
-vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@178.154.197.171:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358990
-vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.210.30:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274630
+vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@51.250.45.245:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521403
+vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.210.30:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20215111
