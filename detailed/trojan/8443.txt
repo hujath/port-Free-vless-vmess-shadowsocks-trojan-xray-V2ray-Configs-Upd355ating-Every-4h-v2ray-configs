@@ -37,6 +37,4 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpane
 trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://123456@bpbg.anguswen.top:8443?sni=BpBg.ANGusWeN.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://T9BpZIVMNv@104.21.64.201:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20772245
+trojan://T9BpZIVMNv@104.21.64.201:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439957
