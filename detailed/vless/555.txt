@@ -1,2 +1,1 @@
-vless://050e04e2-ee2c-4f8d-8047-026571e47fdf@meow.panbe.mom:555?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.147.185.143:555?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sheilabelinda.ndjp.net&alpn=http%2F1.1&sni=snippet.sheilabelinda.ndjp.net&fp=random#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.147.185.143:555?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sheilabelinda.ndjp.net&alpn=http%2F1.1&sni=snippet.sheilabelinda.ndjp.net&fp=random#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
