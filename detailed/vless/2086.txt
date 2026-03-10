@@ -27,7 +27,7 @@ vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?path=%2F&security=
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#%40V2ray_confiig`
 vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20270918
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20583931
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619921
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20139696
+vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658813
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590838
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20932802
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214554
