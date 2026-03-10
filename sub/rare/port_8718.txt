@@ -1,1 +1,2 @@
 vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@5.188.140.3:8718?type=tcp&sni=receive-sentry.lmru.tech&fp=chrome&pbk=OOqB9mFan3ucg0FLHOdmgNgh7jdIc1wAy6AuU5dehxU&flow=xtls-rprx-vision&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@5.188.140.3:8718?type=tcp&amp%3Bsni=receive-sentry.lmru.tech&amp%3Bfp=random&amp%3Bpbk=OOqB9mFan3ucg0FLHOdmgNgh7jdIc1wAy6AuU5dehxU&amp%3Bflow=xtls-rprx-vision&amp%3BallowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
