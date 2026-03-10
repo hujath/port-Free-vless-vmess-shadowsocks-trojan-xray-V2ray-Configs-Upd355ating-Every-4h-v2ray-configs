@@ -36,5 +36,5 @@ trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&hos
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=%2famd#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://T9BpZIVMNv@104.21.64.201:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20650238
-trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251769
+trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899038
+trojan://T9BpZIVMNv@172.67.136.52:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478755
