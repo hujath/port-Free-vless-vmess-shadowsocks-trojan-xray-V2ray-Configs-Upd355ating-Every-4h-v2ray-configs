@@ -1,1 +1,1 @@
-vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#@V2rayAlpha--12
+vless://26524cce-d514-4014-a426-365fb266a14d@89.58.15.243:1007?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
