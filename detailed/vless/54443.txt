@@ -1,2 +1,0 @@
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@89.208.222.120:54443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=io.ozone.ru&pbk=iOMsvckwmLTIoikYRzpSLIeQ0vbpYmB_UjpIwwCOWxI#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605684
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@84.201.128.137:54443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=io.ozone.ru&pbk=Pfvo6n8_VZ8Fi7JWMcDjqj2318MqqcvmNkYhEBUgTk0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854050

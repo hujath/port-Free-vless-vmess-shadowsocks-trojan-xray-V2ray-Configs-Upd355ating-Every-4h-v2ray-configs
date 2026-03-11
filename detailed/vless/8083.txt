@@ -1,1 +1,2 @@
 vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@FalconPolV2rayNG
+vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@178.154.197.171:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745090

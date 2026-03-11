@@ -1,0 +1,2 @@
+vless://7524fe71-0287-455d-bf0d-143ece42736c@kr-tls01.gunyoung.top:50000?encryption=none&security=tls&sni=cloud-newcf.hwoong.top&type=ws&host=cloud-newcf.hwoong.top&path=/?ed=2560#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.242.64.238:50000?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.ndjp.net&alpn=http%2F1.1&sni=snippet.fgfw.ndjp.net&fp=random#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
