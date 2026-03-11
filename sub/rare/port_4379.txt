@@ -1,3 +1,0 @@
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.41.69:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20324786
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.30.149:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608980
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.75.53:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251222
