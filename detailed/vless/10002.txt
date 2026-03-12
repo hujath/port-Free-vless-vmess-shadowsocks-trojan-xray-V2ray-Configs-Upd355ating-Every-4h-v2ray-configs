@@ -6,5 +6,4 @@ vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecu
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@AkbarConfig👈کانفیگ روزانه در
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329149
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196629
