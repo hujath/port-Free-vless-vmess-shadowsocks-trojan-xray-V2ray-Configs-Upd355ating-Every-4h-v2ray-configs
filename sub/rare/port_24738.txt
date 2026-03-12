@@ -1,1 +1,1 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@203.170.125.48:24738?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.indevs.in&alpn=http%2F1.1&sni=snippet.fgfw.indevs.in&fp=random#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@203.170.125.48:24738?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.indevs.in&alpn=http%2F1.1&sni=snippet.fgfw.indevs.in&fp=random#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
