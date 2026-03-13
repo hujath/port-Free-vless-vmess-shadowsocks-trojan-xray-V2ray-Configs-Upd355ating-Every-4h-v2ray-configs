@@ -8,4 +8,4 @@ vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecu
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&host=gr5.vpnjantit.com&path=/vpnjantit&security=tls&sni=gr5.vpnjantit.com&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20288402
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857179
