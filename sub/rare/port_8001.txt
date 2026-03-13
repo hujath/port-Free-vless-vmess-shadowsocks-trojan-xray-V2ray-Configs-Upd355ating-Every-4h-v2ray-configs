@@ -1,3 +1,3 @@
 vless://1d0b4c14-9a3e-4bc3-98fe-b8c47ca82bf1@n1002.sal-om.ir:8001/?type=grpc&serviceName=&security=none#@AkbarConfig👈کانفیگ روزانه در
-trojan://trojan@178.157.50.221:8001?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://trojan@178.157.50.221:8001/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://trojan@178.157.50.221:8001/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://trojan@178.157.50.221:8001?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
