@@ -9,4 +9,5 @@ vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&se
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&fp=chrome&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&security=reality&sid=d239de8e&sni=www.google.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?mode=gun&security=reality&encryption=none&authority=&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&fp=chrome&type=grpc&serviceName=&sni=www.google.com&sid=d239de8e#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&type=grpc&security=reality&fp=chrome&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&sni=www.google.com&sid=d239de8e#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743640
+vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981843
+vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478730
