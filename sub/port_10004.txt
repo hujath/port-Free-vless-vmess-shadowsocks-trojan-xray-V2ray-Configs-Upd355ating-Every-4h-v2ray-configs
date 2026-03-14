@@ -8,6 +8,6 @@ vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&p
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282748
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590686
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&type=ws&security=none&path=/vpnjantit#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938601
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&type=ws&security=none&path=/vpnjantit#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20889741
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541176
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@51.75.74.61:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370060
