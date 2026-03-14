@@ -1,3 +1,3 @@
 vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?encryption=none&security=none&type=tcp#VIP-m_112300_100
 vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?encryption=none&security=none&type=tcp#%3E%3E%40v2nodes%3A%3ATR
-vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20624231
+vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20723620

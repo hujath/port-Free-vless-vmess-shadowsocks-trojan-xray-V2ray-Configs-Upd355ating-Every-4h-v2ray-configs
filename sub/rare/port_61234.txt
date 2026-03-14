@@ -1,3 +1,2 @@
 vless://ef092640-433a-4f17-99bd-d5d206435606@high-speed-test-01.linkpc.net:61234?type=tcp&security=reality&path=/&sni=www.nintendo.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM&sid=9c#@Trick_mobil
-vless://ef092640-433a-4f17-99bd-d5d206435606@high-speed-test-01.linkpc.net:61234?security=reality&type=tcp&sni=www.nintendo.com&fp=chrome&flow=xtls-rprx-vision&sid=9c&pbk=Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://ef092640-433a-4f17-99bd-d5d206435606@high-speed-test-01.linkpc.net:61234?type=tcp&security=reality&path=/&sni=www.nintendo.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM&sid=9c#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
