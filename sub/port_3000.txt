@@ -3,5 +3,3 @@ vless://612fa6e6-a0ea-45c7-a4b0-4a67326eb075@94.101.180.186:3000?security=none&e
 vless://a3bd84b3-6432-481a-8237-56431d31f320@teamlifez.ir:3000?security=none&encryption=none&headerType=none&type=tcp#@on_proxy1
 vless://a3bd84b3-6432-481a-8237-56431d31f320@teamlifez.ir:3000?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vmess://eyJhZGQiOiI0My4xOTkuMjQuMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYi56aHVhbnNodS5jb20iLCJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMwMDAiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://00000000-0000-4000-8000-000000000000@89.208.97.165:3000?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&security=tls&sni=sub.mot.ip-ddns.com&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@89.208.97.165:3000?encryption=none&type=ws&security=tls&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20387448
