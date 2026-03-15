@@ -1,1 +1,3 @@
 vless://54635a5b-8638-452a-c9b2-805b157025a8@141.11.21.219:17191?encryption=none&security=tls&sni=a.sezar.top&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://54635a5b-8638-452a-c9b2-805b157025a8@141.11.21.219:17191?encryption=none&type=tcp&security=tls&fp=chrome&sni=a.sezar.top#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20258489
+vless://54635a5b-8638-452a-c9b2-805b157025a8@141.11.21.219:17191?encryption=none&type=tcp&security=tls&sni=a.sezar.top#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240592
