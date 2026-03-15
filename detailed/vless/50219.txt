@@ -10,4 +10,4 @@ vless://b3acfb3d-2511-4488-9302-63b0e98e0121@162.55.190.0:50219/?type=tcp&encryp
 vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://16219a0a-5aaa-4b25-bddb-ad2190612264@162.55.190.0:50219?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186125
+vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20475371
