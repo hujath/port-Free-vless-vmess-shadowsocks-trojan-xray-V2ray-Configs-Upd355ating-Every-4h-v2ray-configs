@@ -10,5 +10,5 @@ vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&
 vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://ffea8ada-ad72-474a-bc53-e643d740d7b0@162.55.190.0:433/?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235411
-vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757378
+vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639205
+vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636523

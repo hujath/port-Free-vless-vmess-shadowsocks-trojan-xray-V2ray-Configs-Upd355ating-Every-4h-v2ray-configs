@@ -19,3 +19,5 @@ vless://13d2b959-9bc1-40eb-eb69-7856f3495a7f@151.243.3.59:15187?path=%2f#hamedp7
 vless://93911214-8119-46aa-f5b2-846e72312bfd@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://3de6695a-ddbe-430f-b54d-9bc925ab9bf7@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://828c0eea-f5a9-46d1-c22b-538f91b59b92@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://13d2b959-9bc1-40eb-eb69-7856f3495a7f@151.243.3.59:15187?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20850892
+vless://5205ea17-9c64-4724-c8f9-88f3c2cdd27b@151.243.3.59:15187?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170941
