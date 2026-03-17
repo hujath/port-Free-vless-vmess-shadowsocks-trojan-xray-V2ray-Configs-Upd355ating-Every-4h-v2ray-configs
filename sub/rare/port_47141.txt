@@ -1,1 +1,3 @@
 vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?encryption=none&fp=chrome&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&security=reality&sid=f4fa9f410d7134ea&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://5645d1cf-76e7-41a7-9360-4ba20f3b07c5@77.42.67.4:47141?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&sid=f4fa9f410d7134ea&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975152
+vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&sid=f4fa9f410d7134ea#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491432
