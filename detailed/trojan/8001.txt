@@ -1,2 +1,0 @@
-trojan://trojan@178.157.50.221:8001?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://trojan@178.157.50.221:8001?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
