@@ -7,8 +7,8 @@ vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@nl1.vpnjantit.com:10004?encryption=
 vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@nl1.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@nl1.vpnjantit.com:10004?encryption=none&type=ws&path=%2Fvpnjantit&security=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134114
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946211
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=/vpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864392
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&type=ws&security=none&path=/vpnjantit#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516150
-vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=/vpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581934
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20156142
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=/vpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20505793
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333020
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&path=/vpnjantit&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20130479
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@195.123.216.159:10004?encryption=none&type=ws&security=none&path=/vpnjantit#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484762
