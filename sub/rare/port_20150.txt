@@ -1,1 +1,1 @@
-vless://69b73277-99ed-6b7f-f52b-79b98093e7ae@211.216.185.56:20150?security=tls&type=ws&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433&host=dd4973b2.lfree.cn.mt&alpn=h3&sni=dd4973b2.lfree.cn.mt&fp=random#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://69b73277-99ed-6b7f-f52b-79b98093e7ae@211.216.185.56:20150?security=tls&type=ws&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433&host=dd4973b2.lfree.cn.mt&alpn=h3&sni=dd4973b2.lfree.cn.mt&fp=random#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

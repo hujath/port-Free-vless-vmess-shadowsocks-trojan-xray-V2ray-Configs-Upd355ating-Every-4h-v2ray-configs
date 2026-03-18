@@ -1,6 +1,0 @@
-vless://690541bd-ba05-4163-b5e5-08693f9b363b@84.201.133.58:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#VayNora
-vless://725d4721-6f22-4448-9cd6-03939a7f76ca@51.250.75.192:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#VayNora
-vless://887c12db-b5ba-44c0-90fd-2e56533ac4e3@51.250.75.192:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#VayNora
-vless://af0947e4-ae90-4b56-a86b-9a6a8641dabf@84.201.133.58:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#VayNora
-vless://12084f05-a592-4b51-82be-fe2e548d1a8c@51.250.111.159:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=rutube.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664797
-vless://2be9c5ee-6cf1-4c11-93d4-3da1ef00a9ed@51.250.111.159:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=rutube.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874445
