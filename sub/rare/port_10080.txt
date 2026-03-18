@@ -1,0 +1,2 @@
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@51.250.100.166:10080?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=fs-main.estesis.tech&pbk=3A5zfKbNREk1vibr6yp4DWBWOR8BL31vBybWqe81UHE#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907819
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@90.156.150.212:10080?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=fs-main.estesis.tech&pbk=4nbbYd6jYtPPiWiHL-NTleD8ejBulOjXLVIKZLAWdDk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736874

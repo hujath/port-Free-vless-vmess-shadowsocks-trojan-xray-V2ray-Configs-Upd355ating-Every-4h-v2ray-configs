@@ -1,0 +1,1 @@
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@51.250.100.166:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637294
