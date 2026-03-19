@@ -1,1 +1,0 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@23.95.123.243:13312?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.indevs.in&alpn=http%252F1.1&sni=snippet.fgfw.indevs.in&fp=random#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
