@@ -1,0 +1,1 @@
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@84.201.153.2:54444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=sso.passport.yandex.ru&pbk=om55DmMjNGOg4Dp_zNEP_pqPKj4HM1XOJ2PcOt8aYRE#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789558
