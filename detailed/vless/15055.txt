@@ -1,0 +1,1 @@
+vless://abeb2592-61e4-47af-93bd-7de97e90eb9b@usrna.osaip.net:15055?security=tls&type=grpc&mode=gun&serviceName=violet&sni=usrna.osaip.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
