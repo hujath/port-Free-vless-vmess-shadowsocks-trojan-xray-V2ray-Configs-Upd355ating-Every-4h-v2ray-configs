@@ -1,1 +1,2 @@
 vless://16a5322b-0db6-45b7-9506-5aec747d999d@85.133.221.61:543?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://2ac492a1-0edf-4b07-bea0-9a8ef31f99e5@95.163.209.139:543?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=9kA2GwatajG_vCB2pWb4hw29LTJsxZ6ab3zbtof4SnI#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20603474
