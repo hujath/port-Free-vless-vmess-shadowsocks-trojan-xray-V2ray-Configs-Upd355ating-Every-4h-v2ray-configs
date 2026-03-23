@@ -3,6 +3,7 @@ vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?path=/?ed=2096&se
 vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?security=none&type=httpupgrade&headerType=&path=/?ed=2096&host=aza002.vaslbash.site&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2095?path=/?ed=2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#🇩🇪 v2ray_configs_pools ✅
 vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?path=/?ed=2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#🇫🇮 v2ray_configs_pools ✅
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2095?path=?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@filembad
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#کانال تلگرام : Free_VPN_CH@
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#🔵@chillguy_vpn
 vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@ConfigV2RayNG+4
@@ -163,8 +164,9 @@ vmess://ewogICAgImFkZCI6ICIxNDEuMTAxLjExNS4xMDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vless://bm.boulvarmoein.shop@bm.boulvarmoein.shop:2095?path=%2FTelegram%40v2rayng_76%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28Aruba%20Networks%29
 vmess://eyJhZGQiOiJ1c3Noc2FiYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNzaHNhIiwicG9ydCI6MjA5NSwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4xIHwgMXhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 vmess://eyJhZGQiOiJ1c3Noc2FiYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNzaHNhIiwicG9ydCI6MjA5NSwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4xIHwgMXhfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@173.245.59.100:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337735
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.20.94:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20458900
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432065
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.2.189:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20565917
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180719
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&host=cnmfangbinxing.cnmfangbinxing-e.workers.dev&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.20.94:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20627456
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622513
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.33.45:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20896905
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.2.189:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942543
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@173.245.59.100:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115813
