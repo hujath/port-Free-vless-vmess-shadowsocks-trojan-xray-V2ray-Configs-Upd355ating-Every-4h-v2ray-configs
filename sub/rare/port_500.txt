@@ -1,3 +1,1 @@
-ss://YWVzLTEyOC1nY206QFZQTkZvbGRlcg==@20.203.137.25:500#%F0%9F%87%A8%F0%9F%87%ADCH-20.203.137.25-0006
-ss://YWVzLTEyOC1nY206QFZQTkZvbGRlcg==@52.232.130.180:500#%F0%9F%87%A8%F0%9F%87%A6CA-52.232.130.180-0004
 vless://a487adab-0644-4f80-9643-d3036b9f17c6@95.85.251.124:500?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=unpkg.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
