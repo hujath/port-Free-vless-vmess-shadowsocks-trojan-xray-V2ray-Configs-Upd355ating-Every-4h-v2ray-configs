@@ -1,3 +1,2 @@
 vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=&encryption=none&headerType=none&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#💎@ConfigV2RayNG
-vless://0bd5a364-6bb7-4c16-b46d-d58f9ca71191@5.188.115.23:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=yandex.ru&pbk=HlY026ybIy--Y4D5IBGC-a3qNRIsq-uvKPRK9vawVyo&sid=ad7dab462a323acb#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20565715

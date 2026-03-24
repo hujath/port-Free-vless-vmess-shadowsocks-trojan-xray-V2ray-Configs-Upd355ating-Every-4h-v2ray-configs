@@ -1,2 +1,3 @@
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#@v2raybaaz 👾
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?encryption=none&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&security=reality&sid=99de062f46387d3e&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

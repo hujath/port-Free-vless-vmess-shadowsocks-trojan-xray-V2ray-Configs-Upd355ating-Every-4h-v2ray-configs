@@ -1,1 +1,2 @@
 vless://7a8faa8d-1af3-46e8-aede-90aad5faa0c6@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#@v2rayconfigamir 4956
+vless://7a8faa8d-1af3-46e8-aede-90aad5faa0c6@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
