@@ -1,7 +1,7 @@
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0249
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0253
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?sni=www.nintendogames.net&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569600
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292783
