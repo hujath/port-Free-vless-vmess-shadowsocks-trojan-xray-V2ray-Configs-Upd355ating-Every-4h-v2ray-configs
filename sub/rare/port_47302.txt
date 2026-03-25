@@ -1,1 +1,0 @@
-vless://001a44d7-69e6-03e8-8d11-828fe2119621@89.208.230.113:47302?encryption=none&type=ws&security=tls&path=/edge-sync/a3f9c7b1/stream/telemetry/v1/ws&fp=firefox&sni=cdn-node-01.a3f9c7.edgeflux.ru&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575438
