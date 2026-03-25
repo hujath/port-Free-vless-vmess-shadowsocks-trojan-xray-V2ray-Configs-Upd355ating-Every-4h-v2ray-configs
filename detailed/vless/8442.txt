@@ -1,4 +1,0 @@
-vless://0f41fc07-4765-46c6-a5b5-2636284c19b3@158.160.127.84:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625497
-vless://0f41fc07-4765-46c6-a5b5-2636284c19b3@158.160.149.230:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20309914
-vless://0f41fc07-4765-46c6-a5b5-2636284c19b3@158.160.149.230:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637238
-vless://0f41fc07-4765-46c6-a5b5-2636284c19b3@158.160.41.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20842758
