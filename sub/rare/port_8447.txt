@@ -1,4 +1,0 @@
-vless://11b5d2b8-dc69-44ce-8906-319a4b65f18e@158.160.118.15:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904826
-vless://11b5d2b8-dc69-44ce-8906-319a4b65f18e@158.160.124.158:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=botapi.max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956598
-vless://11b5d2b8-dc69-44ce-8906-319a4b65f18e@158.160.124.158:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20746112
-vless://11b5d2b8-dc69-44ce-8906-319a4b65f18e@158.160.124.158:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20469764
