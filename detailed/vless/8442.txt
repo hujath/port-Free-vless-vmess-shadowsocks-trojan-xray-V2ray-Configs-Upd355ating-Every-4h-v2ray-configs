@@ -1,0 +1,4 @@
+vless://386c490f-4344-4517-b960-a2ccfc6857cc@158.160.113.223:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922994
+vless://386c490f-4344-4517-b960-a2ccfc6857cc@158.160.113.223:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20794771
+vless://386c490f-4344-4517-b960-a2ccfc6857cc@158.160.118.15:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776156
+vless://386c490f-4344-4517-b960-a2ccfc6857cc@158.160.124.158:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698472
