@@ -1,0 +1,4 @@
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876920
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443130
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342562
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.114.3:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20227080

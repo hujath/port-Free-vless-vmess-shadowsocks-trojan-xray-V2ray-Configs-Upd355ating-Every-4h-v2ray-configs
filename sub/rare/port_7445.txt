@@ -1,0 +1,4 @@
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474891
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904111
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.104.20:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20278671
+vless://1e10eb71-31f7-4e65-8722-e092317f8a96@158.160.114.3:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20869967
