@@ -1,3 +1,1 @@
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.200.167-0851
-trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
-trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

@@ -1,2 +1,2 @@
-vless://9244aecd-f286-4621-bcc2-5388624ecda0@fanstar.yournamephoto.com:5443?security=none&encryption=none&headerType=none&type=tcp#@proxy_nps
 vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@45.151.106.62:5443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&sni=eh.vk.com&sid=4ef7cdbc#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://199365d6-bb2e-4125-8200-99b6fe945ce0@87.228.33.115:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&sid=5cae63084b3281f3&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20127835
