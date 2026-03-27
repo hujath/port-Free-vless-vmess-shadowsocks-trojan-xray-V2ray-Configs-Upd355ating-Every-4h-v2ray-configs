@@ -1,5 +1,0 @@
-vless://9244aecd-f286-4621-bcc2-5388624ecda0@fanstar.yournamephoto.com:5443?security=none&encryption=none&headerType=none&type=tcp#@proxy_nps
-vless://9244aecd-f286-4621-bcc2-5388624ecda0@fanstar.yournamephoto.com:5443?security=none&type=tcp&headerType=&path=&host=#@crayingroom
-vless://9244aecd-f286-4621-bcc2-5388624ecda0@fanstar.yournamephoto.com:5443?security=none&type=tcp&headerType=&path=&host=#@icv2ray
-vless://9244aecd-f286-4621-bcc2-5388624ecda0@fanstar.yournamephoto.com:5443?security=none&type=tcp&headerType=&path=&host=#@v2ray_freex
-vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@45.151.106.62:5443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&sni=eh.vk.com&sid=4ef7cdbc#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
