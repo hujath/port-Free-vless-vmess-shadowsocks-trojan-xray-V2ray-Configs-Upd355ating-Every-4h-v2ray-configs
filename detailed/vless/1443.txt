@@ -1,2 +1,2 @@
-vless://9a1ac29b-4da9-4164-afb1-aa7ff67d300c@93.185.166.71:1443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=nl17.fastlanehosting.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://9a1ac29b-4da9-4164-afb1-aa7ff67d300c@93.185.166.71:1443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=nl17.fastlanehosting.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20189569
+vless://0e99b693-bfa8-45bc-a1d0-b3a9ac2c172b@87.228.33.115:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=alfabank.ru&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&sid=f6f561090bdf7bf4&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845066
+vless://4f00be9b-fcb0-4f74-8bc4-bb13fbbfe04f@87.228.33.115:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=alfabank.ru&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&sid=f6f561090bdf7bf4&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892137
