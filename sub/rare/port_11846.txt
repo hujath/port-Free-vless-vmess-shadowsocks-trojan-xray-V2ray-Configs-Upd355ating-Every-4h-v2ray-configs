@@ -1,1 +1,1 @@
-vless://ae0e984d-423e-4d80-8c0e-1d127340b3b9@150.241.203.76:11846?encryption=none&fp=chrome&pbk=e0Ab0q-jsGRsEclV-tUUoNM3-g79sWQqSL4k7UYft3w&security=reality&sid=49&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://1ad4aa60-9050-4bc2-b3c6-551fd3bd8c09@138.124.74.14:11846?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=botapi.max.ru&pbk=arAwNjquRc-K-e2VLZPRRUkkdrKRD6IE6JnSGFkYLj0&sid=f662b919db245a&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20402954
