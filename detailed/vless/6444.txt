@@ -1,2 +1,1 @@
-vless://4609255a-bff6-40ab-87fd-c1d5ee7eba15@185.86.147.60:6444?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=ads.x5.ru&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20431895
-vless://46e51957-3b0b-4ec9-85a5-8355e19aea28@89.208.85.162:6444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=de-one.cloudload.org&alpn=http/1.1,h2#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542700
+vless://4609255a-bff6-40ab-87fd-c1d5ee7eba15@185.86.147.60:6444?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=ads.x5.ru&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20408542
