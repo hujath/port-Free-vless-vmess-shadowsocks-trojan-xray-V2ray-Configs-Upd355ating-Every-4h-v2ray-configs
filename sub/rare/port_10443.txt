@@ -1,0 +1,1 @@
+vless://05c977b5-429b-4b47-afaa-12120a673218@89.223.30.11:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=3TXiQ_nOEbHDxoCkOFXSr4ZtX8U0F9HAKV65OBhcYH4&sid=8b5046caa360511d&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196805
