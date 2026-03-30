@@ -1,0 +1,1 @@
+vless://483e0d99-555f-445f-8a77-13d3627a1807@193.233.251.27:4434?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.intel.com&pbk=Hste-1EoX1_A6LNbx_YH-HYud10wLYIkW6xkLjUi2Xs&sid=5c3a99a9c9&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124784
