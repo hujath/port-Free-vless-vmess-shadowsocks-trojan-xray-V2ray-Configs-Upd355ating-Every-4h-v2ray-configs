@@ -1,0 +1,2 @@
+vless://0b15a7b8-8007-4b89-b719-ba09e5ad4d7a@217.13.104.133:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=alfabank.ru&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&sid=f6f561090bdf7bf4&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20765447
+vless://0b15a7b8-8007-4b89-b719-ba09e5ad4d7a@188.225.85.64:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=alfabank.ru&pbk=0M_hq99Vaiygfg0P3Xd0J6X-ljwQ58Ao3z_h_U9zQBI&sid=2698f4118fc6aebc&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20265212
