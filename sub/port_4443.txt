@@ -3,6 +3,4 @@ trojan://strong-secret-pass-777@94.131.105.125:4443?security=tls#%F0%9F%87%B2%F0
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&sni=103.231.73.181#%F0%9F%87%B1%F0%9F%87%BBLV-103.231.73.181-4664
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#%40V2ray_confiig`
 trojan://strong-secret-pass-777@94.131.105.125:4443?#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B0
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.154.106.201:4443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.dedyn.io&alpn=http%2F1.1%0A&sni=snippet.danfeng.dedyn.io&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.133.251.12:4443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.gleeze.com&alpn=http%2F1.1%0A&sni=snippet.danfeng.gleeze.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://b78d1925-3368-4818-8c37-e730f0c15068@5.180.24.11:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20538131
+vless://b78d1925-3368-4818-8c37-e730f0c15068@5.180.24.11:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557717

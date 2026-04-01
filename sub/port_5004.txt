@@ -51,4 +51,4 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5004#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-6791
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.79:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-6794
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%A6
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@194.26.192.251:5004?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Flesson%2Fmall&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20236333
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@194.26.192.251:5004?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Flesson%2Fmall&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20275818
