@@ -3,4 +3,4 @@ vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=no
 vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
-vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20145791
+vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20418599

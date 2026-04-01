@@ -13,10 +13,10 @@ vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20444120
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991969
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856477
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20850731
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417892
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591750
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@212.113.123.15:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20200221
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20788368
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593787
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20390316
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20576801
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509036
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541320
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@147.45.99.130:49169?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20603760
