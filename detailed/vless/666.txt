@@ -1,4 +1,1 @@
 vless://8c7786f2-4894-4848-8eb0-096d91e4c8c1@minecraftiro.com:666?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
-vless://4056ede0-5264-48e1-9075-743c89289923@5.188.115.7:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399965
-vless://4056ede0-5264-48e1-9075-743c89289923@5.188.115.7:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101002
-vless://4056ede0-5264-48e1-9075-743c89289923@5.188.115.7:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759162
