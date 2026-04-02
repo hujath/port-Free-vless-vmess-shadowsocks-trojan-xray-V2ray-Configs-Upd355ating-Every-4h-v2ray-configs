@@ -1,3 +1,0 @@
-vless://8c7786f2-4894-4848-8eb0-096d91e4c8c1@minecraftiro.com:666?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
-vless://4bea3d09-ea29-4e83-8002-2bfffd9a1664@5.188.115.7:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360526
-vless://4bea3d09-ea29-4e83-8002-2bfffd9a1664@5.188.115.7:666?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892879
