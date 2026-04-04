@@ -1,4 +1,0 @@
-vless://48c0f866-4495-413c-b201-6edece806311@80.90.188.174:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20773263
-vless://48c0f866-4495-413c-b201-6edece806311@80.90.188.174:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20472922
-vless://48c0f866-4495-413c-b201-6edece806311@80.90.188.174:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=cdn-vx.barclais.co.uk&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20490420
-vless://48c0f866-4495-413c-b201-6edece806311@80.90.188.174:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=vkvideo.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181598
