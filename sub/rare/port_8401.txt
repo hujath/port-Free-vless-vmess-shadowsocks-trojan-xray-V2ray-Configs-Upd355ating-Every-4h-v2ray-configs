@@ -1,1 +1,2 @@
 vless://00000000-0000-4000-8000-000000000000@144.91.69.217:8401?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=/#@v2rayconfigamir 4442
+vless://00000000-0000-4000-8000-000000000000@144.91.69.217:8401?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
