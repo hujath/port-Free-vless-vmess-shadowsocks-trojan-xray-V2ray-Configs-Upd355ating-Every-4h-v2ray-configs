@@ -1,2 +1,1 @@
 vless://14feeb52-a2e5-44b0-85b6-2bc164a78081@51.250.10.237:52253?mode=gun&security=reality&encryption=none&pbk=45n93AuS2jMhVgBaPrzlgLatIQm2jxH8KYtwK6H7qxc&fp=chrome&type=grpc&serviceName=mfsldfnsdf&sni=web.max.ru&sid=2cd3cb2e134baa#@v2rayconfigamir 8453
-vless://14feeb52-a2e5-44b0-85b6-2bc164a78081@51.250.10.237:52253?encryption=none&type=grpc&serviceName=mfsldfnsdf&security=reality&fp=chrome&pbk=45n93AuS2jMhVgBaPrzlgLatIQm2jxH8KYtwK6H7qxc&sni=web.max.ru&sid=2cd3cb2e134baa#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
