@@ -1,1 +1,2 @@
+vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&security=reality&sid=911451a18252bb5a&sni=www.microsoft.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&sid=911451a18252bb5a&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
