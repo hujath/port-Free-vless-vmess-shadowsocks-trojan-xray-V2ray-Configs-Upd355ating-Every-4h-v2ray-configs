@@ -30,7 +30,7 @@ trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668
 trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://Nova-Proxy@141.101.113.223:8443?type=ws&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&security=tls&sni=small-morning-2668.drusavm.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248677
-trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282278
-trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602824
-trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962681
+trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20681957
+trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20459777
+trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20237224
+trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325785
