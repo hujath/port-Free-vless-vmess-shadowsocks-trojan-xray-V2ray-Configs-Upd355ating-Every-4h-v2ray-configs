@@ -1,2 +1,0 @@
-vless://56de843d-21e1-47cc-b216-b957ef4e23ba@217.16.30.65:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=ff02ab19#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874603
-vless://56de843d-21e1-47cc-b216-b957ef4e23ba@84.252.141.147:9443?encryption=none&type=xhttp&security=reality&host=max.ru&mode=stream-up&extra=null&fp=chrome&sni=max.ru&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=93fa1c#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417139
