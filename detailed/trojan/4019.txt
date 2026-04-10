@@ -3,4 +3,3 @@ trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4019?security=tls&sni=ww
 trojan://187dda4498be9ac4f28db939d5940185@160.16.85.33:4019?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4019?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4019?sni=www.nintendogames.net&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4019?sni=www.nintendogames.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935467
