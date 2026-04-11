@@ -1,2 +1,2 @@
-vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?security=reality&encryption=none&sni=www.nvidia.com&fp=chrome&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&sid=55ba93eb8c&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?encryption=none&fp=chrome&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&security=reality&sid=55ba93eb8c&sni=www.nvidia.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?security=reality&encryption=none&sni=www.nvidia.com&fp=chrome&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&sid=55ba93eb8c&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
