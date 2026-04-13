@@ -10,7 +10,7 @@ vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&h
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_youtube%20%235
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&type=ws&host=DOFF.mehrsazi.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284568
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.109.71:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fjeyk7gbxzfe1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20882073
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669468
-vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178831
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232595
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492815
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.109.71:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fjeyk7gbxzfe1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134343
+vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937617
