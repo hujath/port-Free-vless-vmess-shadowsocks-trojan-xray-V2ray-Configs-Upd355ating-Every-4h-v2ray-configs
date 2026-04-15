@@ -5,6 +5,6 @@ vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&ho
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&security=none&type=ws&host=DOFF.mehrsazi.ir&path=%2F#@Config0plus`
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20806466
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686253
-vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20470704
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184961
+vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20965148
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281710
