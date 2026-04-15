@@ -3,12 +3,12 @@ vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
 vless://137a9fef-629a-4197-abe9-9114a314a77c@snapp.ir:80?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#@Father_VPN
 vless://137a9fef-629a-4197-abe9-9114a314a77c@snapp.ir:80?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#@Father_vpn⁴
-vless://1b619f4d-14aa-4bb7-8e79-bc13ab883cbd@snapp.ir:80?security=none&type=ws&headerType=&path=/?ed=2080&host=1.jojo.avenflow.ir#[27487] - Telegram : @V2All
 vless://20bc570b-0d2e-4514-832b-f588d416bdf2@185.143.234.235:80?path=/&security=none&encryption=none&host=vixon.portab.org&type=ws#@SPARTAN_YT
 vless://20bc570b-0d2e-4514-832b-f588d416bdf2@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@Father_vpn¹
-vless://20bc570b-0d2e-4514-832b-f588d416bdf2@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#NetMeli9-76
 vless://20bc570b-0d2e-4514-832b-f588d416bdf2@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#ترکیب با سایفون https://t.me/
-vless://21613b77-396f-4e38-aa47-f2f273c1c6e2@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#telegram: @hupivpn
+vless://2ff05b5e-cdb2-4cfd-88a1-ebd12612e8eb@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#[27515] - Telegram : @V2All
+vless://2ff05b5e-cdb2-4cfd-88a1-ebd12612e8eb@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#https://t.me/saministamm
+vless://2ff05b5e-cdb2-4cfd-88a1-ebd12612e8eb@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#telegram: @hupivpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🇺🇸 @ProxyVPN11
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80/?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🇺🇸 @ProxyVPN11
@@ -32,6 +32,8 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @ProxyVPN11&
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @RzChanel111&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🦉@FreeConfigForYou
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @irshum2&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#⚡Telegram = @prrofile_purple
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @irshum2&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🦉@FreeConfigForYou
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @vpn_goldx&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#@canfmelishkn جوین شید قط نشید
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/ #@vpn_goldx
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/ @ProxyVPN11#@neet_done👈چنلمون
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🇺🇸 @ProxyVPN11
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🥮3@oneclickvpnkeys
@@ -40,33 +42,31 @@ vless://4ccd858e-20f6-4a7b-be32-10d2b813984b@arvan1.un1ty.ir:80?path=/jesuschris
 vless://4ccd858e-20f6-4a7b-be32-10d2b813984b@arvan1.un1ty.ir:80?path=/jesuschrist&security=none&encryption=none&type=ws#[27511] - Telegram : @V2All
 vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#Tel:@Father_vpn
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@electvpn0
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#🏳️ Join+Telegram:@Farah_VPN 🏳️
 vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@104.18.12.149:80/?type=ws&encryption=none&flow=&host=silent-paper-fa57.fipiyag989.workers.dev&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
 vless://69dcc851-1c6a-4e33-a84a-46415e1d1274@blubank.sb24.ir:80?type=ws&encryption=none&path=/wp-content/litespeed&host=clients.bmind.ir&security=none#@meliproxyy
 vless://86235c1c-e194-45d6-baea-4a744844e66e@openx00236.temp.veraspeed.ir:80?mode=stream-one&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=mlkem768x25519plus.native.0rtt.0oApr9cw-SWX56oDiCnJDTuHHCGSswtvx6Fz5ClR8WsLnCTG89VWLVnEzjwe1uwu1wAsNJI8WVKZnwN0w2HOEVB8Jkxd9rM5crBsfZGOdkmjyCqM0xRX8_czw5Cy8Pm5w8pedEwn5dBcDvZvpUGZOVyzIUQOUGkRoVZYmKdqLCYGYJG6FPE1FeRQ_gxe1VwxbFEGKcFKE-XCSRSAU8HN6lcABCh9bTOJAlcaOxjN5JkIRxgSany3AIWW9owZ-OCKYUwBhAmcwQsnPoiAJYV74ZqgCmrA_YdLp5BiRLlf4-gc8ECNWRe65GIZIBrGzECVz5qD8jatFmhfqQuJRFit2EYikQtleTtnXpuAILGi4UOfMEWXTzALVrSPzmtu0YunLDN0idYu8Ew75uWcf4WHDzWbxbon1vmWqWQQavsgbeJBWSLCgjkHjXxka4OAjNsZ74hgnxDPcpmdW0mZWfZee-lH4riOzHKogmdN82pEwdVpJLyYSzBmgXReBzg9VVa2GQFDI4ZGfPh-NJkWNgkVeHF0JYgrdpTOLJy-hwwqilFtyGB7gdAmjPXLZHt26Cw5KZbDpsSETJFT9Eed0aKvBekf7xc5UpkkeaFbscobPJZubohHu-aJWZqiZoaZcfNsRjqlf4hZiUtLv9C5mNIfE_tfxkch1QIAOnwAjrsam-APPHWax5Fg-fQHtyeNpUbBAoJeQPc3eFm8xKVvjPYZr_RV_6KphCs5bvVS3Dh2n3LKFAwbbth7jHNSQps4uldBdLCXc8RZg5OeeeRo1ja7RVQYYEcF4WdGtBZxBhtiSItjbisDfTmHKyWHo1Y36DTCtjmG3da3G-iVWwPLIXumgnFt1okroVgeAkAGf-hA5icEnHobSIMc7_K7uqynA8aKishXKwGdQgmG6ktRHnIxSsR5TnYYITGaVbtSZGeooiGU78W2BcBBpVB3whZJI0Q1pjlDA7u1zOgTWOW0vambwcKpj4ksMPU90BUllJpow9JDuHgHp7YoSGrFe0OEPjcIo6MBd0k0SMQGuXPIGohxIlB7vdgTJwau-Yl-mROpRzwpzhMYQusLC7A0_OKbyiTEkWzJKHVwDAW8iGiaaOuMdORaIhskLEVq0GN3usp_zci1Y8c1LmQhKwhhk_Zm8Cuh_6O4bnpnrlWnpFWomOWOGElx7iCbzPg0pjeQJ3k4QYwI51DJsfcRnEpbFslzTZReOaHGzviF6sG_w7Ijz5oIa0c9BkUbt8lwJ5rHUNcW-IYqe-mLcpmwg2eUPyNgukF03ORbFjhumTqJw1hSL4ZwinYvByc4CwO8_quFu5CnGyYmBOOInTJZiGJ4zQqi0EG2rFlAcmaPIKSLgty7v9obAMOruLOCHGDAipYe6mcgW4iPCgO2faNTYamXXolhJ3cVnQs30XBC0jkhjpoYfRlaimt5uCoYinu8pWYZMjzL_qkrqSCXzepDWHkKuVdiE4J49NJRUlk8nVKaVlEDpAmpxKcnyTl10QVm04yecYQ_DCOq1eBWWpsNFPlfC2Sk6xcng5b1lvsmqEf42ECTWZl5u0qxQuUQ6mSXFBjr_o_V5-o&extra={"headers":{"User-Agent":"grpc-dotnet/2.41.0(.NETFramework;CLR4.0.30319.42000;netstandard2.0;windows;x86)"}}&host=alijon.11.avenflow.ir&type=xhttp#🦉@FreeConfigForYou
 vless://86235c1c-e194-45d6-baea-4a744844e66e@openx00236.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#🦉@FreeConfigForYou
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&security=none&type=ws#🐵9@oneclickvpnkeys
-vless://9c671801-a3ec-4640-aec1-236427dba2aa@snapp.ir:80?path=/&security=&encryption=none&host=bb.sabzserver.ir&type=ws#filembad-247
 vless://9d9416b4-3cbc-4e45-9885-417b177b9376@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#@icv2ray
+vless://9d9416b4-3cbc-4e45-9885-417b177b9376@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#@saministamm
+vless://9ddbe9f3-41e8-463a-8b31-01ebed0e771a@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=mail.frontendev.ir&path=/#NetMeli9-249
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&security=none&type=ws#🍏5@oneclickvpnkeys
 vless://a84a171f-b228-4f47-adec-c11737df2ed9@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Tel;@Father_vpn³
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rayngzendegimamad🕊️
 vless://ab1bf57b-0644-4994-971b-ac585a851809@link2x06473.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@ehsawn8
-vless://ae900447-0404-4e1b-b127-2fb3be878d61@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#telegram: @hupivpn
 vless://b08e1d69-9c4c-4625-bbe7-fe2ff0a52bc7@javad201529.temp.veraspeed.ir:80?mode=stream-one&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=mlkem768x25519plus.native.0rtt.0oApr9cw-SWX56oDiCnJDTuHHCGSswtvx6Fz5ClR8WsLnCTG89VWLVnEzjwe1uwu1wAsNJI8WVKZnwN0w2HOEVB8Jkxd9rM5crBsfZGOdkmjyCqM0xRX8_czw5Cy8Pm5w8pedEwn5dBcDvZvpUGZOVyzIUQOUGkRoVZYmKdqLCYGYJG6FPE1FeRQ_gxe1VwxbFEGKcFKE-XCSRSAU8HN6lcABCh9bTOJAlcaOxjN5JkIRxgSany3AIWW9owZ-OCKYUwBhAmcwQsnPoiAJYV74ZqgCmrA_YdLp5BiRLlf4-gc8ECNWRe65GIZIBrGzECVz5qD8jatFmhfqQuJRFit2EYikQtleTtnXpuAILGi4UOfMEWXTzALVrSPzmtu0YunLDN0idYu8Ew75uWcf4WHDzWbxbon1vmWqWQQavsgbeJBWSLCgjkHjXxka4OAjNsZ74hgnxDPcpmdW0mZWfZee-lH4riOzHKogmdN82pEwdVpJLyYSzBmgXReBzg9VVa2GQFDI4ZGfPh-NJkWNgkVeHF0JYgrdpTOLJy-hwwqilFtyGB7gdAmjPXLZHt26Cw5KZbDpsSETJFT9Eed0aKvBekf7xc5UpkkeaFbscobPJZubohHu-aJWZqiZoaZcfNsRjqlf4hZiUtLv9C5mNIfE_tfxkch1QIAOnwAjrsam-APPHWax5Fg-fQHtyeNpUbBAoJeQPc3eFm8xKVvjPYZr_RV_6KphCs5bvVS3Dh2n3LKFAwbbth7jHNSQps4uldBdLCXc8RZg5OeeeRo1ja7RVQYYEcF4WdGtBZxBhtiSItjbisDfTmHKyWHo1Y36DTCtjmG3da3G-iVWwPLIXumgnFt1okroVgeAkAGf-hA5icEnHobSIMc7_K7uqynA8aKishXKwGdQgmG6ktRHnIxSsR5TnYYITGaVbtSZGeooiGU78W2BcBBpVB3whZJI0Q1pjlDA7u1zOgTWOW0vambwcKpj4ksMPU90BUllJpow9JDuHgHp7YoSGrFe0OEPjcIo6MBd0k0SMQGuXPIGohxIlB7vdgTJwau-Yl-mROpRzwpzhMYQusLC7A0_OKbyiTEkWzJKHVwDAW8iGiaaOuMdORaIhskLEVq0GN3usp_zci1Y8c1LmQhKwhhk_Zm8Cuh_6O4bnpnrlWnpFWomOWOGElx7iCbzPg0pjeQJ3k4QYwI51DJsfcRnEpbFslzTZReOaHGzviF6sG_w7Ijz5oIa0c9BkUbt8lwJ5rHUNcW-IYqe-mLcpmwg2eUPyNgukF03ORbFjhumTqJw1hSL4ZwinYvByc4CwO8_quFu5CnGyYmBOOInTJZiGJ4zQqi0EG2rFlAcmaPIKSLgty7v9obAMOruLOCHGDAipYe6mcgW4iPCgO2faNTYamXXolhJ3cVnQs30XBC0jkhjpoYfRlaimt5uCoYinu8pWYZMjzL_qkrqSCXzepDWHkKuVdiE4J49NJRUlk8nVKaVlEDpAmpxKcnyTl10QVm04yecYQ_DCOq1eBWWpsNFPlfC2Sk6xcng5b1lvsmqEf42ECTWZl5u0qxQuUQ6mSXFBjr_o_V5-o&host=alijon.11.avenflow.ir&type=xhttp#🦉@FreeConfigForYou
-vless://b0b6cb7b-62b4-4a65-b7a3-b8a289535f72@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#telegram: @hupivpn
-vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#canfingV2rayNG-275
-vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#LoopLine_Ir-277
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80/?type=ws&encryption=none&flow=&host=vixon.portab.org#filembad-311
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#NetMeli9-281
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#🦉@FreeConfigForYou
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@SPEEDS_VPN-جوین-بدید
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@SPEEDS_VPN-جوین-بدید Ping 🟢 ترکیبی    Join us: @hupivpn
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#[27495] - Telegram : @V2All
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@Father_vpn
-vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#telegram: @hupivpn
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#⚡Telegram = @prrofile_purple
 vless://bd8c5fce-aec8-458d-bb41-7c442250a353@snapp.ir:80?encryption=none&host=Darxhinteam.bravo-six.ir&path=/&security=none&type=ws#@icv2ray
+vless://bd8c5fce-aec8-458d-bb41-7c442250a353@snapp.ir:80?encryption=none&host=Darxhinteam.bravo-six.ir&path=/&security=none&type=ws#@saministamm
+vless://d8ad3de0-47ab-4043-b1bd-68f526c74099@37.32.27.85:80?path=/&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#[27514] - Telegram : @V2All
 vless://d8ad3de0-47ab-4043-b1bd-68f526c74099@37.32.27.85:80?path=/&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#telegram: @hupivpn
 vless://da70bf4e-da1a-487e-9ebe-5d9e02f8cd73@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Tel;@Father_vpn²
 vless://e1dc143a-8dfa-4de9-a627-9df1b1282921@pablo.kaktusmarket.ir:80?path=/&security=none&encryption=none&type=ws#Tel;@Father_vpn
@@ -75,13 +75,13 @@ vless://ebc4099f-ac3a-4c12-b634-c2fa0664c018@185.143.234.235:80?path=/@ICV2RAY&s
 vless://ebdb70b9-155a-419e-8bdf-d2834c3ff9c0@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@icv2ray
 vless://ebdb70b9-155a-419e-8bdf-d2834c3ff9c0@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@saministamm
 vless://ebdb70b9-155a-419e-8bdf-d2834c3ff9c0@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#[27510] - Telegram : @V2All
+vless://ebdb70b9-155a-419e-8bdf-d2834c3ff9c0@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#telegram: @hupivpn
 vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#(جوین نشدیا!!) MPCDOF@⅞
 vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@Father_vpn¹
 vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@SPARTAN_YT
 vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#Rz
 vless://f190acf5-d6d6-4a26-97b2-88205d703d2f@104.18.16.56:80?path=/&security=none&encryption=none&host=Datagram.gameredzone.top&type=httpupgrade#𝐓𝐞𝐥 : 𝐒𝐭𝐚𝐫𝐥𝐢𝐧𝐤_𝐯𝐢𝐩 🚀
 vless://f41889e1-d40c-4634-9e24-6fc9457b20dc@vip3-nightgemshop.sap-tanbol.ir:80?encryption=none&type=ws&host=vip3-nightgemshop.sap-tanbol.ir&path=/&security=none#Join us: RzChanel1
-vless://f5e971a1-4643-44ef-a7d4-ed4e75d8dda2@snapp.ir:80?security=none&type=ws&headerType=&path=/?ed=2080&host=1.jojo.avenflow.ir#[27486] - Telegram : @V2All
 vless://f667f7f1-6794-4918-8aca-d3b2401ede5c@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@icv2ray
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.18.12.149:80?path=/ @ProxyVPN11&security=&encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#🇺🇸 @ProxyVPN11
 vmess://eyJhZGQiOiIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLCJhaWQiOjAsImhvc3QiOiIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLCJpZCI6IjRhNzVjM2JhLWYyZTktMTFlZC1iZjFiLWYyM2M5MTM2OWYyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJtZWxpYmF6eiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
@@ -129,10 +129,10 @@ vless://SVNTEAM@185.146.173.59:80?path=/SvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048
 vless://62f4a6db-a57a-4b56-9e7d-b00418c4f816@151.101.3.8:80?path=/%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn&amp%3Bencryption=none&amp%3Bhost=aklisturkey.org&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40tobevasl%20%231
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=/telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=4.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.www.zula.ir.vu.cloudflare.com.mashtimJi.iR.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40v2logy%20%231
 vless://telegram-id-ArV2ray@185.146.173.158:80?path=/telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40v2logy%20%232
-vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ar.liarashop.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://e92933f3-a778-4b6d-b2a9-e67a6a5f1fce@snapp.ir:80?security=none&amp%3Btype=ws&amp%3Bpath=/%3Fed%3D2080&amp%3Bhost=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=a.xn--i-sx6a60i.us.kg.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2rayngalpha%20%232
 vless://1260fbdc-57b6-4e2c-a76f-c6f748d26917@151.101.3.8:80?mode=auto&amp%3Bpath=/-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=fotofactory.pk&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%231
-vless://TELEGRAM-CONFiGLiNE-29@test.fast.hosting-ip.com:80?mode=auto&amp%3Bpath=/telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=panelvipasli.io&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%232
+vless://TELEGRAM-CONFiGLiNE-29@test.fast.hosting-ip.com:80?mode=auto&amp%3Bpath=/telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=panelvipasli.io&amp%3Btype=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%231
 vless://70d8031f-28ed-4602-9a76-9e0731b22af3@185.143.235.253:80?security=none&amp%3BallowInsecure=0&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bhost=ss.oppobot.ir&amp%3Bpath=%40vmesskhodam%3C/code%3E%3Cbr/%3E%3Cbr/%3E%3Ctg-emoji#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
 ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg==@185.111.156.33:80#%3E%3E%40configshub2%3A%3AUS
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVpnOfficial%3A%3ASG
@@ -220,7 +220,6 @@ vless://4e6bed59-1b49-4198-856d-97916b15e24c@104.17.147.22:80?path=/%40Vpn_Mikey
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=/telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=6.v.v.V-_-_-V2ray-_-_-V.v.v.vg.www.speedtest.net.uv.Zula.ir.cloudflare.com.mehpOw.iR.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40v2logy%20%233
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/join---MTMVPN---join%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=redfree8.pooriashop.ir&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ra_ng_iran%20%233
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/join---MTMVPN---join%3Fed%3D2560&amp%3Bencryption=none&amp%3Bhost=redfree8.pooriashop.ir&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ra_ng_iran%20%234
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?amp%3Bencryption=none&amp%3Bhost=vixon.portab.org&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%233
 vless://0b5d07af-3a5d-42f5-92f7-cce38e9f31db@snapp.ir:80?path=/FIRELINK&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=firelink.arian-go-internet.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2rayngvpn_1%20%231
 vmess://ewogICAgImFkZCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjYwZjMwZTI2LTBhZjctNGI2NC1iYTk0LTcxNDUwZWQ3N2UyMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctMTM5Ljk5LjYxLjUzLTA0MDkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICIxMzkuOTkuNjEuNTMiCn0=
 vmess://ewogICAgImFkZCI6ICIxMDMuMTY2LjE4My4yMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi90YW5kdW5nMjg4LmNsaWNrIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hu/Cfh7NWTi0xMDMuMTY2LjE4My4yMjYtMDQzNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImRsLmtndm4uZ2FyZW5hbm93LmNvbSIKfQ==
@@ -634,88 +633,89 @@ vless://8973c3c2-803f-41db-9efa-fbef67d47567@104.19.96.214:80?encryption=none&se
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20805669
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20519311
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20158727
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?encryption=none&host=sss.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20635244
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20899593
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20443681
-vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20330056
-vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@104.18.32.47:80/?type=ws&encryption=none&flow=&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20531405
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496654
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497071
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628876
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543468
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246994
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353837
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.169.216:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956318
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.169.216:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115191
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80/?type=ws&encryption=none&flow=&host=mute-violet-c674.poviy66273.workers.dev&path=%2F%3Fed#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489050
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437419
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20739086
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20731795
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&host=sss.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20250975
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924661
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20711337
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179169
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255907
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?security=&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594360
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690930
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&host=sss.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437241
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20641246
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327749
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20201813
-vless://73d17f62-d0c0-4c90-903c-a2b3f3806cca@104.19.151.106:80?encryption=none&host=fragrant-tooth-a5b7.cajeba6448.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143523
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20423216
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80/?type=ws&encryption=none&flow=&host=lucky-voice-d6f3.difat89954-0c6.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403183
-vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684228
-vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218254
-vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&host=c.iamdt.dpdns.org&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492084
-vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&host=c.iamdt.dpdns.org&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164809
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217179
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20269396
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528738
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569848
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323239
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252273
-vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20642731
-vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110844
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630505
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946705
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20880823
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697526
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534160
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20493012
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80/?type=ws&encryption=none&flow=&host=pq-bosniaandherzegovina1.09vpn.com&path=%2Fvless%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180093
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677114
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20785490
-vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607744
-vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305482
-ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg==@185.111.156.33:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879897
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20753677
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20271933
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341929
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@45.140.43.27:80?encryption=none&host=nnet.online&path=%2Fvless-ntls&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504529
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.64.80.1:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20788780
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80/?type=ws&encryption=none&flow=&host=lively-brook-c471.nedena3319.workers.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972809
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204307
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20655551
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705392
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994031
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=none&flow=&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20940812
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626814
-vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80?encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20591636
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.224.5:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764920
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80/?type=ws&encryption=none&flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524052
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948911
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20644296
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20384133
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@45.140.43.27:80?encryption=none&host=nnet.online&path=/vless-ntls&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322610
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?type=ws&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721444
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?encryption=none&security=none&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318897
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20545195
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805861
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20604131
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20644476
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?type=ws&encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20780605
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214403
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80/?type=ws&encryption=none&flow=&host=mute-violet-c674.poviy66273.workers.dev&path=%2F%3Fed#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20221937
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20264676
+vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80?encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20109908
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.169.216:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528951
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.169.216:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20499880
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80/?type=ws&encryption=none&flow=&host=lucky-voice-d6f3.difat89954-0c6.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20279169
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80/?type=ws&encryption=none&flow=&host=lively-brook-c471.nedena3319.workers.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677864
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?type=ws&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20817839
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?encryption=none&security=none&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664803
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20629213
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20129762
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110405
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830862
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20336498
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80/?type=ws&encryption=none&flow=&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492709
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?type=ws&encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979422
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228337
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219796
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20846189
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651912
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20280894
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210079
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20718263
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20785092
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20376234
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20835111
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465350
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671537
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925317
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727999
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20930914
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20635585
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80/?type=ws&encryption=none&flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529867
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20691554
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342536
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20702415
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830013
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20340723
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20858941
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220846
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20599685
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.224.5:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610810
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104584
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20300510
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307245
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153179
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80/?type=ws&encryption=none&flow=&host=pq-bosniaandherzegovina1.09vpn.com&path=%2Fvless%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20157665
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179884
+vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20676948
+vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20693721
+ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20700405
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg==@185.111.156.33:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20786438
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485224
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735803
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20220043
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20824278
+vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@45.140.43.27:80?encryption=none&host=nnet.online&path=%2Fvless-ntls&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652872
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20451743
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807793
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20272434
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764784
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20350978
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413057
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20186523
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&host=c.iamdt.dpdns.org&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577724
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.49:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643983
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?encryption=none&host=sss.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248100
+vless://73d17f62-d0c0-4c90-903c-a2b3f3806cca@104.19.151.106:80?encryption=none&host=fragrant-tooth-a5b7.cajeba6448.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20359135
+vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@104.18.32.47:80/?type=ws&encryption=none&flow=&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20493713
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20837196
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101760
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148709
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?security=&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305476
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20811175
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135224
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20869030
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341932
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526663
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?type=ws&encryption=none&host=vip.yaml7.ggff.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281411
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900514
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20609763
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20358519
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20395557
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&host=c.iamdt.dpdns.org&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662441
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80?path=/index.html&security=none&encryption=none&host=cdnhtzner.yas-baaq.ir&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412773
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@104.18.12.149:80?type=ws&encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674033
