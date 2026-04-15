@@ -1,2 +1,0 @@
-vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@45.139.27.100:9893?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671382
-vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@45.139.27.100:9893?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.id.vk.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843178
