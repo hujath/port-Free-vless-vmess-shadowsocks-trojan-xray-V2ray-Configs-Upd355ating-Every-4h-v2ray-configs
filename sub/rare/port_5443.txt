@@ -1,0 +1,1 @@
+vless://00b0f986-fb5f-427f-9275-6ab82e12eb39@188.225.74.242:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=keHhPKz4xvYjdDqWvhqDUduBtjer2G8fPKdd07bOtXQ&sid=681a5030d68c9ac2&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20893613
