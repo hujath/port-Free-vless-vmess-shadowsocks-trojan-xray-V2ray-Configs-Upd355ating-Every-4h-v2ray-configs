@@ -9,5 +9,5 @@ trojan://trojan@152.53.200.167:8444?allowInsecure=1&sni=jflsjlaf.pages.dev&ws=1&
 trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A59
 trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A520
 trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A541
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://trojan@152.53.60.198:8444/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://trojan@152.53.200.167:8444?host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%25252F%25252F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
