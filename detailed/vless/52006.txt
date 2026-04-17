@@ -16,4 +16,4 @@ vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.65.121:52006?allowInsecure=1
 vless://75807638-6f19-2710-ae08-38492ee85c88@95.213.143.248:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️87@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@95.213.184.52:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️90@oneclickvpnkeys
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
-vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20263064
+vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406506
