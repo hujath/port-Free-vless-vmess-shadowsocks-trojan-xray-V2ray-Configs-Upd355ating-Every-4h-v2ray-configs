@@ -1,8 +1,6 @@
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%3E%3E%40v2nodes%3A%3ASG
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%ACSG-194.87.10.31-0259
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730358
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207741
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849490
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651948
