@@ -1,3 +1,2 @@
 vless://1955433c-a18a-4f0c-8837-390226193372@45.66.163.139:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yvkNZISxbowAMxh-4NDS6GNcOeL0ziCmfkJ8PgZSTUY&security=reality&sid=30f8&sni=google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://931a52bd-8a65-4df7-a50a-c758f19d010c@193.23.194.32:5443?encryption=none&fp=&pbk=lA2s-Trf3ZL92OgmBL9ML0odq6W4ruDaOKqMzeXTPRY&security=reality&sid=bc49bac5926c3284&sni=google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://30f0da77-f6d1-4517-b262-bfff60a3236b@217.13.104.133:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&sid=5cae63084b3281f3&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20565871
