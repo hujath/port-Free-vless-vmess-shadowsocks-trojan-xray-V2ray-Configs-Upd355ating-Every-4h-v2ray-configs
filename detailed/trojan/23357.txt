@@ -1,12 +1,10 @@
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%3E%3E%40v2nodes%3A%3ASG
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%ACSG-194.87.10.31-0297
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=1&sni=sgp9.node-resource.click#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20CCZZUU.TOP
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20365.1KB%2Fs
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%ACSG-194.87.10.31-0306
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF%20347.8KB%2Fs
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=1&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357/?type=tcp&security=tls&sni=sgp8.node-resource.click&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677663
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884100
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20868137
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294092
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20672991
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759101
