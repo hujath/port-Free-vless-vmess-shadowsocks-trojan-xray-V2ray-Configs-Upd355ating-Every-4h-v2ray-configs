@@ -72,4 +72,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-6667
 trojan://a170b44c2dfac9e6@116.129.253.134:3389?security=tls&sni=116.129.253.134#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.253.134-0002
 trojan://e37c6d7efa845d60@116.129.253.130:3389?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.253.130-0001
-vless://bafacd98-136a-4530-838d-4e5c51838dac@203.168.131.112:3389?security=tls&type=ws&path=%2Falbums%2Ftxt%2Fjuzibaipiao&host=juzi8186.qea.ccwu.cc&sni=juzi8186.qea.ccwu.cc&fp=firefox&encryption=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
