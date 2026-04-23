@@ -1,0 +1,1 @@
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539?security=tls&sni=node1.nanonet.host&type=tcp&headerType=none&host=node1.nanonet.host&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
