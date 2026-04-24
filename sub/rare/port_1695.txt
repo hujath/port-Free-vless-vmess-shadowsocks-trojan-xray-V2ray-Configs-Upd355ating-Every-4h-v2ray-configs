@@ -1,2 +1,0 @@
-vless://22ed3ef7-c6c2-4730-aa5d-83bec0a097e3@178.159.94.140:1695?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=2XNPDFPtNzLVuc7xO4aI7SErQZzoOGpSK1nlaDfbvgs&sid=c3607d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20694094
-vless://22ed3ef7-c6c2-4730-aa5d-83bec0a097e3@89.208.229.164:1695?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=2XNPDFPtNzLVuc7xO4aI7SErQZzoOGpSK1nlaDfbvgs&sid=c3607d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20163128
